@@ -1,0 +1,30 @@
+{
+  "generated": "2025-08-05T19:57:00Z",
+  "summary": {
+    "totalSuburbs": 2,
+    "totalProperties": 10,
+    "avgPropertiesPerSuburb": 5,
+    "dataQuality": {
+      "high": 2,
+      "medium": 0,
+      "low": 0
+    },
+    "patterns": {
+      "verified": 4,
+      "estimated": 0,
+      "override": 0
+    }
+  },
+  "topSuburbs": [
+    {
+      "name": "BRISBANE CITY",
+      "properties": 5,
+      "dataQuality": "high"
+    },
+    {
+      "name": "KANGAROO POINT",
+      "properties": 5,
+      "dataQuality": "high"
+    }
+  ]
+}

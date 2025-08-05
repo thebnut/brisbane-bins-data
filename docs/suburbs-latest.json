@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "generated": "2025-08-05T19:57:00Z",
+    "totalSuburbs": 2,
+    "totalProperties": 10,
+    "version": "1.0.0"
+  },
+  "suburbs": {
+    "BRISBANE CITY": {
+      "name": "BRISBANE CITY",
+      "patterns": {
+        "TUESDAY": {
+          "pattern": "Yellow (Recycling)",
+          "count": 5,
+          "percentage": 50,
+          "verified": true
+        },
+        "WEDNESDAY": {
+          "pattern": "Green (Garden)",
+          "count": 5,
+          "percentage": 50,
+          "verified": true
+        }
+      },
+      "statistics": {
+        "totalProperties": 5,
+        "uniquePatterns": 2,
+        "dataQuality": "high",
+        "lastUpdated": "2025-08-05T19:57:00Z"
+      }
+    },
+    "KANGAROO POINT": {
+      "name": "KANGAROO POINT",
+      "patterns": {
+        "MONDAY": {
+          "pattern": "Yellow (Recycling)",
+          "count": 3,
+          "percentage": 60,
+          "verified": true
+        },
+        "THURSDAY": {
+          "pattern": "Green (Garden)",
+          "count": 2,
+          "percentage": 40,
+          "verified": true
+        }
+      },
+      "statistics": {
+        "totalProperties": 5,
+        "uniquePatterns": 2,
+        "dataQuality": "high",
+        "lastUpdated": "2025-08-05T19:57:00Z"
+      }
+    }
+  }
+}
