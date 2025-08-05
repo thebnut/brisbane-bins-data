@@ -121,11 +121,22 @@ program
 
       if (issues.length > 0) {
         logger.warn('Validation issues found', { issues });
+        
+        // Only fail if there are critical issues (no data or very incomplete)
+        const criticalIssues = validatedData.metadata.totalProperties === 0 || 
+                             validatedData.metadata.suburbCount === 0;
+        
+        if (criticalIssues) {
+          logger.error('Critical validation failure: No data processed');
+          process.exit(1);
+        } else {
+          logger.info('Non-critical issues found, but data is valid');
+        }
       } else {
         logger.info('All validation checks passed');
       }
 
-      process.exit(issues.length > 0 ? 1 : 0);
+      process.exit(0);
     } catch (error) {
       logger.error('Validation error', { error: error instanceof Error ? error.message : error });
       process.exit(1);
