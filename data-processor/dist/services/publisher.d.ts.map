@@ -1,0 +1,1 @@
+{"version":3,"file":"publisher.d.ts","sourceRoot":"","sources":["../../src/services/publisher.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,aAAa,EAAqC,MAAM,mBAAmB,CAAC;AAIrF,qBAAa,aAAa;IAClB,OAAO,CAAC,SAAS,EAAE,aAAa,EAAE,EAAE,SAAS,EAAE,MAAM,GAAG,OAAO,CAAC,IAAI,CAAC;YAqD7D,SAAS;IAMvB,OAAO,CAAC,gBAAgB;YAoBV,eAAe;IA+B7B,OAAO,CAAC,kBAAkB;CAgE3B"}

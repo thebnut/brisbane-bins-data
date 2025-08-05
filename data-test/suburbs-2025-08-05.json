@@ -1,0 +1,4019 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "generated": "2025-08-05T09:07:46.619Z",
+    "dataSource": "Brisbane City Council Open Data",
+    "processingTime": 4.092936791,
+    "suburbCount": 85,
+    "totalProperties": 1000
+  },
+  "suburbs": [
+    {
+      "suburb": "ACACIA RIDGE",
+      "stats": {
+        "totalProperties": 1,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 1,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (1 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "ALBION",
+      "stats": {
+        "totalProperties": 1,
+        "lastUpdated": "2025-08-05T09:07:46.606Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 1,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (1 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "ALGESTER",
+      "stats": {
+        "totalProperties": 23,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 23,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 23,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (23 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "ANNERLEY",
+      "stats": {
+        "totalProperties": 2,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 2,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (2 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "ANSTEAD",
+      "stats": {
+        "totalProperties": 21,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 21,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 21,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (21 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "ASHGROVE",
+      "stats": {
+        "totalProperties": 14,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 14,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 14,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (14 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "ASPLEY",
+      "stats": {
+        "totalProperties": 32,
+        "lastUpdated": "2025-08-05T09:07:46.607Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 68.8,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 22,
+            "percentage": 68.8
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 7,
+            "percentage": 21.9
+          },
+          {
+            "day": "MONDAY",
+            "count": 3,
+            "percentage": 9.4
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 32,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (68.8% on FRIDAY)",
+          "Small sample size (32 properties)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "AUCHENFLOWER",
+      "stats": {
+        "totalProperties": 4,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 4,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 4,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (4 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "BALD HILLS",
+      "stats": {
+        "totalProperties": 9,
+        "lastUpdated": "2025-08-05T09:07:46.607Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 9,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 9,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (9 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "BALMORAL",
+      "stats": {
+        "totalProperties": 6,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 6,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 5,
+            "percentage": 83.3
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 1,
+            "percentage": 16.7
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 83.3
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.42,
+        "warnings": [
+          "Multiple zones detected (2 zones)",
+          "Small sample size (6 properties)"
+        ],
+        "flags": [
+          "MIXED_ZONES",
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (83.3%)"
+      }
+    },
+    {
+      "suburb": "BARDON",
+      "stats": {
+        "totalProperties": 16,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 16,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 16,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (16 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "BELLBOWRIE",
+      "stats": {
+        "totalProperties": 14,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 14,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 14,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (14 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "BELMONT",
+      "stats": {
+        "totalProperties": 6,
+        "lastUpdated": "2025-08-05T09:07:46.607Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 6,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 6,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (6 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "BOONDALL",
+      "stats": {
+        "totalProperties": 12,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 12,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 12,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (12 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "BRIGHTON",
+      "stats": {
+        "totalProperties": 16,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 16,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 16,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (16 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "BULIMBA",
+      "stats": {
+        "totalProperties": 10,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 10,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 10,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (10 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "CARINA",
+      "stats": {
+        "totalProperties": 9,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 9,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 9,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (9 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "CARINA HEIGHTS",
+      "stats": {
+        "totalProperties": 35,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 35,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 35,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (35 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "CARSELDINE",
+      "stats": {
+        "totalProperties": 17,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 17,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 17,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (17 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "CHANDLER",
+      "stats": {
+        "totalProperties": 12,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 12,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 8,
+            "percentage": 66.7
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 4,
+            "percentage": 33.3
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 66.7
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.33,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 66.7% in primary)",
+          "Small sample size (12 properties)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY",
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 66.7%, ZONE 1: 33.3%)"
+      }
+    },
+    {
+      "suburb": "CHAPEL HILL",
+      "stats": {
+        "totalProperties": 26,
+        "lastUpdated": "2025-08-05T09:07:46.607Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 26,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 26,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (26 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "CLAYFIELD",
+      "stats": {
+        "totalProperties": 4,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 4,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 4,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (4 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "COOPERS PLAINS",
+      "stats": {
+        "totalProperties": 3,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 3,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (3 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "COORPAROO",
+      "stats": {
+        "totalProperties": 2,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 2,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (2 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "DARRA",
+      "stats": {
+        "totalProperties": 21,
+        "lastUpdated": "2025-08-05T09:07:46.607Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 21,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 21,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (21 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "DURACK",
+      "stats": {
+        "totalProperties": 35,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 35,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 35,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (35 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "DUTTON PARK",
+      "stats": {
+        "totalProperties": 6,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 6,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 6,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (6 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "EIGHT MILE PLAINS",
+      "stats": {
+        "totalProperties": 4,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 4,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 4,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (4 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "EVERTON PARK",
+      "stats": {
+        "totalProperties": 17,
+        "lastUpdated": "2025-08-05T09:07:46.607Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 52.9,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 9,
+            "percentage": 52.9
+          },
+          {
+            "day": "MONDAY",
+            "count": 8,
+            "percentage": 47.1
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 17,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (52.9% on THURSDAY)",
+          "Small sample size (17 properties)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "FAIRFIELD",
+      "stats": {
+        "totalProperties": 1,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 1,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (1 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "FERNY GROVE",
+      "stats": {
+        "totalProperties": 5,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 5,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 5,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (5 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "GEEBUNG",
+      "stats": {
+        "totalProperties": 28,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 28,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 28,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (28 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "GORDON PARK",
+      "stats": {
+        "totalProperties": 5,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 5,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 5,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (5 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "GRACEVILLE",
+      "stats": {
+        "totalProperties": 22,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 22,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 16,
+            "percentage": 72.7
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 6,
+            "percentage": 27.3
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 72.7
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.36,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 72.7% in primary)",
+          "Small sample size (22 properties)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY",
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 72.7%, ZONE 1: 27.3%)"
+      }
+    },
+    {
+      "suburb": "GREENSLOPES",
+      "stats": {
+        "totalProperties": 3,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 3,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (3 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "GUMDALE",
+      "stats": {
+        "totalProperties": 2,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 2,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (2 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "INALA",
+      "stats": {
+        "totalProperties": 10,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 10,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 10,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (10 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "INDOOROOPILLY",
+      "stats": {
+        "totalProperties": 7,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 7,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 7,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (7 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "JAMBOREE HEIGHTS",
+      "stats": {
+        "totalProperties": 19,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 19,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 19,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (19 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "JINDALEE",
+      "stats": {
+        "totalProperties": 13,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 13,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 13,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (13 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "KALINGA",
+      "stats": {
+        "totalProperties": 1,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 1,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (1 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "KANGAROO POINT",
+      "stats": {
+        "totalProperties": 2,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 2,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (2 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "KEDRON",
+      "stats": {
+        "totalProperties": 11,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 54.5,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 6,
+            "percentage": 54.5
+          },
+          {
+            "day": "THURSDAY",
+            "count": 5,
+            "percentage": 45.5
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 6,
+            "percentage": 54.5
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 5,
+            "percentage": 45.5
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 54.5
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.27,
+        "warnings": [
+          "Multiple collection days detected (54.5% on WEDNESDAY)",
+          "Mixed zones with low uniformity (2 zones, 54.5% in primary)",
+          "Small sample size (11 properties)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY",
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 54.5%, ZONE 1: 45.5%)"
+      }
+    },
+    {
+      "suburb": "KENMORE",
+      "stats": {
+        "totalProperties": 14,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 14,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 14,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (14 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "KURABY",
+      "stats": {
+        "totalProperties": 1,
+        "lastUpdated": "2025-08-05T09:07:46.607Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 1,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (1 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "MACGREGOR",
+      "stats": {
+        "totalProperties": 12,
+        "lastUpdated": "2025-08-05T09:07:46.607Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 12,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 12,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (12 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "MANLY WEST",
+      "stats": {
+        "totalProperties": 21,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 21,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 21,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (21 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "MANSFIELD",
+      "stats": {
+        "totalProperties": 5,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 5,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 5,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (5 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "MIDDLE PARK",
+      "stats": {
+        "totalProperties": 11,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 11,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 11,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (11 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "MITCHELTON",
+      "stats": {
+        "totalProperties": 6,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 6,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 6,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (6 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "MOGGILL",
+      "stats": {
+        "totalProperties": 3,
+        "lastUpdated": "2025-08-05T09:07:46.607Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 3,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (3 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "MOOROOKA",
+      "stats": {
+        "totalProperties": 15,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 15,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 15,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (15 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "MORNINGSIDE",
+      "stats": {
+        "totalProperties": 17,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 17,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 11,
+            "percentage": 64.7
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 6,
+            "percentage": 35.3
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 64.7
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.32,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 64.7% in primary)",
+          "Small sample size (17 properties)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY",
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "override",
+        "confidence": 1,
+        "pattern": "B",
+        "notes": "Verified against council website - Recycling on even weeks"
+      }
+    },
+    {
+      "suburb": "MOUNT GRAVATT",
+      "stats": {
+        "totalProperties": 19,
+        "lastUpdated": "2025-08-05T09:07:46.607Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 19,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 19,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (19 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "MOUNT GRAVATT EAST",
+      "stats": {
+        "totalProperties": 2,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 2,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (2 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "MOUNT OMMANEY",
+      "stats": {
+        "totalProperties": 2,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 2,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (2 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "NEWMARKET",
+      "stats": {
+        "totalProperties": 8,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 8,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 8,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (8 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "NORMAN PARK",
+      "stats": {
+        "totalProperties": 11,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 11,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 11,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (11 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "NUNDAH",
+      "stats": {
+        "totalProperties": 1,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 1,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (1 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "OXLEY",
+      "stats": {
+        "totalProperties": 26,
+        "lastUpdated": "2025-08-05T09:07:46.607Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 26,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 26,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (26 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "PINKENBA",
+      "stats": {
+        "totalProperties": 3,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 3,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (3 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "RED HILL",
+      "stats": {
+        "totalProperties": 13,
+        "lastUpdated": "2025-08-05T09:07:46.606Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 13,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 10,
+            "percentage": 76.9
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 3,
+            "percentage": 23.1
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 76.9
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.38,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 76.9% in primary)",
+          "Small sample size (13 properties)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY",
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 76.9%, ZONE 1: 23.1%)"
+      }
+    },
+    {
+      "suburb": "RIVERHILLS",
+      "stats": {
+        "totalProperties": 63,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 63,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 63,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "ROCKLEA",
+      "stats": {
+        "totalProperties": 6,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 6,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 6,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (6 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "SEVENTEEN MILE ROCKS",
+      "stats": {
+        "totalProperties": 1,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 1,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 1,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (1 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "SHORNCLIFFE",
+      "stats": {
+        "totalProperties": 14,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 14,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 14,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (14 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "SPRING HILL",
+      "stats": {
+        "totalProperties": 2,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 2,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (2 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "STAFFORD",
+      "stats": {
+        "totalProperties": 9,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 9,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 9,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (9 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "SUMNER",
+      "stats": {
+        "totalProperties": 1,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 1,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 1,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (1 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "SUNNYBANK",
+      "stats": {
+        "totalProperties": 11,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 11,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 11,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (11 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "TARINGA",
+      "stats": {
+        "totalProperties": 12,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 12,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 12,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (12 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "TARRAGINDI",
+      "stats": {
+        "totalProperties": 21,
+        "lastUpdated": "2025-08-05T09:07:46.607Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 61.9,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 13,
+            "percentage": 61.9
+          },
+          {
+            "day": "THURSDAY",
+            "count": 8,
+            "percentage": 38.1
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 21,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (61.9% on FRIDAY)",
+          "Small sample size (21 properties)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "TINGALPA",
+      "stats": {
+        "totalProperties": 20,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 20,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 20,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (20 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "TOOWONG",
+      "stats": {
+        "totalProperties": 4,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 4,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 4,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (4 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "UPPER MOUNT GRAVATT",
+      "stats": {
+        "totalProperties": 25,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 25,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 25,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (25 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "WACOL",
+      "stats": {
+        "totalProperties": 6,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 6,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 6,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (6 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "WAKERLEY",
+      "stats": {
+        "totalProperties": 4,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 4,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 4,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (4 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "WAVELL HEIGHTS",
+      "stats": {
+        "totalProperties": 24,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 24,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 18,
+            "percentage": 75
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 6,
+            "percentage": 25
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 75
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.38,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 75% in primary)",
+          "Small sample size (24 properties)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY",
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 75%, ZONE 1: 25%)"
+      }
+    },
+    {
+      "suburb": "WESTLAKE",
+      "stats": {
+        "totalProperties": 4,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 4,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 4,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (4 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "WINDSOR",
+      "stats": {
+        "totalProperties": 8,
+        "lastUpdated": "2025-08-05T09:07:46.606Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 75,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 6,
+            "percentage": 75
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 2,
+            "percentage": 25
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 6,
+            "percentage": 75
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 2,
+            "percentage": 25
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 75
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.38,
+        "warnings": [
+          "Multiple collection days detected (75% on TUESDAY)",
+          "Mixed zones with low uniformity (2 zones, 75% in primary)",
+          "Small sample size (8 properties)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY",
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 75%, ZONE 2: 25%)"
+      }
+    },
+    {
+      "suburb": "WISHART",
+      "stats": {
+        "totalProperties": 3,
+        "lastUpdated": "2025-08-05T09:07:46.608Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 3,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (3 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "WOOLOOWIN",
+      "stats": {
+        "totalProperties": 6,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 6,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 6,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (6 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "WYNNUM",
+      "stats": {
+        "totalProperties": 52,
+        "lastUpdated": "2025-08-05T09:07:46.607Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 52,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 49,
+            "percentage": 94.2
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 3,
+            "percentage": 5.8
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 94.2
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.71,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (94.2%)"
+      }
+    },
+    {
+      "suburb": "WYNNUM WEST",
+      "stats": {
+        "totalProperties": 5,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 5,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 5,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (5 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "ZILLMERE",
+      "stats": {
+        "totalProperties": 2,
+        "lastUpdated": "2025-08-05T09:07:46.609Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 2,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Small sample size (2 properties)"
+        ],
+        "flags": [
+          "SMALL_SAMPLE"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "generated": "2025-08-05T09:07:46.622Z",
+  "summary": {
+    "totalSuburbs": 85,
+    "totalProperties": 1000,
+    "averagePropertiesPerSuburb": 12,
+    "dataQuality": {
+      "high": 0,
+      "medium": 2,
+      "low": 83
+    },
+    "patterns": {
+      "override": 1,
+      "estimated": 84,
+      "none": 0
+    }
+  },
+  "collectionDays": {
+    "WEDNESDAY": 23,
+    "THURSDAY": 13,
+    "TUESDAY": 19,
+    "MONDAY": 15,
+    "FRIDAY": 15
+  },
+  "zones": {
+    "ZONE 2": 543,
+    "ZONE 1": 457
+  },
+  "warnings": [
+    "ACACIA RIDGE: Small sample size (1 properties)",
+    "ALBION: Small sample size (1 properties)",
+    "ALGESTER: Small sample size (23 properties)",
+    "ANNERLEY: Small sample size (2 properties)",
+    "ANSTEAD: Small sample size (21 properties)",
+    "ASHGROVE: Small sample size (14 properties)",
+    "ASPLEY: Multiple collection days detected (68.8% on FRIDAY), Small sample size (32 properties)",
+    "AUCHENFLOWER: Small sample size (4 properties)",
+    "BALD HILLS: Small sample size (9 properties)",
+    "BALMORAL: Multiple zones detected (2 zones), Small sample size (6 properties)"
+  ]
+}
