@@ -1,0 +1,1037 @@
+{
+  "generated": "2025-08-05T11:50:20.627Z",
+  "suburbs": {
+    "ACACIA RIDGE": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 77.3,
+      "zone": "ZONE 2",
+      "zoneUniformity": 77.3,
+      "confidence": 0.39,
+      "pattern": "MIXED"
+    },
+    "ALBION": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 84,
+      "zone": "ZONE 2",
+      "zoneUniformity": 64.2,
+      "confidence": 0.32,
+      "pattern": "MIXED"
+    },
+    "ALDERLEY": {
+      "day": "MONDAY",
+      "dayUniformity": 52.4,
+      "zone": "ZONE 1",
+      "zoneUniformity": 52.4,
+      "confidence": 0.26,
+      "pattern": "MIXED"
+    },
+    "ALGESTER": {
+      "day": "THURSDAY",
+      "dayUniformity": 99.6,
+      "zone": "ZONE 2",
+      "zoneUniformity": 99.7,
+      "confidence": 0.75,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "ANNERLEY": {
+      "day": "THURSDAY",
+      "dayUniformity": 56.2,
+      "zone": "ZONE 1",
+      "zoneUniformity": 71.2,
+      "confidence": 0.36,
+      "pattern": "MIXED"
+    },
+    "ASCOT": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 90.9,
+      "confidence": 0.68,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "ASHGROVE": {
+      "day": "TUESDAY",
+      "dayUniformity": 57.9,
+      "zone": "ZONE 2",
+      "zoneUniformity": 61.5,
+      "confidence": 0.31,
+      "pattern": "MIXED"
+    },
+    "ASPLEY": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 52.1,
+      "zone": "ZONE 2",
+      "zoneUniformity": 90.2,
+      "confidence": 0.45,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "AUCHENFLOWER": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "BALD HILLS": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 99.6,
+      "confidence": 0.75,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "BALMORAL": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 99.7,
+      "confidence": 0.75,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "BANYO": {
+      "day": "THURSDAY",
+      "dayUniformity": 99.8,
+      "zone": "ZONE 2",
+      "zoneUniformity": 55.4,
+      "confidence": 0.42,
+      "pattern": "MIXED"
+    },
+    "BARDON": {
+      "day": "TUESDAY",
+      "dayUniformity": 86.6,
+      "zone": "ZONE 2",
+      "zoneUniformity": 82.9,
+      "confidence": 0.41,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "BELLBOWRIE": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "BELMONT": {
+      "day": "TUESDAY",
+      "dayUniformity": 74.6,
+      "zone": "ZONE 2",
+      "zoneUniformity": 74.6,
+      "confidence": 0.37,
+      "pattern": "MIXED"
+    },
+    "BOONDALL": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 98.8,
+      "zone": "ZONE 1",
+      "zoneUniformity": 99.9,
+      "confidence": 0.75,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "BOWEN HILLS": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 69,
+      "confidence": 0.52,
+      "pattern": "MIXED"
+    },
+    "BRACKEN RIDGE": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 53.3,
+      "confidence": 0.4,
+      "pattern": "MIXED"
+    },
+    "BRIDGEMAN DOWNS": {
+      "day": "FRIDAY",
+      "dayUniformity": 99.2,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "BRIGHTON": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "BULIMBA": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 94,
+      "confidence": 0.71,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "CALAMVALE": {
+      "day": "THURSDAY",
+      "dayUniformity": 99.1,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "CAMP HILL": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 55.7,
+      "zone": "ZONE 2",
+      "zoneUniformity": 61.9,
+      "confidence": 0.31,
+      "pattern": "MIXED"
+    },
+    "CANNON HILL": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "CARINA": {
+      "day": "TUESDAY",
+      "dayUniformity": 98.3,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.75,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "CARINA HEIGHTS": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "CARINDALE": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 78.5,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.5,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "CARSELDINE": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "CHAPEL HILL": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "CHERMSIDE": {
+      "day": "THURSDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 99.7,
+      "confidence": 0.75,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "CHERMSIDE WEST": {
+      "day": "TUESDAY",
+      "dayUniformity": 55.5,
+      "zone": "ZONE 1",
+      "zoneUniformity": 77.6,
+      "confidence": 0.39,
+      "pattern": "MIXED"
+    },
+    "CLAYFIELD": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 96.6,
+      "confidence": 0.72,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "COOPERS PLAINS": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 81.6,
+      "confidence": 0.61,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "COORPAROO": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 78.2,
+      "zone": "ZONE 1",
+      "zoneUniformity": 75.3,
+      "confidence": 0.38,
+      "pattern": "MIXED"
+    },
+    "CORINDA": {
+      "day": "TUESDAY",
+      "dayUniformity": 97.7,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.75,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "DARRA": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 89.8,
+      "confidence": 0.67,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "DEAGON": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "DOOLANDELLA": {
+      "day": "TUESDAY",
+      "dayUniformity": 73.5,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.5,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "DURACK": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 87.5,
+      "zone": "ZONE 2",
+      "zoneUniformity": 87.5,
+      "confidence": 0.44,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "EAST BRISBANE": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "EIGHT MILE PLAINS": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "ENOGGERA": {
+      "day": "MONDAY",
+      "dayUniformity": 74.1,
+      "zone": "ZONE 1",
+      "zoneUniformity": 58.9,
+      "confidence": 0.29,
+      "pattern": "MIXED"
+    },
+    "EVERTON PARK": {
+      "day": "MONDAY",
+      "dayUniformity": 64.9,
+      "zone": "ZONE 1",
+      "zoneUniformity": 99.1,
+      "confidence": 0.5,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "FERNY GROVE": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "FITZGIBBON": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 99.5,
+      "confidence": 0.75,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "FOREST LAKE": {
+      "day": "THURSDAY",
+      "dayUniformity": 92.1,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.5,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "FORTITUDE VALLEY": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 58.8,
+      "confidence": 0.44,
+      "pattern": "MIXED"
+    },
+    "GEEBUNG": {
+      "day": "THURSDAY",
+      "dayUniformity": 87.7,
+      "zone": "ZONE 1",
+      "zoneUniformity": 87.7,
+      "confidence": 0.44,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "GORDON PARK": {
+      "day": "THURSDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "GRACEVILLE": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 67.2,
+      "confidence": 0.5,
+      "pattern": "MIXED"
+    },
+    "GRANGE": {
+      "day": "THURSDAY",
+      "dayUniformity": 80.6,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.5,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "GREENSLOPES": {
+      "day": "THURSDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 80.1,
+      "confidence": 0.6,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "HAMILTON": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "HAWTHORNE": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "HEATHWOOD": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "HEMMANT": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "HENDRA": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 56.1,
+      "confidence": 0.42,
+      "pattern": "MIXED"
+    },
+    "HIGHGATE HILL": {
+      "day": "THURSDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "HOLLAND PARK": {
+      "day": "THURSDAY",
+      "dayUniformity": 76.7,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.5,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "HOLLAND PARK WEST": {
+      "day": "THURSDAY",
+      "dayUniformity": 99.9,
+      "zone": "ZONE 2",
+      "zoneUniformity": 99.9,
+      "confidence": 0.75,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "INALA": {
+      "day": "THURSDAY",
+      "dayUniformity": 59.5,
+      "zone": "ZONE 1",
+      "zoneUniformity": 59.5,
+      "confidence": 0.3,
+      "pattern": "MIXED"
+    },
+    "INDOOROOPILLY": {
+      "day": "TUESDAY",
+      "dayUniformity": 57.6,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.5,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "JINDALEE": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "KANGAROO POINT": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.75,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "KEDRON": {
+      "day": "THURSDAY",
+      "dayUniformity": 79.7,
+      "zone": "ZONE 2",
+      "zoneUniformity": 69.7,
+      "confidence": 0.35,
+      "pattern": "MIXED"
+    },
+    "KELVIN GROVE": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.75,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "KENMORE": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 64.3,
+      "confidence": 0.48,
+      "pattern": "MIXED"
+    },
+    "KEPERRA": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "KURABY": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "LUTWYCHE": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 59.6,
+      "zone": "ZONE 2",
+      "zoneUniformity": 98.3,
+      "confidence": 0.49,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "MACGREGOR": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 99.6,
+      "confidence": 0.75,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "MANLY": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "MANLY WEST": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "MANSFIELD": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 62.7,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.5,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "MCDOWALL": {
+      "day": "MONDAY",
+      "dayUniformity": 82.3,
+      "zone": "ZONE 2",
+      "zoneUniformity": 75.8,
+      "confidence": 0.38,
+      "pattern": "MIXED"
+    },
+    "MILTON": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "MITCHELTON": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 99.8,
+      "confidence": 0.75,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "MOGGILL": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "MOOROOKA": {
+      "day": "FRIDAY",
+      "dayUniformity": 97.9,
+      "zone": "ZONE 1",
+      "zoneUniformity": 97.9,
+      "confidence": 0.73,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "MORNINGSIDE": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 72.5,
+      "confidence": 0.54,
+      "pattern": "B"
+    },
+    "MOUNT GRAVATT EAST": {
+      "day": "THURSDAY",
+      "dayUniformity": 63,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.5,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "MURARRIE": {
+      "day": "TUESDAY",
+      "dayUniformity": 91.8,
+      "zone": "ZONE 2",
+      "zoneUniformity": 91.8,
+      "confidence": 0.46,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "NEW FARM": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "NEWMARKET": {
+      "day": "TUESDAY",
+      "dayUniformity": 89,
+      "zone": "ZONE 2",
+      "zoneUniformity": 89.4,
+      "confidence": 0.45,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "NEWSTEAD": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "NORMAN PARK": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 98,
+      "confidence": 0.74,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "NORTHGATE": {
+      "day": "THURSDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 98,
+      "confidence": 0.74,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "NUDGEE": {
+      "day": "THURSDAY",
+      "dayUniformity": 99.9,
+      "zone": "ZONE 1",
+      "zoneUniformity": 62.4,
+      "confidence": 0.47,
+      "pattern": "MIXED"
+    },
+    "NUNDAH": {
+      "day": "THURSDAY",
+      "dayUniformity": 63.4,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.5,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "OXLEY": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 99.9,
+      "zone": "ZONE 2",
+      "zoneUniformity": 97,
+      "confidence": 0.73,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "PADDINGTON": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 63.5,
+      "confidence": 0.48,
+      "pattern": "MIXED"
+    },
+    "PALLARA": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "PARKINSON": {
+      "day": "FRIDAY",
+      "dayUniformity": 77.2,
+      "zone": "ZONE 2",
+      "zoneUniformity": 99.7,
+      "confidence": 0.5,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "RED HILL": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 62.4,
+      "confidence": 0.47,
+      "pattern": "MIXED"
+    },
+    "RICHLANDS": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 66.5,
+      "zone": "ZONE 2",
+      "zoneUniformity": 66.5,
+      "confidence": 0.33,
+      "pattern": "MIXED"
+    },
+    "ROCHEDALE": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "RUNCORN": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 73,
+      "confidence": 0.55,
+      "pattern": "MIXED"
+    },
+    "SALISBURY": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 78.1,
+      "confidence": 0.59,
+      "pattern": "MIXED"
+    },
+    "SANDGATE": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "SHERWOOD": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 99.9,
+      "confidence": 0.75,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "SINNAMON PARK": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "SOUTH BRISBANE": {
+      "day": "THURSDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "SPRING HILL": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.75,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "ST LUCIA": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "STAFFORD": {
+      "day": "THURSDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 65.9,
+      "confidence": 0.49,
+      "pattern": "MIXED"
+    },
+    "STAFFORD HEIGHTS": {
+      "day": "THURSDAY",
+      "dayUniformity": 80.2,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.5,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "STRETTON": {
+      "day": "THURSDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "SUNNYBANK": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.75,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "SUNNYBANK HILLS": {
+      "day": "FRIDAY",
+      "dayUniformity": 63.1,
+      "zone": "ZONE 1",
+      "zoneUniformity": 62.7,
+      "confidence": 0.31,
+      "pattern": "MIXED"
+    },
+    "TAIGUM": {
+      "day": "FRIDAY",
+      "dayUniformity": 64.8,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.5,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "TARINGA": {
+      "day": "TUESDAY",
+      "dayUniformity": 97.6,
+      "zone": "ZONE 1",
+      "zoneUniformity": 80.4,
+      "confidence": 0.6,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "TARRAGINDI": {
+      "day": "FRIDAY",
+      "dayUniformity": 73.3,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.5,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "TENERIFFE": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "THE GAP": {
+      "day": "MONDAY",
+      "dayUniformity": 99.7,
+      "zone": "ZONE 1",
+      "zoneUniformity": 71.3,
+      "confidence": 0.53,
+      "pattern": "MIXED"
+    },
+    "TINGALPA": {
+      "day": "MONDAY",
+      "dayUniformity": 92.2,
+      "zone": "ZONE 1",
+      "zoneUniformity": 92.2,
+      "confidence": 0.46,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "TOOWONG": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 79.2,
+      "confidence": 0.59,
+      "pattern": "MIXED"
+    },
+    "UPPER KEDRON": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.75,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "UPPER MOUNT GRAVATT": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "WAKERLEY": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 98.5,
+      "confidence": 0.74,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "WAVELL HEIGHTS": {
+      "day": "THURSDAY",
+      "dayUniformity": 90.4,
+      "zone": "ZONE 2",
+      "zoneUniformity": 61.4,
+      "confidence": 0.31,
+      "pattern": "MIXED"
+    },
+    "WEST END": {
+      "day": "THURSDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "A"
+    },
+    "WINDSOR": {
+      "day": "TUESDAY",
+      "dayUniformity": 59.9,
+      "zone": "ZONE 1",
+      "zoneUniformity": 59.9,
+      "confidence": 0.3,
+      "pattern": "MIXED"
+    },
+    "WISHART": {
+      "day": "FRIDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "WOOLLOONGABBA": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 58.7,
+      "zone": "ZONE 1",
+      "zoneUniformity": 99.9,
+      "confidence": 0.5,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "WOOLOOWIN": {
+      "day": "WEDNESDAY",
+      "dayUniformity": 91,
+      "zone": "ZONE 2",
+      "zoneUniformity": 91,
+      "confidence": 0.46,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "WYNNUM": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 86.5,
+      "confidence": 0.65,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "WYNNUM WEST": {
+      "day": "MONDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 1",
+      "zoneUniformity": 99.7,
+      "confidence": 0.75,
+      "pattern": "ZONE_1_DEFAULT"
+    },
+    "YERONGA": {
+      "day": "TUESDAY",
+      "dayUniformity": 100,
+      "zone": "ZONE 2",
+      "zoneUniformity": 100,
+      "confidence": 0.95,
+      "pattern": "ZONE_2_DEFAULT"
+    },
+    "ZILLMERE": {
+      "day": "FRIDAY",
+      "dayUniformity": 76.5,
+      "zone": "ZONE 2",
+      "zoneUniformity": 76.5,
+      "confidence": 0.38,
+      "pattern": "MIXED"
+    }
+  }
+}

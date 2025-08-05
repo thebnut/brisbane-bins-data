@@ -1,30 +1,41 @@
 {
-  "generated": "2025-08-05T19:57:00Z",
+  "generated": "2025-08-05T11:50:20.628Z",
   "summary": {
-    "totalSuburbs": 2,
-    "totalProperties": 10,
-    "avgPropertiesPerSuburb": 5,
+    "totalSuburbs": 129,
+    "totalProperties": 493088,
+    "averagePropertiesPerSuburb": 3822,
     "dataQuality": {
-      "high": 2,
-      "medium": 0,
-      "low": 0
+      "high": 40,
+      "medium": 47,
+      "low": 42
     },
     "patterns": {
-      "verified": 4,
-      "estimated": 0,
-      "override": 0
+      "override": 2,
+      "estimated": 127,
+      "none": 0
     }
   },
-  "topSuburbs": [
-    {
-      "name": "BRISBANE CITY",
-      "properties": 5,
-      "dataQuality": "high"
-    },
-    {
-      "name": "KANGAROO POINT",
-      "properties": 5,
-      "dataQuality": "high"
-    }
+  "collectionDays": {
+    "WEDNESDAY": 30,
+    "MONDAY": 20,
+    "THURSDAY": 25,
+    "TUESDAY": 30,
+    "FRIDAY": 24
+  },
+  "zones": {
+    "ZONE 2": 236744,
+    "ZONE 1": 256344
+  },
+  "warnings": [
+    "ACACIA RIDGE: Multiple collection days detected (77.3% on WEDNESDAY), Mixed zones with low uniformity (2 zones, 77.3% in primary)",
+    "ALBION: Multiple collection days detected (84% on WEDNESDAY), Mixed zones with low uniformity (2 zones, 64.2% in primary)",
+    "ALDERLEY: Multiple collection days detected (52.4% on MONDAY), Mixed zones with low uniformity (2 zones, 52.4% in primary)",
+    "ALGESTER: Multiple zones detected (2 zones)",
+    "ANNERLEY: Multiple collection days detected (56.2% on THURSDAY), Mixed zones with low uniformity (2 zones, 71.2% in primary)",
+    "ASCOT: Multiple zones detected (2 zones)",
+    "ASHGROVE: Multiple collection days detected (57.9% on TUESDAY), Mixed zones with low uniformity (2 zones, 61.5% in primary)",
+    "ASPLEY: Multiple collection days detected (52.1% on WEDNESDAY), Multiple zones detected (2 zones)",
+    "BALD HILLS: Multiple zones detected (2 zones)",
+    "BALMORAL: Multiple zones detected (2 zones)"
   ]
 }
