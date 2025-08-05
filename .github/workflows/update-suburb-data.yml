@@ -20,7 +20,7 @@ jobs:
   process-data:
     name: Process Suburb Data
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 120  # Increased to 2 hours for suburb-by-suburb fetching
     permissions:
       contents: write
       pages: write
@@ -63,9 +63,10 @@ jobs:
             --output=../docs \
             ${{ github.event.inputs.debug_mode == 'true' && '--debug' || '' }}
         env:
-          API_TIMEOUT: '30000'
+          API_TIMEOUT: '60000'  # Increased timeout for large suburb fetches
           MAX_RETRIES: '3'
           LOG_LEVEL: ${{ github.event.inputs.debug_mode == 'true' && 'debug' || 'info' }}
+          NODE_OPTIONS: '--max-old-space-size=4096'  # Increase memory for large datasets
 
       - name: Validate output
         working-directory: ./data-processor

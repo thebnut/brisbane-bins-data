@@ -7,8 +7,8 @@ export const API_CONFIG = {
   BATCH_SIZE: 100,
   MAX_RETRIES: 3,
   RETRY_DELAY: 1000,
-  REQUEST_TIMEOUT: 30000,
-  RATE_LIMIT_DELAY: 100
+  REQUEST_TIMEOUT: parseInt(process.env.API_TIMEOUT || '60000', 10),
+  RATE_LIMIT_DELAY: 200  // Increased to be more conservative with API
 };
 
 export const DATA_QUALITY_THRESHOLDS = {
