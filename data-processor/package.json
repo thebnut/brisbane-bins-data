@@ -2,7 +2,6 @@
   "name": "brisbane-bins-data-processor",
   "version": "1.0.0",
   "description": "Data processor for Brisbane City Council waste collection data",
-  "type": "module",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
