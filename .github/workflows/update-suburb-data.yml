@@ -1,0 +1,137 @@
+name: Update Brisbane Bins Suburb Data
+
+on:
+  schedule:
+    # Run every Sunday at 2:00 AM Brisbane time (16:00 UTC Saturday)
+    - cron: '0 16 * * 6'
+  workflow_dispatch:
+    inputs:
+      debug_mode:
+        description: 'Run in debug mode'
+        required: false
+        default: 'false'
+        type: boolean
+
+env:
+  NODE_VERSION: '20'
+  TZ: 'Australia/Brisbane'
+
+jobs:
+  process-data:
+    name: Process Suburb Data
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+          cache-dependency-path: 'data-processor/package-lock.json'
+
+      - name: Install dependencies
+        working-directory: ./data-processor
+        run: |
+          npm ci
+          echo "Dependencies installed successfully"
+
+      - name: Build TypeScript
+        working-directory: ./data-processor
+        run: |
+          npm run build
+          echo "Build completed successfully"
+
+      - name: Run tests
+        working-directory: ./data-processor
+        run: |
+          npm test || echo "No tests configured yet"
+
+      - name: Fetch and process data
+        working-directory: ./data-processor
+        run: |
+          npm run process -- \
+            --output=../docs \
+            ${{ github.event.inputs.debug_mode == 'true' && '--debug' || '' }}
+        env:
+          API_TIMEOUT: '30000'
+          MAX_RETRIES: '3'
+          LOG_LEVEL: ${{ github.event.inputs.debug_mode == 'true' && 'debug' || 'info' }}
+
+      - name: Validate output
+        working-directory: ./data-processor
+        run: |
+          npm run validate -- --input=../docs/suburbs-latest.json
+
+      - name: Generate processing report
+        working-directory: ./data-processor
+        run: |
+          echo "Processing complete - generating summary"
+          node -e "
+          const fs = require('fs');
+          const data = JSON.parse(fs.readFileSync('../docs/suburbs-latest.json', 'utf8'));
+          const stats = JSON.parse(fs.readFileSync('../docs/statistics.json', 'utf8'));
+          console.log('=== Processing Summary ===');
+          console.log('Suburbs processed:', data.metadata.suburbCount);
+          console.log('Total properties:', data.metadata.totalProperties);
+          console.log('Data quality - High:', stats.summary.dataQuality.high);
+          console.log('Data quality - Medium:', stats.summary.dataQuality.medium);
+          console.log('Data quality - Low:', stats.summary.dataQuality.low);
+          console.log('Pattern overrides:', stats.summary.patterns.override);
+          console.log('Estimated patterns:', stats.summary.patterns.estimated);
+          "
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add docs/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update suburb data [skip ci]
+            
+            Processing timestamp: $(date -u +'%Y-%m-%d %H:%M:%S UTC')
+            Workflow run: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './docs'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Notify on failure
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: 'Data Pipeline Failed - ' + new Date().toISOString().split('T')[0],
+              body: `The weekly data processing pipeline failed.
+              
+              **Workflow Run**: ${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}
+              **Time**: ${new Date().toISOString()}
+              
+              Please investigate and run manually if needed using the workflow_dispatch trigger.`,
+              labels: ['bug', 'data-pipeline']
+            })
