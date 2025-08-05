@@ -74,19 +74,50 @@ export class BrisbaneCityAPI {
     );
   }
 
-  async fetchAllCollectionDays(): Promise<PropertyCollection[]> {
+  async fetchSuburbList(): Promise<Array<{name: string, count: number}>> {
+    const dataset = API_CONFIG.DATASETS.COLLECTION_DAYS;
+    
+    try {
+      logger.info('Fetching list of suburbs from API');
+      
+      const response = await this.client.get(`/catalog/datasets/${dataset}/facets`, {
+        params: {
+          facet: 'suburb',
+          limit: 1000, // Should be enough for all Brisbane suburbs
+          timezone: 'Australia/Brisbane'
+        }
+      });
+
+      const facets = response.data.facets.find((f: any) => f.name === 'suburb');
+      if (!facets) {
+        throw new Error('Suburb facet not found in API response');
+      }
+
+      const suburbs = facets.facets.map((item: any) => ({
+        name: item.name,
+        count: item.count
+      })).sort((a: any, b: any) => b.count - a.count); // Sort by count descending
+
+      logger.info(`Found ${suburbs.length} suburbs with ${suburbs.reduce((sum: number, s: any) => sum + s.count, 0)} total properties`);
+      
+      return suburbs;
+    } catch (error) {
+      logger.error('Failed to fetch suburb list', { error });
+      throw error;
+    }
+  }
+
+  async fetchSuburbData(suburb: string): Promise<PropertyCollection[]> {
     const dataset = API_CONFIG.DATASETS.COLLECTION_DAYS;
     const results: PropertyCollection[] = [];
     let offset = 0;
     let totalCount = 0;
-    const startTime = Date.now();
-
-    logger.info('Starting to fetch collection days data');
 
     do {
       try {
         const response = await this.client.get(`/catalog/datasets/${dataset}/records`, {
           params: {
+            where: `suburb="${suburb}"`,
             limit: API_CONFIG.BATCH_SIZE,
             offset,
             timezone: 'Australia/Brisbane'
@@ -96,28 +127,151 @@ export class BrisbaneCityAPI {
         const data = response.data;
         totalCount = data.total_count;
         
-        // Map API response to our type
         const batch = data.results.map((record: any) => this.mapToPropertyCollection(record));
         results.push(...batch);
         
         offset += API_CONFIG.BATCH_SIZE;
 
-        logger.info(`Fetched ${results.length}/${totalCount} records (${Math.round(results.length / totalCount * 100)}%)`);
-
-        // Rate limiting - pause between requests
         if (offset < totalCount) {
           await delay(API_CONFIG.RATE_LIMIT_DELAY);
         }
       } catch (error) {
-        logger.error(`Failed to fetch batch at offset ${offset}`, { error });
-        throw new Error(`API fetch failed at offset ${offset}: ${error}`);
+        logger.error(`Failed to fetch data for suburb ${suburb} at offset ${offset}`, { error });
+        
+        // If we hit the offset limit, try street-based approach
+        if (offset >= 10000 && (error as any).response?.status === 400) {
+          logger.warn(`Suburb ${suburb} has more than 10,000 records, switching to street-based fetching`);
+          return await this.fetchLargeSuburbByStreets(suburb);
+        }
+        
+        throw error;
       }
     } while (offset < totalCount);
 
-    const duration = (Date.now() - startTime) / 1000;
-    logger.info(`Completed fetching ${results.length} records in ${duration.toFixed(1)}s`);
+    return results;
+  }
+
+  async fetchLargeSuburbByStreets(suburb: string): Promise<PropertyCollection[]> {
+    const dataset = API_CONFIG.DATASETS.COLLECTION_DAYS;
+    const results: PropertyCollection[] = [];
+    
+    try {
+      // First get list of streets in this suburb
+      const streetResponse = await this.client.get(`/catalog/datasets/${dataset}/facets`, {
+        params: {
+          facet: 'street_name',
+          where: `suburb="${suburb}"`,
+          limit: 1000,
+          timezone: 'Australia/Brisbane'
+        }
+      });
+
+      const streetFacet = streetResponse.data.facets.find((f: any) => f.name === 'street_name');
+      if (!streetFacet) {
+        throw new Error(`Street facet not found for suburb ${suburb}`);
+      }
+
+      const streets = streetFacet.facets.map((item: any) => item.name);
+      logger.info(`Fetching ${suburb} by streets: ${streets.length} streets found`);
+
+      // Fetch data for each street
+      for (const street of streets) {
+        const streetData = await this.fetchStreetData(suburb, street);
+        results.push(...streetData);
+        await delay(API_CONFIG.RATE_LIMIT_DELAY);
+      }
+
+      return results;
+    } catch (error) {
+      logger.error(`Failed to fetch large suburb ${suburb} by streets`, { error });
+      throw error;
+    }
+  }
+
+  async fetchStreetData(suburb: string, street: string): Promise<PropertyCollection[]> {
+    const dataset = API_CONFIG.DATASETS.COLLECTION_DAYS;
+    const results: PropertyCollection[] = [];
+    let offset = 0;
+    let totalCount = 0;
+
+    do {
+      try {
+        const response = await this.client.get(`/catalog/datasets/${dataset}/records`, {
+          params: {
+            where: `suburb="${suburb}" AND street_name="${street}"`,
+            limit: API_CONFIG.BATCH_SIZE,
+            offset,
+            timezone: 'Australia/Brisbane'
+          }
+        });
+
+        const data = response.data;
+        totalCount = data.total_count;
+        
+        const batch = data.results.map((record: any) => this.mapToPropertyCollection(record));
+        results.push(...batch);
+        
+        offset += API_CONFIG.BATCH_SIZE;
+
+        if (offset < totalCount) {
+          await delay(API_CONFIG.RATE_LIMIT_DELAY);
+        }
+      } catch (error) {
+        logger.error(`Failed to fetch data for ${street}, ${suburb} at offset ${offset}`, { error });
+        throw error;
+      }
+    } while (offset < totalCount);
 
     return results;
+  }
+
+  async fetchAllCollectionDays(): Promise<PropertyCollection[]> {
+    const results: PropertyCollection[] = [];
+    const startTime = Date.now();
+    const failedSuburbs: string[] = [];
+
+    logger.info('Starting suburb-based collection days fetch');
+
+    try {
+      // First, get the list of all suburbs
+      const suburbs = await this.fetchSuburbList();
+      logger.info(`Processing ${suburbs.length} suburbs`);
+
+      // Process suburbs one by one
+      for (let i = 0; i < suburbs.length; i++) {
+        const suburb = suburbs[i];
+        
+        try {
+          logger.info(`Processing suburb ${i + 1}/${suburbs.length}: ${suburb.name} (${suburb.count} properties)`);
+          
+          const suburbData = await this.fetchSuburbData(suburb.name);
+          results.push(...suburbData);
+          
+          logger.info(`Completed ${suburb.name}: ${suburbData.length} records fetched. Total: ${results.length}`);
+          
+          // Rate limiting between suburbs
+          if (i < suburbs.length - 1) {
+            await delay(API_CONFIG.RATE_LIMIT_DELAY * 2);
+          }
+        } catch (error) {
+          logger.error(`Failed to process suburb ${suburb.name}`, { error });
+          failedSuburbs.push(suburb.name);
+          // Continue with next suburb instead of failing completely
+        }
+      }
+
+      const duration = (Date.now() - startTime) / 1000;
+      logger.info(`Completed fetching ${results.length} records in ${duration.toFixed(1)}s`);
+      
+      if (failedSuburbs.length > 0) {
+        logger.warn(`Failed to fetch data for ${failedSuburbs.length} suburbs: ${failedSuburbs.join(', ')}`);
+      }
+
+      return results;
+    } catch (error) {
+      logger.error('Failed to fetch collection days data', { error });
+      throw error;
+    }
   }
 
   async fetchCollectionWeeks(): Promise<any[]> {
