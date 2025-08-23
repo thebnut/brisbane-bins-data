@@ -1,5 +1,5 @@
 {
-  "generated": "2025-08-16T16:51:42.080Z",
+  "generated": "2025-08-23T16:55:50.093Z",
   "suburbs": {
     "ACACIA RIDGE": {
       "day": "WEDNESDAY",
@@ -13,7 +13,7 @@
       "day": "WEDNESDAY",
       "dayUniformity": 84,
       "zone": "ZONE 2",
-      "zoneUniformity": 64.2,
+      "zoneUniformity": 64.1,
       "confidence": 0.32,
       "pattern": "MIXED"
     },
@@ -29,7 +29,7 @@
       "day": "THURSDAY",
       "dayUniformity": 99.6,
       "zone": "ZONE 2",
-      "zoneUniformity": 99.7,
+      "zoneUniformity": 99.6,
       "confidence": 0.75,
       "pattern": "ZONE_2_DEFAULT"
     },
@@ -113,14 +113,6 @@
       "confidence": 0.95,
       "pattern": "ZONE_2_DEFAULT"
     },
-    "BELMONT": {
-      "day": "TUESDAY",
-      "dayUniformity": 74.6,
-      "zone": "ZONE 2",
-      "zoneUniformity": 74.6,
-      "confidence": 0.37,
-      "pattern": "MIXED"
-    },
     "BOONDALL": {
       "day": "WEDNESDAY",
       "dayUniformity": 98.8,
@@ -133,16 +125,16 @@
       "day": "WEDNESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 2",
-      "zoneUniformity": 69,
+      "zoneUniformity": 68.9,
       "confidence": 0.52,
       "pattern": "MIXED"
     },
     "BRACKEN RIDGE": {
       "day": "FRIDAY",
       "dayUniformity": 100,
-      "zone": "ZONE 2",
-      "zoneUniformity": 53.3,
-      "confidence": 0.4,
+      "zone": "ZONE 1",
+      "zoneUniformity": 67.6,
+      "confidence": 0.51,
       "pattern": "MIXED"
     },
     "BRIDGEMAN DOWNS": {
@@ -165,16 +157,16 @@
       "day": "TUESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 94,
-      "confidence": 0.71,
+      "zoneUniformity": 93.7,
+      "confidence": 0.7,
       "pattern": "ZONE_1_DEFAULT"
     },
     "CALAMVALE": {
       "day": "THURSDAY",
       "dayUniformity": 99.1,
       "zone": "ZONE 2",
-      "zoneUniformity": 100,
-      "confidence": 0.95,
+      "zoneUniformity": 99.1,
+      "confidence": 0.74,
       "pattern": "ZONE_2_DEFAULT"
     },
     "CAMP HILL": {
@@ -261,13 +253,13 @@
       "day": "FRIDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 81.6,
+      "zoneUniformity": 81.7,
       "confidence": 0.61,
       "pattern": "ZONE_1_DEFAULT"
     },
     "COORPAROO": {
       "day": "WEDNESDAY",
-      "dayUniformity": 78.2,
+      "dayUniformity": 78.3,
       "zone": "ZONE 1",
       "zoneUniformity": 75.3,
       "confidence": 0.38,
@@ -331,18 +323,18 @@
     },
     "ENOGGERA": {
       "day": "MONDAY",
-      "dayUniformity": 74.1,
+      "dayUniformity": 74.3,
       "zone": "ZONE 1",
-      "zoneUniformity": 58.9,
-      "confidence": 0.29,
+      "zoneUniformity": 56,
+      "confidence": 0.28,
       "pattern": "MIXED"
     },
     "EVERTON PARK": {
       "day": "MONDAY",
-      "dayUniformity": 64.9,
+      "dayUniformity": 64.5,
       "zone": "ZONE 1",
-      "zoneUniformity": 99.1,
-      "confidence": 0.5,
+      "zoneUniformity": 98.5,
+      "confidence": 0.49,
       "pattern": "ZONE_1_DEFAULT"
     },
     "FERNY GROVE": {
@@ -643,7 +635,7 @@
     },
     "MOUNT GRAVATT EAST": {
       "day": "THURSDAY",
-      "dayUniformity": 63,
+      "dayUniformity": 62.9,
       "zone": "ZONE 2",
       "zoneUniformity": 100,
       "confidence": 0.5,
@@ -651,9 +643,9 @@
     },
     "MURARRIE": {
       "day": "TUESDAY",
-      "dayUniformity": 91.8,
+      "dayUniformity": 91.9,
       "zone": "ZONE 2",
-      "zoneUniformity": 91.8,
+      "zoneUniformity": 91.9,
       "confidence": 0.46,
       "pattern": "ZONE_2_DEFAULT"
     },
@@ -693,7 +685,7 @@
       "day": "THURSDAY",
       "dayUniformity": 100,
       "zone": "ZONE 2",
-      "zoneUniformity": 98,
+      "zoneUniformity": 98.1,
       "confidence": 0.74,
       "pattern": "ZONE_2_DEFAULT"
     },
@@ -707,7 +699,7 @@
     },
     "NUNDAH": {
       "day": "THURSDAY",
-      "dayUniformity": 63.4,
+      "dayUniformity": 63.1,
       "zone": "ZONE 2",
       "zoneUniformity": 100,
       "confidence": 0.5,
@@ -739,11 +731,11 @@
     },
     "PARKINSON": {
       "day": "FRIDAY",
-      "dayUniformity": 77.2,
-      "zone": "ZONE 2",
-      "zoneUniformity": 99.7,
-      "confidence": 0.5,
-      "pattern": "ZONE_2_DEFAULT"
+      "dayUniformity": 77.4,
+      "zone": "ZONE 1",
+      "zoneUniformity": 77.1,
+      "confidence": 0.39,
+      "pattern": "MIXED"
     },
     "RED HILL": {
       "day": "TUESDAY",
@@ -755,9 +747,9 @@
     },
     "RICHLANDS": {
       "day": "WEDNESDAY",
-      "dayUniformity": 66.5,
+      "dayUniformity": 66.7,
       "zone": "ZONE 2",
-      "zoneUniformity": 66.5,
+      "zoneUniformity": 66.7,
       "confidence": 0.33,
       "pattern": "MIXED"
     },
@@ -773,7 +765,7 @@
       "day": "FRIDAY",
       "dayUniformity": 100,
       "zone": "ZONE 2",
-      "zoneUniformity": 73,
+      "zoneUniformity": 72.7,
       "confidence": 0.55,
       "pattern": "MIXED"
     },
@@ -885,7 +877,7 @@
       "day": "TUESDAY",
       "dayUniformity": 97.6,
       "zone": "ZONE 1",
-      "zoneUniformity": 80.4,
+      "zoneUniformity": 80.5,
       "confidence": 0.6,
       "pattern": "ZONE_1_DEFAULT"
     },
@@ -925,8 +917,8 @@
       "day": "TUESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 79.2,
-      "confidence": 0.59,
+      "zoneUniformity": 79.5,
+      "confidence": 0.6,
       "pattern": "MIXED"
     },
     "UPPER KEDRON": {
@@ -957,8 +949,8 @@
       "day": "THURSDAY",
       "dayUniformity": 90.4,
       "zone": "ZONE 2",
-      "zoneUniformity": 61.4,
-      "confidence": 0.31,
+      "zoneUniformity": 60.1,
+      "confidence": 0.3,
       "pattern": "MIXED"
     },
     "WEST END": {
@@ -971,9 +963,9 @@
     },
     "WINDSOR": {
       "day": "TUESDAY",
-      "dayUniformity": 59.9,
+      "dayUniformity": 59.8,
       "zone": "ZONE 1",
-      "zoneUniformity": 59.9,
+      "zoneUniformity": 59.8,
       "confidence": 0.3,
       "pattern": "MIXED"
     },
@@ -1027,9 +1019,9 @@
     },
     "ZILLMERE": {
       "day": "FRIDAY",
-      "dayUniformity": 76.5,
+      "dayUniformity": 76.4,
       "zone": "ZONE 2",
-      "zoneUniformity": 76.5,
+      "zoneUniformity": 76.4,
       "confidence": 0.38,
       "pattern": "MIXED"
     }

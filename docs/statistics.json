@@ -1,17 +1,17 @@
 {
-  "generated": "2025-08-16T16:51:42.081Z",
+  "generated": "2025-08-23T16:55:50.094Z",
   "summary": {
-    "totalSuburbs": 129,
-    "totalProperties": 493088,
-    "averagePropertiesPerSuburb": 3822,
+    "totalSuburbs": 128,
+    "totalProperties": 492514,
+    "averagePropertiesPerSuburb": 3848,
     "dataQuality": {
-      "high": 40,
-      "medium": 47,
-      "low": 42
+      "high": 39,
+      "medium": 48,
+      "low": 41
     },
     "patterns": {
       "override": 2,
-      "estimated": 127,
+      "estimated": 126,
       "none": 0
     }
   },
@@ -19,16 +19,16 @@
     "WEDNESDAY": 30,
     "MONDAY": 20,
     "THURSDAY": 25,
-    "TUESDAY": 30,
+    "TUESDAY": 29,
     "FRIDAY": 24
   },
   "zones": {
-    "ZONE 2": 236744,
-    "ZONE 1": 256344
+    "ZONE 2": 231499,
+    "ZONE 1": 261015
   },
   "warnings": [
     "ACACIA RIDGE: Multiple collection days detected (77.3% on WEDNESDAY), Mixed zones with low uniformity (2 zones, 77.3% in primary)",
-    "ALBION: Multiple collection days detected (84% on WEDNESDAY), Mixed zones with low uniformity (2 zones, 64.2% in primary)",
+    "ALBION: Multiple collection days detected (84% on WEDNESDAY), Mixed zones with low uniformity (2 zones, 64.1% in primary)",
     "ALDERLEY: Multiple collection days detected (52.4% on MONDAY), Mixed zones with low uniformity (2 zones, 52.4% in primary)",
     "ALGESTER: Multiple zones detected (2 zones)",
     "ANNERLEY: Multiple collection days detected (56.2% on THURSDAY), Mixed zones with low uniformity (2 zones, 71.2% in primary)",
