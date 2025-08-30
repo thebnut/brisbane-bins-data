@@ -1,5 +1,5 @@
 {
-  "generated": "2025-08-23T16:55:50.093Z",
+  "generated": "2025-08-30T16:57:56.157Z",
   "suburbs": {
     "ACACIA RIDGE": {
       "day": "WEDNESDAY",
@@ -323,10 +323,10 @@
     },
     "ENOGGERA": {
       "day": "MONDAY",
-      "dayUniformity": 74.3,
+      "dayUniformity": 74.1,
       "zone": "ZONE 1",
-      "zoneUniformity": 56,
-      "confidence": 0.28,
+      "zoneUniformity": 58.7,
+      "confidence": 0.29,
       "pattern": "MIXED"
     },
     "EVERTON PARK": {
@@ -709,7 +709,7 @@
       "day": "WEDNESDAY",
       "dayUniformity": 99.9,
       "zone": "ZONE 2",
-      "zoneUniformity": 97,
+      "zoneUniformity": 97.1,
       "confidence": 0.73,
       "pattern": "ZONE_2_DEFAULT"
     },
