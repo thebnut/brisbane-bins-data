@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-25T16:58:17.020Z",
+  "generated": "2025-11-01T16:59:30.665Z",
   "suburbs": {
     "ACACIA RIDGE": {
       "day": "WEDNESDAY",
@@ -59,9 +59,9 @@
     },
     "ASPLEY": {
       "day": "WEDNESDAY",
-      "dayUniformity": 52.1,
+      "dayUniformity": 50.5,
       "zone": "ZONE 2",
-      "zoneUniformity": 90.2,
+      "zoneUniformity": 90,
       "confidence": 0.45,
       "pattern": "ZONE_2_DEFAULT"
     },
@@ -187,7 +187,7 @@
     },
     "CARINA": {
       "day": "TUESDAY",
-      "dayUniformity": 98.3,
+      "dayUniformity": 98.5,
       "zone": "ZONE 2",
       "zoneUniformity": 100,
       "confidence": 0.75,
@@ -877,9 +877,9 @@
       "day": "TUESDAY",
       "dayUniformity": 97.6,
       "zone": "ZONE 1",
-      "zoneUniformity": 80.5,
+      "zoneUniformity": 79.8,
       "confidence": 0.6,
-      "pattern": "ZONE_1_DEFAULT"
+      "pattern": "MIXED"
     },
     "TARRAGINDI": {
       "day": "FRIDAY",

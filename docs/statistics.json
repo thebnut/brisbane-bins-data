@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-25T16:58:17.026Z",
+  "generated": "2025-11-01T16:59:30.666Z",
   "summary": {
     "totalSuburbs": 128,
     "totalProperties": 492503,
@@ -23,8 +23,8 @@
     "FRIDAY": 24
   },
   "zones": {
-    "ZONE 2": 231434,
-    "ZONE 1": 261069
+    "ZONE 2": 231457,
+    "ZONE 1": 261046
   },
   "warnings": [
     "ACACIA RIDGE: Multiple collection days detected (77.3% on WEDNESDAY), Mixed zones with low uniformity (2 zones, 77.3% in primary)",
@@ -34,7 +34,7 @@
     "ANNERLEY: Multiple collection days detected (56.2% on THURSDAY), Mixed zones with low uniformity (2 zones, 71.2% in primary)",
     "ASCOT: Multiple zones detected (2 zones)",
     "ASHGROVE: Multiple collection days detected (57.9% on TUESDAY), Mixed zones with low uniformity (2 zones, 61.5% in primary)",
-    "ASPLEY: Multiple collection days detected (52.1% on WEDNESDAY), Multiple zones detected (2 zones)",
+    "ASPLEY: Multiple collection days detected (50.5% on WEDNESDAY), Multiple zones detected (2 zones)",
     "BALD HILLS: Multiple zones detected (2 zones)",
     "BALMORAL: Multiple zones detected (2 zones)"
   ]
