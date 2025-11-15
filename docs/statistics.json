@@ -1,5 +1,5 @@
 {
-  "generated": "2025-11-08T16:58:10.364Z",
+  "generated": "2025-11-15T16:52:20.265Z",
   "summary": {
     "totalSuburbs": 128,
     "totalProperties": 492503,
@@ -23,11 +23,11 @@
     "FRIDAY": 24
   },
   "zones": {
-    "ZONE 2": 231510,
-    "ZONE 1": 260993
+    "ZONE 2": 231434,
+    "ZONE 1": 261069
   },
   "warnings": [
-    "ACACIA RIDGE: Multiple collection days detected (77.8% on WEDNESDAY), Mixed zones with low uniformity (2 zones, 77.8% in primary)",
+    "ACACIA RIDGE: Multiple collection days detected (77.3% on WEDNESDAY), Mixed zones with low uniformity (2 zones, 77.3% in primary)",
     "ALBION: Multiple collection days detected (84% on WEDNESDAY), Mixed zones with low uniformity (2 zones, 64.1% in primary)",
     "ALDERLEY: Multiple collection days detected (52.4% on MONDAY), Mixed zones with low uniformity (2 zones, 52.4% in primary)",
     "ALGESTER: Multiple zones detected (2 zones)",

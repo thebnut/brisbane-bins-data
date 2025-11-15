@@ -1,11 +1,11 @@
 {
-  "generated": "2025-11-08T16:58:10.363Z",
+  "generated": "2025-11-15T16:52:20.264Z",
   "suburbs": {
     "ACACIA RIDGE": {
       "day": "WEDNESDAY",
-      "dayUniformity": 77.8,
+      "dayUniformity": 77.3,
       "zone": "ZONE 2",
-      "zoneUniformity": 77.8,
+      "zoneUniformity": 77.3,
       "confidence": 0.39,
       "pattern": "MIXED"
     },
@@ -45,7 +45,7 @@
       "day": "WEDNESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 91.3,
+      "zoneUniformity": 90.9,
       "confidence": 0.68,
       "pattern": "ZONE_1_DEFAULT"
     },
@@ -229,7 +229,7 @@
       "day": "THURSDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 99.6,
+      "zoneUniformity": 99.7,
       "confidence": 0.75,
       "pattern": "ZONE_1_DEFAULT"
     },
@@ -245,8 +245,8 @@
       "day": "WEDNESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 2",
-      "zoneUniformity": 96.8,
-      "confidence": 0.73,
+      "zoneUniformity": 96.6,
+      "confidence": 0.72,
       "pattern": "ZONE_2_DEFAULT"
     },
     "COOPERS PLAINS": {
@@ -365,8 +365,8 @@
       "day": "WEDNESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 59.6,
-      "confidence": 0.45,
+      "zoneUniformity": 58.8,
+      "confidence": 0.44,
       "pattern": "MIXED"
     },
     "GEEBUNG": {
@@ -389,8 +389,8 @@
       "day": "TUESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 2",
-      "zoneUniformity": 67.7,
-      "confidence": 0.51,
+      "zoneUniformity": 67.2,
+      "confidence": 0.5,
       "pattern": "MIXED"
     },
     "GRANGE": {
@@ -475,10 +475,10 @@
     },
     "INALA": {
       "day": "THURSDAY",
-      "dayUniformity": 58.9,
+      "dayUniformity": 59.5,
       "zone": "ZONE 1",
-      "zoneUniformity": 58.9,
-      "confidence": 0.29,
+      "zoneUniformity": 59.5,
+      "confidence": 0.3,
       "pattern": "MIXED"
     },
     "INDOOROOPILLY": {
@@ -509,7 +509,7 @@
       "day": "THURSDAY",
       "dayUniformity": 79.7,
       "zone": "ZONE 2",
-      "zoneUniformity": 69.4,
+      "zoneUniformity": 69.7,
       "confidence": 0.35,
       "pattern": "MIXED"
     },
@@ -587,9 +587,9 @@
     },
     "MCDOWALL": {
       "day": "MONDAY",
-      "dayUniformity": 84.4,
+      "dayUniformity": 82.3,
       "zone": "ZONE 2",
-      "zoneUniformity": 75.7,
+      "zoneUniformity": 75.8,
       "confidence": 0.38,
       "pattern": "MIXED"
     },
@@ -677,7 +677,7 @@
       "day": "TUESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 98.2,
+      "zoneUniformity": 98,
       "confidence": 0.74,
       "pattern": "ZONE_1_DEFAULT"
     },
@@ -693,8 +693,8 @@
       "day": "THURSDAY",
       "dayUniformity": 99.9,
       "zone": "ZONE 1",
-      "zoneUniformity": 61.4,
-      "confidence": 0.46,
+      "zoneUniformity": 62.4,
+      "confidence": 0.47,
       "pattern": "MIXED"
     },
     "NUNDAH": {
@@ -747,10 +747,10 @@
     },
     "RICHLANDS": {
       "day": "WEDNESDAY",
-      "dayUniformity": 68.2,
+      "dayUniformity": 66.7,
       "zone": "ZONE 2",
-      "zoneUniformity": 68.2,
-      "confidence": 0.34,
+      "zoneUniformity": 66.7,
+      "confidence": 0.33,
       "pattern": "MIXED"
     },
     "ROCHEDALE": {
@@ -829,7 +829,7 @@
       "day": "THURSDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 65.5,
+      "zoneUniformity": 65.9,
       "confidence": 0.49,
       "pattern": "MIXED"
     },
@@ -859,15 +859,15 @@
     },
     "SUNNYBANK HILLS": {
       "day": "FRIDAY",
-      "dayUniformity": 62.7,
+      "dayUniformity": 63.1,
       "zone": "ZONE 1",
-      "zoneUniformity": 62.2,
+      "zoneUniformity": 62.7,
       "confidence": 0.31,
       "pattern": "MIXED"
     },
     "TAIGUM": {
       "day": "FRIDAY",
-      "dayUniformity": 63.9,
+      "dayUniformity": 64.8,
       "zone": "ZONE 1",
       "zoneUniformity": 100,
       "confidence": 0.5,
