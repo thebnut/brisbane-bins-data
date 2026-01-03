@@ -1,37 +1,37 @@
 {
   "metadata": {
     "version": "2.0",
-    "generated": "2025-12-27T16:59:56.744Z",
+    "generated": "2026-01-03T16:54:00.234Z",
     "dataSource": "Brisbane City Council Open Data",
-    "processingTime": 2872.009236239,
+    "processingTime": 2507.886343797,
     "suburbCount": 128,
     "totalProperties": 493418
   },
-  "current": "suburbs-2025-12-27.json",
+  "current": "suburbs-2026-01-03.json",
   "available": [
     "suburbs-latest.json",
     "suburb-lookup.json",
     "statistics.json",
+    "suburbs-2026-01-03.json",
     "suburbs-2025-12-27.json",
     "suburbs-2025-12-20.json",
     "suburbs-2025-12-13.json",
     "suburbs-2025-12-06.json",
     "suburbs-2025-11-29.json",
-    "suburbs-2025-11-22.json",
-    "suburbs-2025-11-15.json"
+    "suburbs-2025-11-22.json"
   ],
   "endpoints": {
     "latest": "suburbs-latest.json",
     "lookup": "suburb-lookup.json",
     "statistics": "statistics.json",
     "versioned": [
+      "suburbs-2026-01-03.json",
       "suburbs-2025-12-27.json",
       "suburbs-2025-12-20.json",
       "suburbs-2025-12-13.json",
       "suburbs-2025-12-06.json",
       "suburbs-2025-11-29.json",
-      "suburbs-2025-11-22.json",
-      "suburbs-2025-11-15.json"
+      "suburbs-2025-11-22.json"
     ]
   }
 }
