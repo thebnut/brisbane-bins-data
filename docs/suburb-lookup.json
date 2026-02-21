@@ -1,5 +1,5 @@
 {
-  "generated": "2026-02-14T17:04:35.437Z",
+  "generated": "2026-02-21T17:04:45.406Z",
   "suburbs": {
     "ACACIA RIDGE": {
       "day": "WEDNESDAY",
@@ -133,8 +133,8 @@
       "day": "FRIDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 67,
-      "confidence": 0.5,
+      "zoneUniformity": 67.7,
+      "confidence": 0.51,
       "pattern": "MIXED"
     },
     "BRIDGEMAN DOWNS": {
@@ -365,7 +365,7 @@
       "day": "WEDNESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 58.7,
+      "zoneUniformity": 58.8,
       "confidence": 0.44,
       "pattern": "MIXED"
     },
