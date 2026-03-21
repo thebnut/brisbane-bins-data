@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-14T17:08:14.579Z",
+  "generated": "2026-03-21T17:03:50.131Z",
   "suburbs": {
     "ACACIA RIDGE": {
       "day": "WEDNESDAY",
@@ -979,9 +979,9 @@
     },
     "WOOLOOWIN": {
       "day": "WEDNESDAY",
-      "dayUniformity": 90.9,
+      "dayUniformity": 90.5,
       "zone": "ZONE 2",
-      "zoneUniformity": 90.9,
+      "zoneUniformity": 90.5,
       "confidence": 0.45,
       "pattern": "ZONE_2_DEFAULT"
     },
