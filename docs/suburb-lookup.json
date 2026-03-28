@@ -1,5 +1,5 @@
 {
-  "generated": "2026-03-21T17:03:50.131Z",
+  "generated": "2026-03-28T17:10:38.663Z",
   "suburbs": {
     "ACACIA RIDGE": {
       "day": "WEDNESDAY",
@@ -725,7 +725,7 @@
       "day": "FRIDAY",
       "dayUniformity": 77.7,
       "zone": "ZONE 1",
-      "zoneUniformity": 76.7,
+      "zoneUniformity": 76.5,
       "confidence": 0.38,
       "pattern": "MIXED"
     },
@@ -979,9 +979,9 @@
     },
     "WOOLOOWIN": {
       "day": "WEDNESDAY",
-      "dayUniformity": 90.5,
+      "dayUniformity": 90.9,
       "zone": "ZONE 2",
-      "zoneUniformity": 90.5,
+      "zoneUniformity": 90.9,
       "confidence": 0.45,
       "pattern": "ZONE_2_DEFAULT"
     },
