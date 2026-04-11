@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-04T17:09:37.853Z",
+  "generated": "2026-04-11T17:10:22.060Z",
   "summary": {
     "totalSuburbs": 127,
     "totalProperties": 492618,
@@ -23,8 +23,8 @@
     "FRIDAY": 24
   },
   "zones": {
-    "ZONE 2": 232076,
-    "ZONE 1": 260542
+    "ZONE 2": 232116,
+    "ZONE 1": 260502
   },
   "warnings": [
     "ACACIA RIDGE: Multiple collection days detected (77.6% on WEDNESDAY), Mixed zones with low uniformity (2 zones, 77.6% in primary)",

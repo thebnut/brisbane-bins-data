@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-04T17:09:37.852Z",
+  "generated": "2026-04-11T17:10:22.059Z",
   "suburbs": {
     "ACACIA RIDGE": {
       "day": "WEDNESDAY",
@@ -259,9 +259,9 @@
     },
     "COORPAROO": {
       "day": "WEDNESDAY",
-      "dayUniformity": 78.6,
+      "dayUniformity": 78.3,
       "zone": "ZONE 1",
-      "zoneUniformity": 75.7,
+      "zoneUniformity": 75.3,
       "confidence": 0.38,
       "pattern": "MIXED"
     },
