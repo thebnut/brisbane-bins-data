@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-25T17:12:26.876Z",
+  "generated": "2026-05-02T17:15:24.671Z",
   "suburbs": {
     "ACACIA RIDGE": {
       "day": "WEDNESDAY",
@@ -389,8 +389,8 @@
       "day": "TUESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 2",
-      "zoneUniformity": 64.1,
-      "confidence": 0.48,
+      "zoneUniformity": 67.1,
+      "confidence": 0.5,
       "pattern": "MIXED"
     },
     "GRANGE": {
