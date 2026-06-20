@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-13T17:50:36.626Z",
+  "generated": "2026-06-20T17:53:55.497Z",
   "suburbs": {
     "ACACIA RIDGE": {
       "day": "WEDNESDAY",
@@ -621,7 +621,7 @@
       "day": "TUESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 72.3,
+      "zoneUniformity": 72,
       "confidence": 0.54,
       "pattern": "B"
     },
@@ -723,9 +723,9 @@
     },
     "PARKINSON": {
       "day": "FRIDAY",
-      "dayUniformity": 77.7,
+      "dayUniformity": 77.6,
       "zone": "ZONE 1",
-      "zoneUniformity": 76.3,
+      "zoneUniformity": 76.2,
       "confidence": 0.38,
       "pattern": "MIXED"
     },
@@ -765,7 +765,7 @@
       "day": "FRIDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 78.1,
+      "zoneUniformity": 78.4,
       "confidence": 0.59,
       "pattern": "MIXED"
     },
