@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-18T17:25:53.479Z",
+  "generated": "2026-07-25T17:24:08.426Z",
   "suburbs": {
     "ACACIA RIDGE": {
       "day": "WEDNESDAY",
@@ -35,9 +35,9 @@
     },
     "ANNERLEY": {
       "day": "THURSDAY",
-      "dayUniformity": 56.6,
+      "dayUniformity": 56.3,
       "zone": "ZONE 1",
-      "zoneUniformity": 71.1,
+      "zoneUniformity": 71.2,
       "confidence": 0.36,
       "pattern": "MIXED"
     },
@@ -133,7 +133,7 @@
       "day": "FRIDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 67.6,
+      "zoneUniformity": 67.7,
       "confidence": 0.51,
       "pattern": "MIXED"
     },
@@ -187,7 +187,7 @@
     },
     "CARINA": {
       "day": "TUESDAY",
-      "dayUniformity": 98.3,
+      "dayUniformity": 98.4,
       "zone": "ZONE 2",
       "zoneUniformity": 100,
       "confidence": 0.75,
@@ -405,9 +405,9 @@
       "day": "THURSDAY",
       "dayUniformity": 100,
       "zone": "ZONE 2",
-      "zoneUniformity": 80.4,
+      "zoneUniformity": 80,
       "confidence": 0.6,
-      "pattern": "ZONE_2_DEFAULT"
+      "pattern": "MIXED"
     },
     "HAMILTON": {
       "day": "WEDNESDAY",
@@ -627,7 +627,7 @@
     },
     "MOUNT GRAVATT EAST": {
       "day": "THURSDAY",
-      "dayUniformity": 63.1,
+      "dayUniformity": 62.9,
       "zone": "ZONE 2",
       "zoneUniformity": 100,
       "confidence": 0.5,
@@ -669,7 +669,7 @@
       "day": "TUESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 98.1,
+      "zoneUniformity": 98,
       "confidence": 0.74,
       "pattern": "ZONE_1_DEFAULT"
     },
@@ -691,7 +691,7 @@
     },
     "NUNDAH": {
       "day": "THURSDAY",
-      "dayUniformity": 62.7,
+      "dayUniformity": 63.1,
       "zone": "ZONE 2",
       "zoneUniformity": 100,
       "confidence": 0.5,
@@ -757,8 +757,8 @@
       "day": "FRIDAY",
       "dayUniformity": 100,
       "zone": "ZONE 2",
-      "zoneUniformity": 72.6,
-      "confidence": 0.54,
+      "zoneUniformity": 72.7,
+      "confidence": 0.55,
       "pattern": "MIXED"
     },
     "SALISBURY": {
@@ -933,7 +933,7 @@
       "day": "MONDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 98.2,
+      "zoneUniformity": 98.5,
       "confidence": 0.74,
       "pattern": "ZONE_1_DEFAULT"
     },
@@ -971,7 +971,7 @@
     },
     "WOOLLOONGABBA": {
       "day": "WEDNESDAY",
-      "dayUniformity": 59.2,
+      "dayUniformity": 58.6,
       "zone": "ZONE 1",
       "zoneUniformity": 100,
       "confidence": 0.5,
@@ -989,7 +989,7 @@
       "day": "MONDAY",
       "dayUniformity": 100,
       "zone": "ZONE 2",
-      "zoneUniformity": 86.7,
+      "zoneUniformity": 86.6,
       "confidence": 0.65,
       "pattern": "ZONE_2_DEFAULT"
     },
