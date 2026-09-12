@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T18:28:13.308Z",
+  "generated": "2026-09-12T18:43:38.169Z",
   "suburbs": {
     "ACACIA RIDGE": {
       "day": "WEDNESDAY",
@@ -13,7 +13,7 @@
       "day": "WEDNESDAY",
       "dayUniformity": 84,
       "zone": "ZONE 2",
-      "zoneUniformity": 64.2,
+      "zoneUniformity": 64.1,
       "confidence": 0.32,
       "pattern": "MIXED"
     },
@@ -35,7 +35,7 @@
     },
     "ANNERLEY": {
       "day": "THURSDAY",
-      "dayUniformity": 56.3,
+      "dayUniformity": 56.4,
       "zone": "ZONE 1",
       "zoneUniformity": 71.2,
       "confidence": 0.36,
@@ -125,7 +125,7 @@
       "day": "WEDNESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 2",
-      "zoneUniformity": 68.8,
+      "zoneUniformity": 68.7,
       "confidence": 0.52,
       "pattern": "MIXED"
     },
@@ -203,7 +203,7 @@
     },
     "CARINDALE": {
       "day": "WEDNESDAY",
-      "dayUniformity": 78.6,
+      "dayUniformity": 78.5,
       "zone": "ZONE 2",
       "zoneUniformity": 100,
       "confidence": 0.5,
@@ -277,7 +277,7 @@
       "day": "WEDNESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 2",
-      "zoneUniformity": 89.8,
+      "zoneUniformity": 89.9,
       "confidence": 0.67,
       "pattern": "ZONE_2_DEFAULT"
     },
@@ -325,7 +325,7 @@
       "day": "MONDAY",
       "dayUniformity": 74.1,
       "zone": "ZONE 1",
-      "zoneUniformity": 58.9,
+      "zoneUniformity": 58.8,
       "confidence": 0.29,
       "pattern": "MIXED"
     },
@@ -389,7 +389,7 @@
       "day": "TUESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 2",
-      "zoneUniformity": 67.1,
+      "zoneUniformity": 67.2,
       "confidence": 0.5,
       "pattern": "MIXED"
     },
@@ -405,9 +405,9 @@
       "day": "THURSDAY",
       "dayUniformity": 100,
       "zone": "ZONE 2",
-      "zoneUniformity": 80,
+      "zoneUniformity": 80.1,
       "confidence": 0.6,
-      "pattern": "MIXED"
+      "pattern": "ZONE_2_DEFAULT"
     },
     "HAMILTON": {
       "day": "WEDNESDAY",
@@ -499,9 +499,9 @@
     },
     "KEDRON": {
       "day": "THURSDAY",
-      "dayUniformity": 79.7,
+      "dayUniformity": 79.6,
       "zone": "ZONE 2",
-      "zoneUniformity": 69.7,
+      "zoneUniformity": 69.8,
       "confidence": 0.35,
       "pattern": "MIXED"
     },
@@ -541,7 +541,7 @@
       "day": "WEDNESDAY",
       "dayUniformity": 59.6,
       "zone": "ZONE 2",
-      "zoneUniformity": 98.4,
+      "zoneUniformity": 98.3,
       "confidence": 0.49,
       "pattern": "ZONE_2_DEFAULT"
     },
@@ -571,7 +571,7 @@
     },
     "MANSFIELD": {
       "day": "WEDNESDAY",
-      "dayUniformity": 62.7,
+      "dayUniformity": 62.6,
       "zone": "ZONE 2",
       "zoneUniformity": 100,
       "confidence": 0.5,
@@ -579,9 +579,9 @@
     },
     "MCDOWALL": {
       "day": "MONDAY",
-      "dayUniformity": 82.6,
+      "dayUniformity": 82.7,
       "zone": "ZONE 2",
-      "zoneUniformity": 76.1,
+      "zoneUniformity": 75.5,
       "confidence": 0.38,
       "pattern": "MIXED"
     },
@@ -621,13 +621,13 @@
       "day": "TUESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 72.3,
+      "zoneUniformity": 72.4,
       "confidence": 0.54,
       "pattern": "B"
     },
     "MOUNT GRAVATT EAST": {
       "day": "THURSDAY",
-      "dayUniformity": 62.9,
+      "dayUniformity": 63.4,
       "zone": "ZONE 2",
       "zoneUniformity": 100,
       "confidence": 0.5,
@@ -709,7 +709,7 @@
       "day": "TUESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 63.5,
+      "zoneUniformity": 63.4,
       "confidence": 0.48,
       "pattern": "MIXED"
     },
@@ -765,7 +765,7 @@
       "day": "FRIDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 78.1,
+      "zoneUniformity": 78.2,
       "confidence": 0.59,
       "pattern": "MIXED"
     },
@@ -833,14 +833,6 @@
       "confidence": 0.5,
       "pattern": "ZONE_1_DEFAULT"
     },
-    "STRETTON": {
-      "day": "THURSDAY",
-      "dayUniformity": 100,
-      "zone": "ZONE 2",
-      "zoneUniformity": 100,
-      "confidence": 0.95,
-      "pattern": "ZONE_2_DEFAULT"
-    },
     "SUNNYBANK": {
       "day": "FRIDAY",
       "dayUniformity": 100,
@@ -859,7 +851,7 @@
     },
     "TAIGUM": {
       "day": "FRIDAY",
-      "dayUniformity": 64.8,
+      "dayUniformity": 64.3,
       "zone": "ZONE 1",
       "zoneUniformity": 100,
       "confidence": 0.5,
@@ -867,9 +859,9 @@
     },
     "TARINGA": {
       "day": "TUESDAY",
-      "dayUniformity": 97.6,
+      "dayUniformity": 97.7,
       "zone": "ZONE 1",
-      "zoneUniformity": 80.4,
+      "zoneUniformity": 80.5,
       "confidence": 0.6,
       "pattern": "ZONE_1_DEFAULT"
     },
@@ -909,7 +901,7 @@
       "day": "TUESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 80.1,
+      "zoneUniformity": 80.2,
       "confidence": 0.6,
       "pattern": "ZONE_1_DEFAULT"
     },
@@ -923,7 +915,7 @@
     },
     "UPPER MOUNT GRAVATT": {
       "day": "FRIDAY",
-      "dayUniformity": 99.9,
+      "dayUniformity": 100,
       "zone": "ZONE 2",
       "zoneUniformity": 100,
       "confidence": 0.95,
@@ -939,7 +931,7 @@
     },
     "WAVELL HEIGHTS": {
       "day": "THURSDAY",
-      "dayUniformity": 90.4,
+      "dayUniformity": 90.5,
       "zone": "ZONE 2",
       "zoneUniformity": 60.2,
       "confidence": 0.3,
@@ -979,9 +971,9 @@
     },
     "WOOLOOWIN": {
       "day": "WEDNESDAY",
-      "dayUniformity": 89.9,
+      "dayUniformity": 89.8,
       "zone": "ZONE 2",
-      "zoneUniformity": 89.9,
+      "zoneUniformity": 89.8,
       "confidence": 0.45,
       "pattern": "ZONE_2_DEFAULT"
     },
