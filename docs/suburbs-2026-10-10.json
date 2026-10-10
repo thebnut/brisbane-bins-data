@@ -1,0 +1,6433 @@
+{
+  "metadata": {
+    "version": "2.0",
+    "generated": "2026-10-10T20:18:17.996Z",
+    "dataSource": "Brisbane City Council Open Data",
+    "processingTime": 2436.966159418,
+    "suburbCount": 126,
+    "totalProperties": 492392
+  },
+  "suburbs": [
+    {
+      "suburb": "ACACIA RIDGE",
+      "stats": {
+        "totalProperties": 3795,
+        "lastUpdated": "2026-10-10T20:18:17.938Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 77.6,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 2946,
+            "percentage": 77.6
+          },
+          {
+            "day": "FRIDAY",
+            "count": 849,
+            "percentage": 22.4
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2946,
+            "percentage": 77.6
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 849,
+            "percentage": 22.4
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 77.6
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.39,
+        "warnings": [
+          "Multiple collection days detected (77.6% on WEDNESDAY)",
+          "Mixed zones with low uniformity (2 zones, 77.6% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 77.6%, ZONE 1: 22.4%)"
+      }
+    },
+    {
+      "suburb": "ALBION",
+      "stats": {
+        "totalProperties": 2271,
+        "lastUpdated": "2026-10-10T20:18:17.974Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 84,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 1908,
+            "percentage": 84
+          },
+          {
+            "day": "TUESDAY",
+            "count": 363,
+            "percentage": 16
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1455,
+            "percentage": 64.1
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 816,
+            "percentage": 35.9
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 64.1
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.32,
+        "warnings": [
+          "Multiple collection days detected (84% on WEDNESDAY)",
+          "Mixed zones with low uniformity (2 zones, 64.1% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 64.1%, ZONE 1: 35.9%)"
+      }
+    },
+    {
+      "suburb": "ALDERLEY",
+      "stats": {
+        "totalProperties": 3099,
+        "lastUpdated": "2026-10-10T20:18:17.955Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 50.5,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 1565,
+            "percentage": 50.5
+          },
+          {
+            "day": "THURSDAY",
+            "count": 1534,
+            "percentage": 49.5
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 1565,
+            "percentage": 50.5
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 1534,
+            "percentage": 49.5
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 50.5
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.25,
+        "warnings": [
+          "Multiple collection days detected (50.5% on MONDAY)",
+          "Mixed zones with low uniformity (2 zones, 50.5% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 50.5%, ZONE 2: 49.5%)"
+      }
+    },
+    {
+      "suburb": "ALGESTER",
+      "stats": {
+        "totalProperties": 3535,
+        "lastUpdated": "2026-10-10T20:18:17.943Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 99.6,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 3522,
+            "percentage": 99.6
+          },
+          {
+            "day": "TUESDAY",
+            "count": 12,
+            "percentage": 0.3
+          },
+          {
+            "day": "FRIDAY",
+            "count": 1,
+            "percentage": 0
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3522,
+            "percentage": 99.6
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 13,
+            "percentage": 0.4
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 99.6
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (99.6%)"
+      }
+    },
+    {
+      "suburb": "ANNERLEY",
+      "stats": {
+        "totalProperties": 5286,
+        "lastUpdated": "2026-10-10T20:18:17.901Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 56.4,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 2981,
+            "percentage": 56.4
+          },
+          {
+            "day": "TUESDAY",
+            "count": 1521,
+            "percentage": 28.8
+          },
+          {
+            "day": "FRIDAY",
+            "count": 783,
+            "percentage": 14.8
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 1,
+            "percentage": 0
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3765,
+            "percentage": 71.2
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 1521,
+            "percentage": 28.8
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 71.2
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.36,
+        "warnings": [
+          "Multiple collection days detected (56.4% on THURSDAY)",
+          "Mixed zones with low uniformity (2 zones, 71.2% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 71.2%, ZONE 2: 28.8%)"
+      }
+    },
+    {
+      "suburb": "ASCOT",
+      "stats": {
+        "totalProperties": 3360,
+        "lastUpdated": "2026-10-10T20:18:17.947Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 3360,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3054,
+            "percentage": 90.9
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 306,
+            "percentage": 9.1
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 90.9
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.68,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (90.9%)"
+      }
+    },
+    {
+      "suburb": "ASHGROVE",
+      "stats": {
+        "totalProperties": 5344,
+        "lastUpdated": "2026-10-10T20:18:17.899Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 58,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 3097,
+            "percentage": 58
+          },
+          {
+            "day": "MONDAY",
+            "count": 2247,
+            "percentage": 42
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3286,
+            "percentage": 61.5
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 2058,
+            "percentage": 38.5
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 61.5
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.31,
+        "warnings": [
+          "Multiple collection days detected (58% on TUESDAY)",
+          "Mixed zones with low uniformity (2 zones, 61.5% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 61.5%, ZONE 1: 38.5%)"
+      }
+    },
+    {
+      "suburb": "ASPLEY",
+      "stats": {
+        "totalProperties": 5024,
+        "lastUpdated": "2026-10-10T20:18:17.907Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 52,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 2610,
+            "percentage": 52
+          },
+          {
+            "day": "FRIDAY",
+            "count": 1284,
+            "percentage": 25.6
+          },
+          {
+            "day": "MONDAY",
+            "count": 638,
+            "percentage": 12.7
+          },
+          {
+            "day": "TUESDAY",
+            "count": 491,
+            "percentage": 9.8
+          },
+          {
+            "day": "THURSDAY",
+            "count": 1,
+            "percentage": 0
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 4532,
+            "percentage": 90.2
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 492,
+            "percentage": 9.8
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 90.2
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.45,
+        "warnings": [
+          "Multiple collection days detected (52% on WEDNESDAY)",
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (90.2%)"
+      }
+    },
+    {
+      "suburb": "AUCHENFLOWER",
+      "stats": {
+        "totalProperties": 3246,
+        "lastUpdated": "2026-10-10T20:18:17.949Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 3246,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3246,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "BALD HILLS",
+      "stats": {
+        "totalProperties": 2798,
+        "lastUpdated": "2026-10-10T20:18:17.966Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 2798,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2791,
+            "percentage": 99.7
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 7,
+            "percentage": 0.3
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 99.7
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (99.7%)"
+      }
+    },
+    {
+      "suburb": "BALMORAL",
+      "stats": {
+        "totalProperties": 1824,
+        "lastUpdated": "2026-10-10T20:18:17.984Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 1824,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 1819,
+            "percentage": 99.7
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 5,
+            "percentage": 0.3
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 99.7
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (99.7%)"
+      }
+    },
+    {
+      "suburb": "BANYO",
+      "stats": {
+        "totalProperties": 2848,
+        "lastUpdated": "2026-10-10T20:18:17.961Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 2848,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1575,
+            "percentage": 55.3
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 1273,
+            "percentage": 44.7
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 55.3
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.41,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 55.3% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 55.3%, ZONE 1: 44.7%)"
+      }
+    },
+    {
+      "suburb": "BARDON",
+      "stats": {
+        "totalProperties": 3868,
+        "lastUpdated": "2026-10-10T20:18:17.933Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 86.6,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 3348,
+            "percentage": 86.6
+          },
+          {
+            "day": "MONDAY",
+            "count": 520,
+            "percentage": 13.4
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3207,
+            "percentage": 82.9
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 661,
+            "percentage": 17.1
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 82.9
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.41,
+        "warnings": [
+          "Multiple collection days detected (86.6% on TUESDAY)",
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (82.9%)"
+      }
+    },
+    {
+      "suburb": "BELLBOWRIE",
+      "stats": {
+        "totalProperties": 2026,
+        "lastUpdated": "2026-10-10T20:18:17.980Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 2026,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2026,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "BOONDALL",
+      "stats": {
+        "totalProperties": 3930,
+        "lastUpdated": "2026-10-10T20:18:17.930Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 98.9,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 3885,
+            "percentage": 98.9
+          },
+          {
+            "day": "THURSDAY",
+            "count": 31,
+            "percentage": 0.8
+          },
+          {
+            "day": "FRIDAY",
+            "count": 14,
+            "percentage": 0.4
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3926,
+            "percentage": 99.9
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 4,
+            "percentage": 0.1
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 99.9
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (99.9%)"
+      }
+    },
+    {
+      "suburb": "BOWEN HILLS",
+      "stats": {
+        "totalProperties": 3470,
+        "lastUpdated": "2026-10-10T20:18:17.944Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 3470,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2385,
+            "percentage": 68.7
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 1085,
+            "percentage": 31.3
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 68.7
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.52,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 68.7% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 68.7%, ZONE 1: 31.3%)"
+      }
+    },
+    {
+      "suburb": "BRACKEN RIDGE",
+      "stats": {
+        "totalProperties": 6680,
+        "lastUpdated": "2026-10-10T20:18:17.873Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 6680,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 4524,
+            "percentage": 67.7
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 2156,
+            "percentage": 32.3
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 67.7
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.51,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 67.7% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 67.7%, ZONE 2: 32.3%)"
+      }
+    },
+    {
+      "suburb": "BRIDGEMAN DOWNS",
+      "stats": {
+        "totalProperties": 4518,
+        "lastUpdated": "2026-10-10T20:18:17.917Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 99.2,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 4481,
+            "percentage": 99.2
+          },
+          {
+            "day": "MONDAY",
+            "count": 37,
+            "percentage": 0.8
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 4518,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "BRIGHTON",
+      "stats": {
+        "totalProperties": 4005,
+        "lastUpdated": "2026-10-10T20:18:17.928Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 4005,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 4005,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "BULIMBA",
+      "stats": {
+        "totalProperties": 3585,
+        "lastUpdated": "2026-10-10T20:18:17.941Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 3585,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3358,
+            "percentage": 93.7
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 227,
+            "percentage": 6.3
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 93.7
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.7,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (93.7%)"
+      }
+    },
+    {
+      "suburb": "CALAMVALE",
+      "stats": {
+        "totalProperties": 6856,
+        "lastUpdated": "2026-10-10T20:18:17.868Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 99.1,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 6793,
+            "percentage": 99.1
+          },
+          {
+            "day": "FRIDAY",
+            "count": 63,
+            "percentage": 0.9
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 6793,
+            "percentage": 99.1
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 63,
+            "percentage": 0.9
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 99.1
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.74,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (99.1%)"
+      }
+    },
+    {
+      "suburb": "CAMP HILL",
+      "stats": {
+        "totalProperties": 4956,
+        "lastUpdated": "2026-10-10T20:18:17.911Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 55.7,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 2760,
+            "percentage": 55.7
+          },
+          {
+            "day": "TUESDAY",
+            "count": 2196,
+            "percentage": 44.3
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3067,
+            "percentage": 61.9
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 1889,
+            "percentage": 38.1
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 61.9
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.31,
+        "warnings": [
+          "Multiple collection days detected (55.7% on WEDNESDAY)",
+          "Mixed zones with low uniformity (2 zones, 61.9% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 61.9%, ZONE 1: 38.1%)"
+      }
+    },
+    {
+      "suburb": "CANNON HILL",
+      "stats": {
+        "totalProperties": 2941,
+        "lastUpdated": "2026-10-10T20:18:17.959Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 2941,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2941,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "CARINA",
+      "stats": {
+        "totalProperties": 5522,
+        "lastUpdated": "2026-10-10T20:18:17.898Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 98.4,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 5431,
+            "percentage": 98.4
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 91,
+            "percentage": 1.6
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 5522,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "CARINA HEIGHTS",
+      "stats": {
+        "totalProperties": 3322,
+        "lastUpdated": "2026-10-10T20:18:17.948Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 3322,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3322,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "CARINDALE",
+      "stats": {
+        "totalProperties": 5829,
+        "lastUpdated": "2026-10-10T20:18:17.887Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 78.5,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 4578,
+            "percentage": 78.5
+          },
+          {
+            "day": "TUESDAY",
+            "count": 1251,
+            "percentage": 21.5
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 5829,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (78.5% on WEDNESDAY)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "CARSELDINE",
+      "stats": {
+        "totalProperties": 4229,
+        "lastUpdated": "2026-10-10T20:18:17.921Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 4229,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 4229,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "CHAPEL HILL",
+      "stats": {
+        "totalProperties": 3857,
+        "lastUpdated": "2026-10-10T20:18:17.935Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 3857,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3857,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "CHERMSIDE",
+      "stats": {
+        "totalProperties": 6400,
+        "lastUpdated": "2026-10-10T20:18:17.881Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 6400,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 6379,
+            "percentage": 99.7
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 21,
+            "percentage": 0.3
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 99.7
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (99.7%)"
+      }
+    },
+    {
+      "suburb": "CHERMSIDE WEST",
+      "stats": {
+        "totalProperties": 2656,
+        "lastUpdated": "2026-10-10T20:18:17.967Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 55.5,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 1473,
+            "percentage": 55.5
+          },
+          {
+            "day": "MONDAY",
+            "count": 1131,
+            "percentage": 42.6
+          },
+          {
+            "day": "THURSDAY",
+            "count": 52,
+            "percentage": 2
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2061,
+            "percentage": 77.6
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 595,
+            "percentage": 22.4
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 77.6
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.39,
+        "warnings": [
+          "Multiple collection days detected (55.5% on TUESDAY)",
+          "Mixed zones with low uniformity (2 zones, 77.6% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 77.6%, ZONE 2: 22.4%)"
+      }
+    },
+    {
+      "suburb": "CLAYFIELD",
+      "stats": {
+        "totalProperties": 5732,
+        "lastUpdated": "2026-10-10T20:18:17.892Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 5732,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 5540,
+            "percentage": 96.7
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 192,
+            "percentage": 3.3
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 96.7
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.73,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (96.7%)"
+      }
+    },
+    {
+      "suburb": "COOPERS PLAINS",
+      "stats": {
+        "totalProperties": 2992,
+        "lastUpdated": "2026-10-10T20:18:17.956Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 2992,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2441,
+            "percentage": 81.6
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 551,
+            "percentage": 18.4
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 81.6
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.61,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (81.6%)"
+      }
+    },
+    {
+      "suburb": "COORPAROO",
+      "stats": {
+        "totalProperties": 8940,
+        "lastUpdated": "2026-10-10T20:18:17.855Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 78.3,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 7002,
+            "percentage": 78.3
+          },
+          {
+            "day": "THURSDAY",
+            "count": 1516,
+            "percentage": 17
+          },
+          {
+            "day": "TUESDAY",
+            "count": 422,
+            "percentage": 4.7
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 6734,
+            "percentage": 75.3
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 2206,
+            "percentage": 24.7
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 75.3
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.38,
+        "warnings": [
+          "Multiple collection days detected (78.3% on WEDNESDAY)",
+          "Mixed zones with low uniformity (2 zones, 75.3% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 75.3%, ZONE 2: 24.7%)"
+      }
+    },
+    {
+      "suburb": "CORINDA",
+      "stats": {
+        "totalProperties": 2217,
+        "lastUpdated": "2026-10-10T20:18:17.977Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 97.7,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 2165,
+            "percentage": 97.7
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 52,
+            "percentage": 2.3
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2217,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "DARRA",
+      "stats": {
+        "totalProperties": 2133,
+        "lastUpdated": "2026-10-10T20:18:17.979Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 2133,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1917,
+            "percentage": 89.9
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 216,
+            "percentage": 10.1
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 89.9
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.67,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (89.9%)"
+      }
+    },
+    {
+      "suburb": "DEAGON",
+      "stats": {
+        "totalProperties": 1731,
+        "lastUpdated": "2026-10-10T20:18:17.986Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 1731,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 1731,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "DOOLANDELLA",
+      "stats": {
+        "totalProperties": 2862,
+        "lastUpdated": "2026-10-10T20:18:17.961Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 75.7,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 2166,
+            "percentage": 75.7
+          },
+          {
+            "day": "THURSDAY",
+            "count": 696,
+            "percentage": 24.3
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2862,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (75.7% on TUESDAY)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "DURACK",
+      "stats": {
+        "totalProperties": 2294,
+        "lastUpdated": "2026-10-10T20:18:17.972Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 87.5,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 2008,
+            "percentage": 87.5
+          },
+          {
+            "day": "TUESDAY",
+            "count": 262,
+            "percentage": 11.4
+          },
+          {
+            "day": "THURSDAY",
+            "count": 24,
+            "percentage": 1
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2008,
+            "percentage": 87.5
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 286,
+            "percentage": 12.5
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 87.5
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.44,
+        "warnings": [
+          "Multiple collection days detected (87.5% on WEDNESDAY)",
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (87.5%)"
+      }
+    },
+    {
+      "suburb": "EAST BRISBANE",
+      "stats": {
+        "totalProperties": 3236,
+        "lastUpdated": "2026-10-10T20:18:17.950Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 3235,
+            "percentage": 100
+          },
+          {
+            "day": "TUESDAY",
+            "count": 1,
+            "percentage": 0
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3236,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "EIGHT MILE PLAINS",
+      "stats": {
+        "totalProperties": 5801,
+        "lastUpdated": "2026-10-10T20:18:17.891Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 5801,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 5801,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "ENOGGERA",
+      "stats": {
+        "totalProperties": 2193,
+        "lastUpdated": "2026-10-10T20:18:17.978Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 74.1,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 1625,
+            "percentage": 74.1
+          },
+          {
+            "day": "THURSDAY",
+            "count": 568,
+            "percentage": 25.9
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 1290,
+            "percentage": 58.8
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 903,
+            "percentage": 41.2
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 58.8
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.29,
+        "warnings": [
+          "Multiple collection days detected (74.1% on MONDAY)",
+          "Mixed zones with low uniformity (2 zones, 58.8% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 58.8%, ZONE 2: 41.2%)"
+      }
+    },
+    {
+      "suburb": "EVERTON PARK",
+      "stats": {
+        "totalProperties": 4979,
+        "lastUpdated": "2026-10-10T20:18:17.910Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 64.6,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 3215,
+            "percentage": 64.6
+          },
+          {
+            "day": "THURSDAY",
+            "count": 1764,
+            "percentage": 35.4
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 4908,
+            "percentage": 98.6
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 71,
+            "percentage": 1.4
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 98.6
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.49,
+        "warnings": [
+          "Multiple collection days detected (64.6% on MONDAY)",
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (98.6%)"
+      }
+    },
+    {
+      "suburb": "FERNY GROVE",
+      "stats": {
+        "totalProperties": 2291,
+        "lastUpdated": "2026-10-10T20:18:17.973Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 2291,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2291,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "FITZGIBBON",
+      "stats": {
+        "totalProperties": 2495,
+        "lastUpdated": "2026-10-10T20:18:17.970Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 2495,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2484,
+            "percentage": 99.6
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 11,
+            "percentage": 0.4
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 99.6
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (99.6%)"
+      }
+    },
+    {
+      "suburb": "FOREST LAKE",
+      "stats": {
+        "totalProperties": 8287,
+        "lastUpdated": "2026-10-10T20:18:17.861Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 92.1,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 7630,
+            "percentage": 92.1
+          },
+          {
+            "day": "TUESDAY",
+            "count": 657,
+            "percentage": 7.9
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 8287,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (92.1% on THURSDAY)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "FORTITUDE VALLEY",
+      "stats": {
+        "totalProperties": 6577,
+        "lastUpdated": "2026-10-10T20:18:17.874Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 6577,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3868,
+            "percentage": 58.8
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 2709,
+            "percentage": 41.2
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 58.8
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.44,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 58.8% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 58.8%, ZONE 2: 41.2%)"
+      }
+    },
+    {
+      "suburb": "GEEBUNG",
+      "stats": {
+        "totalProperties": 2601,
+        "lastUpdated": "2026-10-10T20:18:17.969Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 87.8,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 2284,
+            "percentage": 87.8
+          },
+          {
+            "day": "FRIDAY",
+            "count": 181,
+            "percentage": 7
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 136,
+            "percentage": 5.2
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2284,
+            "percentage": 87.8
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 317,
+            "percentage": 12.2
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 87.8
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.44,
+        "warnings": [
+          "Multiple collection days detected (87.8% on THURSDAY)",
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (87.8%)"
+      }
+    },
+    {
+      "suburb": "GORDON PARK",
+      "stats": {
+        "totalProperties": 2020,
+        "lastUpdated": "2026-10-10T20:18:17.982Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 2020,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2020,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "GRACEVILLE",
+      "stats": {
+        "totalProperties": 1828,
+        "lastUpdated": "2026-10-10T20:18:17.983Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 1828,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1228,
+            "percentage": 67.2
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 600,
+            "percentage": 32.8
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 67.2
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.5,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 67.2% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 67.2%, ZONE 1: 32.8%)"
+      }
+    },
+    {
+      "suburb": "GRANGE",
+      "stats": {
+        "totalProperties": 1732,
+        "lastUpdated": "2026-10-10T20:18:17.985Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 80.6,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 1396,
+            "percentage": 80.6
+          },
+          {
+            "day": "TUESDAY",
+            "count": 310,
+            "percentage": 17.9
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 26,
+            "percentage": 1.5
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1732,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (80.6% on THURSDAY)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "GREENSLOPES",
+      "stats": {
+        "totalProperties": 3885,
+        "lastUpdated": "2026-10-10T20:18:17.933Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 3885,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3110,
+            "percentage": 80.1
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 775,
+            "percentage": 19.9
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 80.1
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.6,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (80.1%)"
+      }
+    },
+    {
+      "suburb": "HAMILTON",
+      "stats": {
+        "totalProperties": 5671,
+        "lastUpdated": "2026-10-10T20:18:17.894Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 5671,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 5671,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "HAWTHORNE",
+      "stats": {
+        "totalProperties": 2282,
+        "lastUpdated": "2026-10-10T20:18:17.974Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 2282,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2282,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "HEATHWOOD",
+      "stats": {
+        "totalProperties": 1930,
+        "lastUpdated": "2026-10-10T20:18:17.983Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 1930,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 1930,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "HENDRA",
+      "stats": {
+        "totalProperties": 2100,
+        "lastUpdated": "2026-10-10T20:18:17.979Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 2100,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1179,
+            "percentage": 56.1
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 921,
+            "percentage": 43.9
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 56.1
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.42,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 56.1% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 56.1%, ZONE 1: 43.9%)"
+      }
+    },
+    {
+      "suburb": "HIGHGATE HILL",
+      "stats": {
+        "totalProperties": 2383,
+        "lastUpdated": "2026-10-10T20:18:17.972Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 2383,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2383,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "HOLLAND PARK",
+      "stats": {
+        "totalProperties": 3173,
+        "lastUpdated": "2026-10-10T20:18:17.953Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 76.7,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 2433,
+            "percentage": 76.7
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 740,
+            "percentage": 23.3
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3173,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (76.7% on THURSDAY)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "HOLLAND PARK WEST",
+      "stats": {
+        "totalProperties": 2824,
+        "lastUpdated": "2026-10-10T20:18:17.964Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 99.9,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 2822,
+            "percentage": 99.9
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 1,
+            "percentage": 0
+          },
+          {
+            "day": "FRIDAY",
+            "count": 1,
+            "percentage": 0
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2822,
+            "percentage": 99.9
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 2,
+            "percentage": 0.1
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 99.9
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (99.9%)"
+      }
+    },
+    {
+      "suburb": "INALA",
+      "stats": {
+        "totalProperties": 5065,
+        "lastUpdated": "2026-10-10T20:18:17.906Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 59.4,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 3007,
+            "percentage": 59.4
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 2058,
+            "percentage": 40.6
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3007,
+            "percentage": 59.4
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 2058,
+            "percentage": 40.6
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 59.4
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.3,
+        "warnings": [
+          "Multiple collection days detected (59.4% on THURSDAY)",
+          "Mixed zones with low uniformity (2 zones, 59.4% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 59.4%, ZONE 2: 40.6%)"
+      }
+    },
+    {
+      "suburb": "INDOOROOPILLY",
+      "stats": {
+        "totalProperties": 6416,
+        "lastUpdated": "2026-10-10T20:18:17.878Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 57.7,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 3703,
+            "percentage": 57.7
+          },
+          {
+            "day": "MONDAY",
+            "count": 2713,
+            "percentage": 42.3
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 6416,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (57.7% on TUESDAY)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "JINDALEE",
+      "stats": {
+        "totalProperties": 2025,
+        "lastUpdated": "2026-10-10T20:18:17.981Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 2025,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2025,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "KANGAROO POINT",
+      "stats": {
+        "totalProperties": 5815,
+        "lastUpdated": "2026-10-10T20:18:17.889Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 5815,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 5815,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "KEDRON",
+      "stats": {
+        "totalProperties": 4409,
+        "lastUpdated": "2026-10-10T20:18:17.918Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 79.6,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 3509,
+            "percentage": 79.6
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 900,
+            "percentage": 20.4
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3078,
+            "percentage": 69.8
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 1331,
+            "percentage": 30.2
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 69.8
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.35,
+        "warnings": [
+          "Multiple collection days detected (79.6% on THURSDAY)",
+          "Mixed zones with low uniformity (2 zones, 69.8% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 69.8%, ZONE 1: 30.2%)"
+      }
+    },
+    {
+      "suburb": "KELVIN GROVE",
+      "stats": {
+        "totalProperties": 3566,
+        "lastUpdated": "2026-10-10T20:18:17.942Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 3566,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3565,
+            "percentage": 100
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 1,
+            "percentage": 0
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (100%)"
+      }
+    },
+    {
+      "suburb": "KENMORE",
+      "stats": {
+        "totalProperties": 4087,
+        "lastUpdated": "2026-10-10T20:18:17.925Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 4087,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2621,
+            "percentage": 64.1
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 1466,
+            "percentage": 35.9
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 64.1
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.48,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 64.1% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 64.1%, ZONE 2: 35.9%)"
+      }
+    },
+    {
+      "suburb": "KEPERRA",
+      "stats": {
+        "totalProperties": 2946,
+        "lastUpdated": "2026-10-10T20:18:17.958Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 2946,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2946,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "KURABY",
+      "stats": {
+        "totalProperties": 2887,
+        "lastUpdated": "2026-10-10T20:18:17.959Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 2887,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2887,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "LUTWYCHE",
+      "stats": {
+        "totalProperties": 2663,
+        "lastUpdated": "2026-10-10T20:18:17.966Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 59.6,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 1586,
+            "percentage": 59.6
+          },
+          {
+            "day": "THURSDAY",
+            "count": 1033,
+            "percentage": 38.8
+          },
+          {
+            "day": "TUESDAY",
+            "count": 44,
+            "percentage": 1.7
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2619,
+            "percentage": 98.3
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 44,
+            "percentage": 1.7
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 98.3
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.49,
+        "warnings": [
+          "Multiple collection days detected (59.6% on WEDNESDAY)",
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (98.3%)"
+      }
+    },
+    {
+      "suburb": "MACGREGOR",
+      "stats": {
+        "totalProperties": 2203,
+        "lastUpdated": "2026-10-10T20:18:17.977Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 2203,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2195,
+            "percentage": 99.6
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 8,
+            "percentage": 0.4
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 99.6
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (99.6%)"
+      }
+    },
+    {
+      "suburb": "MANLY",
+      "stats": {
+        "totalProperties": 1898,
+        "lastUpdated": "2026-10-10T20:18:17.983Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 1898,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1898,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "MANLY WEST",
+      "stats": {
+        "totalProperties": 4699,
+        "lastUpdated": "2026-10-10T20:18:17.912Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 4699,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 4699,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "MANSFIELD",
+      "stats": {
+        "totalProperties": 3402,
+        "lastUpdated": "2026-10-10T20:18:17.945Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 62.6,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 2131,
+            "percentage": 62.6
+          },
+          {
+            "day": "FRIDAY",
+            "count": 1271,
+            "percentage": 37.4
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3402,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (62.6% on WEDNESDAY)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "MCDOWALL",
+      "stats": {
+        "totalProperties": 3286,
+        "lastUpdated": "2026-10-10T20:18:17.948Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 82.7,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 2718,
+            "percentage": 82.7
+          },
+          {
+            "day": "FRIDAY",
+            "count": 568,
+            "percentage": 17.3
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2482,
+            "percentage": 75.5
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 804,
+            "percentage": 24.5
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 75.5
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.38,
+        "warnings": [
+          "Multiple collection days detected (82.7% on MONDAY)",
+          "Mixed zones with low uniformity (2 zones, 75.5% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 75.5%, ZONE 1: 24.5%)"
+      }
+    },
+    {
+      "suburb": "MILTON",
+      "stats": {
+        "totalProperties": 2616,
+        "lastUpdated": "2026-10-10T20:18:17.968Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 2616,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2616,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "MITCHELTON",
+      "stats": {
+        "totalProperties": 3822,
+        "lastUpdated": "2026-10-10T20:18:17.937Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 3822,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3815,
+            "percentage": 99.8
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 7,
+            "percentage": 0.2
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 99.8
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (99.8%)"
+      }
+    },
+    {
+      "suburb": "MOGGILL",
+      "stats": {
+        "totalProperties": 2023,
+        "lastUpdated": "2026-10-10T20:18:17.981Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 2023,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2023,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "MOOROOKA",
+      "stats": {
+        "totalProperties": 4991,
+        "lastUpdated": "2026-10-10T20:18:17.909Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 97.8,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 4883,
+            "percentage": 97.8
+          },
+          {
+            "day": "TUESDAY",
+            "count": 108,
+            "percentage": 2.2
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 4883,
+            "percentage": 97.8
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 108,
+            "percentage": 2.2
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 97.8
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.73,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (97.8%)"
+      }
+    },
+    {
+      "suburb": "MORNINGSIDE",
+      "stats": {
+        "totalProperties": 5890,
+        "lastUpdated": "2026-10-10T20:18:17.886Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 5890,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 4262,
+            "percentage": 72.4
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 1628,
+            "percentage": 27.6
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 72.4
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.54,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 72.4% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "override",
+        "confidence": 1,
+        "pattern": "B",
+        "notes": "Verified against council website - Recycling on even weeks"
+      }
+    },
+    {
+      "suburb": "MOUNT GRAVATT EAST",
+      "stats": {
+        "totalProperties": 5134,
+        "lastUpdated": "2026-10-10T20:18:17.902Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 63.4,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 3257,
+            "percentage": 63.4
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 1813,
+            "percentage": 35.3
+          },
+          {
+            "day": "FRIDAY",
+            "count": 64,
+            "percentage": 1.2
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 5134,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (63.4% on THURSDAY)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "MURARRIE",
+      "stats": {
+        "totalProperties": 2620,
+        "lastUpdated": "2026-10-10T20:18:17.968Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 91.9,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 2408,
+            "percentage": 91.9
+          },
+          {
+            "day": "MONDAY",
+            "count": 211,
+            "percentage": 8.1
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 1,
+            "percentage": 0
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2408,
+            "percentage": 91.9
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 212,
+            "percentage": 8.1
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 91.9
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.46,
+        "warnings": [
+          "Multiple collection days detected (91.9% on TUESDAY)",
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (91.9%)"
+      }
+    },
+    {
+      "suburb": "NEW FARM",
+      "stats": {
+        "totalProperties": 6340,
+        "lastUpdated": "2026-10-10T20:18:17.884Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 6340,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 6340,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "NEWMARKET",
+      "stats": {
+        "totalProperties": 2141,
+        "lastUpdated": "2026-10-10T20:18:17.978Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 89,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 1906,
+            "percentage": 89
+          },
+          {
+            "day": "MONDAY",
+            "count": 227,
+            "percentage": 10.6
+          },
+          {
+            "day": "THURSDAY",
+            "count": 8,
+            "percentage": 0.4
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1913,
+            "percentage": 89.4
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 228,
+            "percentage": 10.6
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 89.4
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.45,
+        "warnings": [
+          "Multiple collection days detected (89% on TUESDAY)",
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (89.4%)"
+      }
+    },
+    {
+      "suburb": "NEWSTEAD",
+      "stats": {
+        "totalProperties": 5637,
+        "lastUpdated": "2026-10-10T20:18:17.895Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 5637,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 5637,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "NORMAN PARK",
+      "stats": {
+        "totalProperties": 2826,
+        "lastUpdated": "2026-10-10T20:18:17.963Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 2826,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2769,
+            "percentage": 98
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 57,
+            "percentage": 2
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 98
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.74,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (98%)"
+      }
+    },
+    {
+      "suburb": "NORTHGATE",
+      "stats": {
+        "totalProperties": 2519,
+        "lastUpdated": "2026-10-10T20:18:17.970Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 2519,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2472,
+            "percentage": 98.1
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 47,
+            "percentage": 1.9
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 98.1
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.74,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (98.1%)"
+      }
+    },
+    {
+      "suburb": "NUDGEE",
+      "stats": {
+        "totalProperties": 1823,
+        "lastUpdated": "2026-10-10T20:18:17.984Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 1823,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 1152,
+            "percentage": 63.2
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 671,
+            "percentage": 36.8
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 63.2
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.47,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 63.2% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 63.2%, ZONE 2: 36.8%)"
+      }
+    },
+    {
+      "suburb": "NUNDAH",
+      "stats": {
+        "totalProperties": 7270,
+        "lastUpdated": "2026-10-10T20:18:17.863Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 63.1,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 4586,
+            "percentage": 63.1
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 2684,
+            "percentage": 36.9
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 7270,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (63.1% on THURSDAY)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "OXLEY",
+      "stats": {
+        "totalProperties": 3971,
+        "lastUpdated": "2026-10-10T20:18:17.929Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 99.9,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 3967,
+            "percentage": 99.9
+          },
+          {
+            "day": "TUESDAY",
+            "count": 4,
+            "percentage": 0.1
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3850,
+            "percentage": 97
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 121,
+            "percentage": 3
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 97
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.73,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (97%)"
+      }
+    },
+    {
+      "suburb": "PADDINGTON",
+      "stats": {
+        "totalProperties": 4236,
+        "lastUpdated": "2026-10-10T20:18:17.920Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 4236,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2686,
+            "percentage": 63.4
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 1550,
+            "percentage": 36.6
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 63.4
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.48,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 63.4% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 63.4%, ZONE 2: 36.6%)"
+      }
+    },
+    {
+      "suburb": "PALLARA",
+      "stats": {
+        "totalProperties": 3232,
+        "lastUpdated": "2026-10-10T20:18:17.951Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 3232,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3232,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "PARKINSON",
+      "stats": {
+        "totalProperties": 3922,
+        "lastUpdated": "2026-10-10T20:18:17.931Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 77.7,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 3049,
+            "percentage": 77.7
+          },
+          {
+            "day": "THURSDAY",
+            "count": 872,
+            "percentage": 22.2
+          },
+          {
+            "day": "TUESDAY",
+            "count": 1,
+            "percentage": 0
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2992,
+            "percentage": 76.3
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 930,
+            "percentage": 23.7
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 76.3
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.38,
+        "warnings": [
+          "Multiple collection days detected (77.7% on FRIDAY)",
+          "Mixed zones with low uniformity (2 zones, 76.3% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 76.3%, ZONE 2: 23.7%)"
+      }
+    },
+    {
+      "suburb": "RED HILL",
+      "stats": {
+        "totalProperties": 2387,
+        "lastUpdated": "2026-10-10T20:18:17.971Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 2387,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1490,
+            "percentage": 62.4
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 897,
+            "percentage": 37.6
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 62.4
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.47,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 62.4% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 62.4%, ZONE 1: 37.6%)"
+      }
+    },
+    {
+      "suburb": "RICHLANDS",
+      "stats": {
+        "totalProperties": 2804,
+        "lastUpdated": "2026-10-10T20:18:17.965Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 66.7,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 1871,
+            "percentage": 66.7
+          },
+          {
+            "day": "THURSDAY",
+            "count": 933,
+            "percentage": 33.3
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1871,
+            "percentage": 66.7
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 933,
+            "percentage": 33.3
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 66.7
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.33,
+        "warnings": [
+          "Multiple collection days detected (66.7% on WEDNESDAY)",
+          "Mixed zones with low uniformity (2 zones, 66.7% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 66.7%, ZONE 1: 33.3%)"
+      }
+    },
+    {
+      "suburb": "ROCHEDALE",
+      "stats": {
+        "totalProperties": 4083,
+        "lastUpdated": "2026-10-10T20:18:17.926Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 4083,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 4083,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "RUNCORN",
+      "stats": {
+        "totalProperties": 5563,
+        "lastUpdated": "2026-10-10T20:18:17.896Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 5563,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 4043,
+            "percentage": 72.7
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 1520,
+            "percentage": 27.3
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 72.7
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.55,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 72.7% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 72.7%, ZONE 1: 27.3%)"
+      }
+    },
+    {
+      "suburb": "SALISBURY",
+      "stats": {
+        "totalProperties": 2958,
+        "lastUpdated": "2026-10-10T20:18:17.957Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 2957,
+            "percentage": 100
+          },
+          {
+            "day": "TUESDAY",
+            "count": 1,
+            "percentage": 0
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2312,
+            "percentage": 78.2
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 646,
+            "percentage": 21.8
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 78.2
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.59,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 78.2% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 78.2%, ZONE 2: 21.8%)"
+      }
+    },
+    {
+      "suburb": "SANDGATE",
+      "stats": {
+        "totalProperties": 1957,
+        "lastUpdated": "2026-10-10T20:18:17.982Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 1957,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 1957,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "SHERWOOD",
+      "stats": {
+        "totalProperties": 2841,
+        "lastUpdated": "2026-10-10T20:18:17.962Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 2841,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2841,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "SINNAMON PARK",
+      "stats": {
+        "totalProperties": 2267,
+        "lastUpdated": "2026-10-10T20:18:17.975Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 2267,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2267,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "SOUTH BRISBANE",
+      "stats": {
+        "totalProperties": 9255,
+        "lastUpdated": "2026-10-10T20:18:17.849Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 9255,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 9255,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "SPRING HILL",
+      "stats": {
+        "totalProperties": 4188,
+        "lastUpdated": "2026-10-10T20:18:17.923Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 4188,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 4188,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "ST LUCIA",
+      "stats": {
+        "totalProperties": 5105,
+        "lastUpdated": "2026-10-10T20:18:17.904Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 5105,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 5105,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "STAFFORD",
+      "stats": {
+        "totalProperties": 3424,
+        "lastUpdated": "2026-10-10T20:18:17.945Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 3424,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2258,
+            "percentage": 65.9
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 1166,
+            "percentage": 34.1
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 65.9
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.49,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 65.9% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 65.9%, ZONE 2: 34.1%)"
+      }
+    },
+    {
+      "suburb": "STAFFORD HEIGHTS",
+      "stats": {
+        "totalProperties": 2817,
+        "lastUpdated": "2026-10-10T20:18:17.964Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 80.2,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 2260,
+            "percentage": 80.2
+          },
+          {
+            "day": "MONDAY",
+            "count": 557,
+            "percentage": 19.8
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2817,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (80.2% on THURSDAY)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "SUNNYBANK",
+      "stats": {
+        "totalProperties": 3636,
+        "lastUpdated": "2026-10-10T20:18:17.940Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 3636,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3635,
+            "percentage": 100
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 1,
+            "percentage": 0
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (100%)"
+      }
+    },
+    {
+      "suburb": "SUNNYBANK HILLS",
+      "stats": {
+        "totalProperties": 6416,
+        "lastUpdated": "2026-10-10T20:18:17.879Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 63,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 4044,
+            "percentage": 63
+          },
+          {
+            "day": "THURSDAY",
+            "count": 2372,
+            "percentage": 37
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 4015,
+            "percentage": 62.6
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 2401,
+            "percentage": 37.4
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 62.6
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.31,
+        "warnings": [
+          "Multiple collection days detected (63% on FRIDAY)",
+          "Mixed zones with low uniformity (2 zones, 62.6% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 62.6%, ZONE 2: 37.4%)"
+      }
+    },
+    {
+      "suburb": "TAIGUM",
+      "stats": {
+        "totalProperties": 3191,
+        "lastUpdated": "2026-10-10T20:18:17.953Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 64.3,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 2051,
+            "percentage": 64.3
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 1140,
+            "percentage": 35.7
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3191,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (64.3% on FRIDAY)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "TARINGA",
+      "stats": {
+        "totalProperties": 4555,
+        "lastUpdated": "2026-10-10T20:18:17.916Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 97.7,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 4448,
+            "percentage": 97.7
+          },
+          {
+            "day": "MONDAY",
+            "count": 107,
+            "percentage": 2.3
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3667,
+            "percentage": 80.5
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 888,
+            "percentage": 19.5
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 80.5
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.6,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (80.5%)"
+      }
+    },
+    {
+      "suburb": "TARRAGINDI",
+      "stats": {
+        "totalProperties": 4204,
+        "lastUpdated": "2026-10-10T20:18:17.922Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 73.3,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 3083,
+            "percentage": 73.3
+          },
+          {
+            "day": "THURSDAY",
+            "count": 1118,
+            "percentage": 26.6
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 3,
+            "percentage": 0.1
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 4204,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (73.3% on FRIDAY)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "TENERIFFE",
+      "stats": {
+        "totalProperties": 3095,
+        "lastUpdated": "2026-10-10T20:18:17.956Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 3095,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3095,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Estimated based on ZONE 1 pattern"
+      }
+    },
+    {
+      "suburb": "THE GAP",
+      "stats": {
+        "totalProperties": 6707,
+        "lastUpdated": "2026-10-10T20:18:17.870Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 99.7,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 6685,
+            "percentage": 99.7
+          },
+          {
+            "day": "TUESDAY",
+            "count": 22,
+            "percentage": 0.3
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 4784,
+            "percentage": 71.3
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 1923,
+            "percentage": 28.7
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 71.3
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.53,
+        "warnings": [
+          "Mixed zones with low uniformity (2 zones, 71.3% in primary)"
+        ],
+        "flags": [
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 71.3%, ZONE 2: 28.7%)"
+      }
+    },
+    {
+      "suburb": "TINGALPA",
+      "stats": {
+        "totalProperties": 3843,
+        "lastUpdated": "2026-10-10T20:18:17.935Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 92.3,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 3547,
+            "percentage": 92.3
+          },
+          {
+            "day": "TUESDAY",
+            "count": 296,
+            "percentage": 7.7
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3547,
+            "percentage": 92.3
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 296,
+            "percentage": 7.7
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 92.3
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.46,
+        "warnings": [
+          "Multiple collection days detected (92.3% on MONDAY)",
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (92.3%)"
+      }
+    },
+    {
+      "suburb": "TOOWONG",
+      "stats": {
+        "totalProperties": 6912,
+        "lastUpdated": "2026-10-10T20:18:17.866Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 6911,
+            "percentage": 100
+          },
+          {
+            "day": "MONDAY",
+            "count": 1,
+            "percentage": 0
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 5543,
+            "percentage": 80.2
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 1369,
+            "percentage": 19.8
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 80.2
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.6,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (80.2%)"
+      }
+    },
+    {
+      "suburb": "UPPER KEDRON",
+      "stats": {
+        "totalProperties": 2264,
+        "lastUpdated": "2026-10-10T20:18:17.976Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 2264,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2263,
+            "percentage": 100
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 1,
+            "percentage": 0
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (100%)"
+      }
+    },
+    {
+      "suburb": "UPPER MOUNT GRAVATT",
+      "stats": {
+        "totalProperties": 4668,
+        "lastUpdated": "2026-10-10T20:18:17.913Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 4668,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 4668,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "WAKERLEY",
+      "stats": {
+        "totalProperties": 3113,
+        "lastUpdated": "2026-10-10T20:18:17.954Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 3113,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 3065,
+            "percentage": 98.5
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 48,
+            "percentage": 1.5
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 98.5
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.74,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (98.5%)"
+      }
+    },
+    {
+      "suburb": "WAVELL HEIGHTS",
+      "stats": {
+        "totalProperties": 4137,
+        "lastUpdated": "2026-10-10T20:18:17.924Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 90.5,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 3742,
+            "percentage": 90.5
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 395,
+            "percentage": 9.5
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 2490,
+            "percentage": 60.2
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 1647,
+            "percentage": 39.8
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 60.2
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.3,
+        "warnings": [
+          "Multiple collection days detected (90.5% on THURSDAY)",
+          "Mixed zones with low uniformity (2 zones, 60.2% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 60.2%, ZONE 1: 39.8%)"
+      }
+    },
+    {
+      "suburb": "WEST END",
+      "stats": {
+        "totalProperties": 8485,
+        "lastUpdated": "2026-10-10T20:18:17.859Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "THURSDAY",
+            "count": 8485,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 8485,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "override",
+        "confidence": 1,
+        "pattern": "A",
+        "notes": "Verified against council website - Green waste on even weeks"
+      }
+    },
+    {
+      "suburb": "WINDSOR",
+      "stats": {
+        "totalProperties": 3709,
+        "lastUpdated": "2026-10-10T20:18:17.939Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 59.8,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 2217,
+            "percentage": 59.8
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 1360,
+            "percentage": 36.7
+          },
+          {
+            "day": "THURSDAY",
+            "count": 132,
+            "percentage": 3.6
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 2217,
+            "percentage": 59.8
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 1492,
+            "percentage": 40.2
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 59.8
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.3,
+        "warnings": [
+          "Multiple collection days detected (59.8% on TUESDAY)",
+          "Mixed zones with low uniformity (2 zones, 59.8% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 1: 59.8%, ZONE 2: 40.2%)"
+      }
+    },
+    {
+      "suburb": "WISHART",
+      "stats": {
+        "totalProperties": 3823,
+        "lastUpdated": "2026-10-10T20:18:17.936Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 3823,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3823,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "WOOLLOONGABBA",
+      "stats": {
+        "totalProperties": 4658,
+        "lastUpdated": "2026-10-10T20:18:17.915Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 58.6,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 2729,
+            "percentage": 58.6
+          },
+          {
+            "day": "THURSDAY",
+            "count": 1929,
+            "percentage": 41.4
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 4657,
+            "percentage": 100
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 1,
+            "percentage": 0
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.5,
+        "warnings": [
+          "Multiple collection days detected (58.6% on WEDNESDAY)",
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (100%)"
+      }
+    },
+    {
+      "suburb": "WOOLOOWIN",
+      "stats": {
+        "totalProperties": 1807,
+        "lastUpdated": "2026-10-10T20:18:17.985Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "WEDNESDAY",
+        "dayUniformity": 89.8,
+        "schedule": [
+          {
+            "day": "WEDNESDAY",
+            "count": 1623,
+            "percentage": 89.8
+          },
+          {
+            "day": "TUESDAY",
+            "count": 184,
+            "percentage": 10.2
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 1623,
+            "percentage": 89.8
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 184,
+            "percentage": 10.2
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 89.8
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.45,
+        "warnings": [
+          "Multiple collection days detected (89.8% on WEDNESDAY)",
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (89.8%)"
+      }
+    },
+    {
+      "suburb": "WYNNUM",
+      "stats": {
+        "totalProperties": 6509,
+        "lastUpdated": "2026-10-10T20:18:17.876Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 6509,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 5634,
+            "percentage": 86.6
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 875,
+            "percentage": 13.4
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 86.6
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.65,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 2 pattern (86.6%)"
+      }
+    },
+    {
+      "suburb": "WYNNUM WEST",
+      "stats": {
+        "totalProperties": 5105,
+        "lastUpdated": "2026-10-10T20:18:17.905Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "MONDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "MONDAY",
+            "count": 5105,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 1",
+            "count": 5090,
+            "percentage": 99.7
+          },
+          {
+            "zone": "ZONE 2",
+            "count": 15,
+            "percentage": 0.3
+          }
+        ],
+        "primaryZone": "ZONE 1",
+        "zoneUniformity": 99.7
+      },
+      "dataQuality": {
+        "level": "medium",
+        "confidence": 0.75,
+        "warnings": [
+          "Multiple zones detected (2 zones)"
+        ],
+        "flags": [
+          "MIXED_ZONES"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.5,
+        "pattern": "ZONE_1_DEFAULT",
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (99.7%)"
+      }
+    },
+    {
+      "suburb": "YERONGA",
+      "stats": {
+        "totalProperties": 3204,
+        "lastUpdated": "2026-10-10T20:18:17.952Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "TUESDAY",
+        "dayUniformity": 100,
+        "schedule": [
+          {
+            "day": "TUESDAY",
+            "count": 3204,
+            "percentage": 100
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3204,
+            "percentage": 100
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 100
+      },
+      "dataQuality": {
+        "level": "high",
+        "confidence": 0.95,
+        "warnings": [],
+        "flags": []
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.6,
+        "pattern": "ZONE_2_DEFAULT",
+        "notes": "Estimated based on ZONE 2 pattern"
+      }
+    },
+    {
+      "suburb": "ZILLMERE",
+      "stats": {
+        "totalProperties": 4053,
+        "lastUpdated": "2026-10-10T20:18:17.927Z",
+        "dataCompleteness": 100
+      },
+      "collection": {
+        "primaryDay": "FRIDAY",
+        "dayUniformity": 76.5,
+        "schedule": [
+          {
+            "day": "FRIDAY",
+            "count": 3101,
+            "percentage": 76.5
+          },
+          {
+            "day": "WEDNESDAY",
+            "count": 952,
+            "percentage": 23.5
+          }
+        ]
+      },
+      "zones": {
+        "distribution": [
+          {
+            "zone": "ZONE 2",
+            "count": 3101,
+            "percentage": 76.5
+          },
+          {
+            "zone": "ZONE 1",
+            "count": 952,
+            "percentage": 23.5
+          }
+        ],
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 76.5
+      },
+      "dataQuality": {
+        "level": "low",
+        "confidence": 0.38,
+        "warnings": [
+          "Multiple collection days detected (76.5% on FRIDAY)",
+          "Mixed zones with low uniformity (2 zones, 76.5% in primary)"
+        ],
+        "flags": [
+          "MULTIPLE_DAYS",
+          "MIXED_ZONES_LOW_UNIFORMITY"
+        ]
+      },
+      "binPattern": {
+        "source": "estimated",
+        "confidence": 0.3,
+        "pattern": "MIXED",
+        "notes": "Multiple zones with no clear majority (ZONE 2: 76.5%, ZONE 1: 23.5%)"
+      }
+    }
+  ]
+}

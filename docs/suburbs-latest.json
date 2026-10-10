@@ -1,9 +1,9 @@
 {
   "metadata": {
     "version": "2.0",
-    "generated": "2026-10-03T19:35:28.036Z",
+    "generated": "2026-10-10T20:18:17.996Z",
     "dataSource": "Brisbane City Council Open Data",
-    "processingTime": 2537.890902717,
+    "processingTime": 2436.966159418,
     "suburbCount": 126,
     "totalProperties": 492392
   },
@@ -12,7 +12,7 @@
       "suburb": "ACACIA RIDGE",
       "stats": {
         "totalProperties": 3795,
-        "lastUpdated": "2026-10-03T19:35:27.990Z",
+        "lastUpdated": "2026-10-10T20:18:17.938Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -70,7 +70,7 @@
       "suburb": "ALBION",
       "stats": {
         "totalProperties": 2271,
-        "lastUpdated": "2026-10-03T19:35:28.019Z",
+        "lastUpdated": "2026-10-10T20:18:17.974Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -128,7 +128,7 @@
       "suburb": "ALDERLEY",
       "stats": {
         "totalProperties": 3099,
-        "lastUpdated": "2026-10-03T19:35:28.003Z",
+        "lastUpdated": "2026-10-10T20:18:17.955Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -186,7 +186,7 @@
       "suburb": "ALGESTER",
       "stats": {
         "totalProperties": 3535,
-        "lastUpdated": "2026-10-03T19:35:27.994Z",
+        "lastUpdated": "2026-10-10T20:18:17.943Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -247,7 +247,7 @@
       "suburb": "ANNERLEY",
       "stats": {
         "totalProperties": 5286,
-        "lastUpdated": "2026-10-03T19:35:27.959Z",
+        "lastUpdated": "2026-10-10T20:18:17.901Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -315,7 +315,7 @@
       "suburb": "ASCOT",
       "stats": {
         "totalProperties": 3360,
-        "lastUpdated": "2026-10-03T19:35:27.996Z",
+        "lastUpdated": "2026-10-10T20:18:17.947Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -366,7 +366,7 @@
       "suburb": "ASHGROVE",
       "stats": {
         "totalProperties": 5344,
-        "lastUpdated": "2026-10-03T19:35:27.958Z",
+        "lastUpdated": "2026-10-10T20:18:17.899Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -424,7 +424,7 @@
       "suburb": "ASPLEY",
       "stats": {
         "totalProperties": 5024,
-        "lastUpdated": "2026-10-03T19:35:27.965Z",
+        "lastUpdated": "2026-10-10T20:18:17.907Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -497,7 +497,7 @@
       "suburb": "AUCHENFLOWER",
       "stats": {
         "totalProperties": 3246,
-        "lastUpdated": "2026-10-03T19:35:27.998Z",
+        "lastUpdated": "2026-10-10T20:18:17.949Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -539,7 +539,7 @@
       "suburb": "BALD HILLS",
       "stats": {
         "totalProperties": 2798,
-        "lastUpdated": "2026-10-03T19:35:28.012Z",
+        "lastUpdated": "2026-10-10T20:18:17.966Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -590,7 +590,7 @@
       "suburb": "BALMORAL",
       "stats": {
         "totalProperties": 1824,
-        "lastUpdated": "2026-10-03T19:35:28.026Z",
+        "lastUpdated": "2026-10-10T20:18:17.984Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -641,7 +641,7 @@
       "suburb": "BANYO",
       "stats": {
         "totalProperties": 2848,
-        "lastUpdated": "2026-10-03T19:35:28.008Z",
+        "lastUpdated": "2026-10-10T20:18:17.961Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -692,7 +692,7 @@
       "suburb": "BARDON",
       "stats": {
         "totalProperties": 3868,
-        "lastUpdated": "2026-10-03T19:35:27.986Z",
+        "lastUpdated": "2026-10-10T20:18:17.933Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -750,7 +750,7 @@
       "suburb": "BELLBOWRIE",
       "stats": {
         "totalProperties": 2026,
-        "lastUpdated": "2026-10-03T19:35:28.023Z",
+        "lastUpdated": "2026-10-10T20:18:17.980Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -792,7 +792,7 @@
       "suburb": "BOONDALL",
       "stats": {
         "totalProperties": 3930,
-        "lastUpdated": "2026-10-03T19:35:27.983Z",
+        "lastUpdated": "2026-10-10T20:18:17.930Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -853,7 +853,7 @@
       "suburb": "BOWEN HILLS",
       "stats": {
         "totalProperties": 3470,
-        "lastUpdated": "2026-10-03T19:35:27.994Z",
+        "lastUpdated": "2026-10-10T20:18:17.944Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -904,7 +904,7 @@
       "suburb": "BRACKEN RIDGE",
       "stats": {
         "totalProperties": 6680,
-        "lastUpdated": "2026-10-03T19:35:27.936Z",
+        "lastUpdated": "2026-10-10T20:18:17.873Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -955,7 +955,7 @@
       "suburb": "BRIDGEMAN DOWNS",
       "stats": {
         "totalProperties": 4518,
-        "lastUpdated": "2026-10-03T19:35:27.973Z",
+        "lastUpdated": "2026-10-10T20:18:17.917Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1002,7 +1002,7 @@
       "suburb": "BRIGHTON",
       "stats": {
         "totalProperties": 4005,
-        "lastUpdated": "2026-10-03T19:35:27.982Z",
+        "lastUpdated": "2026-10-10T20:18:17.928Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1044,7 +1044,7 @@
       "suburb": "BULIMBA",
       "stats": {
         "totalProperties": 3585,
-        "lastUpdated": "2026-10-03T19:35:27.992Z",
+        "lastUpdated": "2026-10-10T20:18:17.941Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1095,7 +1095,7 @@
       "suburb": "CALAMVALE",
       "stats": {
         "totalProperties": 6856,
-        "lastUpdated": "2026-10-03T19:35:27.932Z",
+        "lastUpdated": "2026-10-10T20:18:17.868Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1151,7 +1151,7 @@
       "suburb": "CAMP HILL",
       "stats": {
         "totalProperties": 4956,
-        "lastUpdated": "2026-10-03T19:35:27.968Z",
+        "lastUpdated": "2026-10-10T20:18:17.911Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1209,7 +1209,7 @@
       "suburb": "CANNON HILL",
       "stats": {
         "totalProperties": 2941,
-        "lastUpdated": "2026-10-03T19:35:28.006Z",
+        "lastUpdated": "2026-10-10T20:18:17.959Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1251,7 +1251,7 @@
       "suburb": "CARINA",
       "stats": {
         "totalProperties": 5522,
-        "lastUpdated": "2026-10-03T19:35:27.957Z",
+        "lastUpdated": "2026-10-10T20:18:17.898Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1298,7 +1298,7 @@
       "suburb": "CARINA HEIGHTS",
       "stats": {
         "totalProperties": 3322,
-        "lastUpdated": "2026-10-03T19:35:27.997Z",
+        "lastUpdated": "2026-10-10T20:18:17.948Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1340,7 +1340,7 @@
       "suburb": "CARINDALE",
       "stats": {
         "totalProperties": 5829,
-        "lastUpdated": "2026-10-03T19:35:27.948Z",
+        "lastUpdated": "2026-10-10T20:18:17.887Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1391,7 +1391,7 @@
       "suburb": "CARSELDINE",
       "stats": {
         "totalProperties": 4229,
-        "lastUpdated": "2026-10-03T19:35:27.976Z",
+        "lastUpdated": "2026-10-10T20:18:17.921Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1433,7 +1433,7 @@
       "suburb": "CHAPEL HILL",
       "stats": {
         "totalProperties": 3857,
-        "lastUpdated": "2026-10-03T19:35:27.986Z",
+        "lastUpdated": "2026-10-10T20:18:17.935Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1475,7 +1475,7 @@
       "suburb": "CHERMSIDE",
       "stats": {
         "totalProperties": 6400,
-        "lastUpdated": "2026-10-03T19:35:27.944Z",
+        "lastUpdated": "2026-10-10T20:18:17.881Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1526,7 +1526,7 @@
       "suburb": "CHERMSIDE WEST",
       "stats": {
         "totalProperties": 2656,
-        "lastUpdated": "2026-10-03T19:35:28.013Z",
+        "lastUpdated": "2026-10-10T20:18:17.967Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1589,7 +1589,7 @@
       "suburb": "CLAYFIELD",
       "stats": {
         "totalProperties": 5732,
-        "lastUpdated": "2026-10-03T19:35:27.953Z",
+        "lastUpdated": "2026-10-10T20:18:17.892Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1640,7 +1640,7 @@
       "suburb": "COOPERS PLAINS",
       "stats": {
         "totalProperties": 2992,
-        "lastUpdated": "2026-10-03T19:35:28.005Z",
+        "lastUpdated": "2026-10-10T20:18:17.956Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1691,7 +1691,7 @@
       "suburb": "COORPAROO",
       "stats": {
         "totalProperties": 8940,
-        "lastUpdated": "2026-10-03T19:35:27.922Z",
+        "lastUpdated": "2026-10-10T20:18:17.855Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1754,7 +1754,7 @@
       "suburb": "CORINDA",
       "stats": {
         "totalProperties": 2217,
-        "lastUpdated": "2026-10-03T19:35:28.020Z",
+        "lastUpdated": "2026-10-10T20:18:17.977Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1801,7 +1801,7 @@
       "suburb": "DARRA",
       "stats": {
         "totalProperties": 2133,
-        "lastUpdated": "2026-10-03T19:35:28.022Z",
+        "lastUpdated": "2026-10-10T20:18:17.979Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1852,7 +1852,7 @@
       "suburb": "DEAGON",
       "stats": {
         "totalProperties": 1731,
-        "lastUpdated": "2026-10-03T19:35:28.028Z",
+        "lastUpdated": "2026-10-10T20:18:17.986Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1894,7 +1894,7 @@
       "suburb": "DOOLANDELLA",
       "stats": {
         "totalProperties": 2862,
-        "lastUpdated": "2026-10-03T19:35:28.007Z",
+        "lastUpdated": "2026-10-10T20:18:17.961Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1945,7 +1945,7 @@
       "suburb": "DURACK",
       "stats": {
         "totalProperties": 2294,
-        "lastUpdated": "2026-10-03T19:35:28.017Z",
+        "lastUpdated": "2026-10-10T20:18:17.972Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2008,7 +2008,7 @@
       "suburb": "EAST BRISBANE",
       "stats": {
         "totalProperties": 3236,
-        "lastUpdated": "2026-10-03T19:35:28.000Z",
+        "lastUpdated": "2026-10-10T20:18:17.950Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2055,7 +2055,7 @@
       "suburb": "EIGHT MILE PLAINS",
       "stats": {
         "totalProperties": 5801,
-        "lastUpdated": "2026-10-03T19:35:27.951Z",
+        "lastUpdated": "2026-10-10T20:18:17.891Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2097,7 +2097,7 @@
       "suburb": "ENOGGERA",
       "stats": {
         "totalProperties": 2193,
-        "lastUpdated": "2026-10-03T19:35:28.021Z",
+        "lastUpdated": "2026-10-10T20:18:17.978Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2155,7 +2155,7 @@
       "suburb": "EVERTON PARK",
       "stats": {
         "totalProperties": 4979,
-        "lastUpdated": "2026-10-03T19:35:27.967Z",
+        "lastUpdated": "2026-10-10T20:18:17.910Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2213,7 +2213,7 @@
       "suburb": "FERNY GROVE",
       "stats": {
         "totalProperties": 2291,
-        "lastUpdated": "2026-10-03T19:35:28.018Z",
+        "lastUpdated": "2026-10-10T20:18:17.973Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2255,7 +2255,7 @@
       "suburb": "FITZGIBBON",
       "stats": {
         "totalProperties": 2495,
-        "lastUpdated": "2026-10-03T19:35:28.016Z",
+        "lastUpdated": "2026-10-10T20:18:17.970Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2306,7 +2306,7 @@
       "suburb": "FOREST LAKE",
       "stats": {
         "totalProperties": 8287,
-        "lastUpdated": "2026-10-03T19:35:27.928Z",
+        "lastUpdated": "2026-10-10T20:18:17.861Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2357,7 +2357,7 @@
       "suburb": "FORTITUDE VALLEY",
       "stats": {
         "totalProperties": 6577,
-        "lastUpdated": "2026-10-03T19:35:27.938Z",
+        "lastUpdated": "2026-10-10T20:18:17.874Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2408,7 +2408,7 @@
       "suburb": "GEEBUNG",
       "stats": {
         "totalProperties": 2601,
-        "lastUpdated": "2026-10-03T19:35:28.015Z",
+        "lastUpdated": "2026-10-10T20:18:17.969Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2471,7 +2471,7 @@
       "suburb": "GORDON PARK",
       "stats": {
         "totalProperties": 2020,
-        "lastUpdated": "2026-10-03T19:35:28.024Z",
+        "lastUpdated": "2026-10-10T20:18:17.982Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2513,7 +2513,7 @@
       "suburb": "GRACEVILLE",
       "stats": {
         "totalProperties": 1828,
-        "lastUpdated": "2026-10-03T19:35:28.026Z",
+        "lastUpdated": "2026-10-10T20:18:17.983Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2564,7 +2564,7 @@
       "suburb": "GRANGE",
       "stats": {
         "totalProperties": 1732,
-        "lastUpdated": "2026-10-03T19:35:28.027Z",
+        "lastUpdated": "2026-10-10T20:18:17.985Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2620,7 +2620,7 @@
       "suburb": "GREENSLOPES",
       "stats": {
         "totalProperties": 3885,
-        "lastUpdated": "2026-10-03T19:35:27.985Z",
+        "lastUpdated": "2026-10-10T20:18:17.933Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2671,7 +2671,7 @@
       "suburb": "HAMILTON",
       "stats": {
         "totalProperties": 5671,
-        "lastUpdated": "2026-10-03T19:35:27.954Z",
+        "lastUpdated": "2026-10-10T20:18:17.894Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2713,7 +2713,7 @@
       "suburb": "HAWTHORNE",
       "stats": {
         "totalProperties": 2282,
-        "lastUpdated": "2026-10-03T19:35:28.018Z",
+        "lastUpdated": "2026-10-10T20:18:17.974Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2755,7 +2755,7 @@
       "suburb": "HEATHWOOD",
       "stats": {
         "totalProperties": 1930,
-        "lastUpdated": "2026-10-03T19:35:28.025Z",
+        "lastUpdated": "2026-10-10T20:18:17.983Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2797,7 +2797,7 @@
       "suburb": "HENDRA",
       "stats": {
         "totalProperties": 2100,
-        "lastUpdated": "2026-10-03T19:35:28.023Z",
+        "lastUpdated": "2026-10-10T20:18:17.979Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2848,7 +2848,7 @@
       "suburb": "HIGHGATE HILL",
       "stats": {
         "totalProperties": 2383,
-        "lastUpdated": "2026-10-03T19:35:28.017Z",
+        "lastUpdated": "2026-10-10T20:18:17.972Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2890,7 +2890,7 @@
       "suburb": "HOLLAND PARK",
       "stats": {
         "totalProperties": 3173,
-        "lastUpdated": "2026-10-03T19:35:28.002Z",
+        "lastUpdated": "2026-10-10T20:18:17.953Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2941,7 +2941,7 @@
       "suburb": "HOLLAND PARK WEST",
       "stats": {
         "totalProperties": 2824,
-        "lastUpdated": "2026-10-03T19:35:28.010Z",
+        "lastUpdated": "2026-10-10T20:18:17.964Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3002,7 +3002,7 @@
       "suburb": "INALA",
       "stats": {
         "totalProperties": 5065,
-        "lastUpdated": "2026-10-03T19:35:27.964Z",
+        "lastUpdated": "2026-10-10T20:18:17.906Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3060,7 +3060,7 @@
       "suburb": "INDOOROOPILLY",
       "stats": {
         "totalProperties": 6416,
-        "lastUpdated": "2026-10-03T19:35:27.941Z",
+        "lastUpdated": "2026-10-10T20:18:17.878Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3111,7 +3111,7 @@
       "suburb": "JINDALEE",
       "stats": {
         "totalProperties": 2025,
-        "lastUpdated": "2026-10-03T19:35:28.024Z",
+        "lastUpdated": "2026-10-10T20:18:17.981Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3153,7 +3153,7 @@
       "suburb": "KANGAROO POINT",
       "stats": {
         "totalProperties": 5815,
-        "lastUpdated": "2026-10-03T19:35:27.950Z",
+        "lastUpdated": "2026-10-10T20:18:17.889Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3195,7 +3195,7 @@
       "suburb": "KEDRON",
       "stats": {
         "totalProperties": 4409,
-        "lastUpdated": "2026-10-03T19:35:27.974Z",
+        "lastUpdated": "2026-10-10T20:18:17.918Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3253,7 +3253,7 @@
       "suburb": "KELVIN GROVE",
       "stats": {
         "totalProperties": 3566,
-        "lastUpdated": "2026-10-03T19:35:27.993Z",
+        "lastUpdated": "2026-10-10T20:18:17.942Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3304,7 +3304,7 @@
       "suburb": "KENMORE",
       "stats": {
         "totalProperties": 4087,
-        "lastUpdated": "2026-10-03T19:35:27.979Z",
+        "lastUpdated": "2026-10-10T20:18:17.925Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3355,7 +3355,7 @@
       "suburb": "KEPERRA",
       "stats": {
         "totalProperties": 2946,
-        "lastUpdated": "2026-10-03T19:35:28.006Z",
+        "lastUpdated": "2026-10-10T20:18:17.958Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3397,7 +3397,7 @@
       "suburb": "KURABY",
       "stats": {
         "totalProperties": 2887,
-        "lastUpdated": "2026-10-03T19:35:28.007Z",
+        "lastUpdated": "2026-10-10T20:18:17.959Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3439,7 +3439,7 @@
       "suburb": "LUTWYCHE",
       "stats": {
         "totalProperties": 2663,
-        "lastUpdated": "2026-10-03T19:35:28.012Z",
+        "lastUpdated": "2026-10-10T20:18:17.966Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3502,7 +3502,7 @@
       "suburb": "MACGREGOR",
       "stats": {
         "totalProperties": 2203,
-        "lastUpdated": "2026-10-03T19:35:28.021Z",
+        "lastUpdated": "2026-10-10T20:18:17.977Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3553,7 +3553,7 @@
       "suburb": "MANLY",
       "stats": {
         "totalProperties": 1898,
-        "lastUpdated": "2026-10-03T19:35:28.026Z",
+        "lastUpdated": "2026-10-10T20:18:17.983Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3595,7 +3595,7 @@
       "suburb": "MANLY WEST",
       "stats": {
         "totalProperties": 4699,
-        "lastUpdated": "2026-10-03T19:35:27.969Z",
+        "lastUpdated": "2026-10-10T20:18:17.912Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3637,7 +3637,7 @@
       "suburb": "MANSFIELD",
       "stats": {
         "totalProperties": 3402,
-        "lastUpdated": "2026-10-03T19:35:27.996Z",
+        "lastUpdated": "2026-10-10T20:18:17.945Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3688,7 +3688,7 @@
       "suburb": "MCDOWALL",
       "stats": {
         "totalProperties": 3286,
-        "lastUpdated": "2026-10-03T19:35:27.998Z",
+        "lastUpdated": "2026-10-10T20:18:17.948Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3746,7 +3746,7 @@
       "suburb": "MILTON",
       "stats": {
         "totalProperties": 2616,
-        "lastUpdated": "2026-10-03T19:35:28.014Z",
+        "lastUpdated": "2026-10-10T20:18:17.968Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3788,7 +3788,7 @@
       "suburb": "MITCHELTON",
       "stats": {
         "totalProperties": 3822,
-        "lastUpdated": "2026-10-03T19:35:27.989Z",
+        "lastUpdated": "2026-10-10T20:18:17.937Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3839,7 +3839,7 @@
       "suburb": "MOGGILL",
       "stats": {
         "totalProperties": 2023,
-        "lastUpdated": "2026-10-03T19:35:28.024Z",
+        "lastUpdated": "2026-10-10T20:18:17.981Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3881,7 +3881,7 @@
       "suburb": "MOOROOKA",
       "stats": {
         "totalProperties": 4991,
-        "lastUpdated": "2026-10-03T19:35:27.966Z",
+        "lastUpdated": "2026-10-10T20:18:17.909Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3937,7 +3937,7 @@
       "suburb": "MORNINGSIDE",
       "stats": {
         "totalProperties": 5890,
-        "lastUpdated": "2026-10-03T19:35:27.947Z",
+        "lastUpdated": "2026-10-10T20:18:17.886Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3988,7 +3988,7 @@
       "suburb": "MOUNT GRAVATT EAST",
       "stats": {
         "totalProperties": 5134,
-        "lastUpdated": "2026-10-03T19:35:27.961Z",
+        "lastUpdated": "2026-10-10T20:18:17.902Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4044,7 +4044,7 @@
       "suburb": "MURARRIE",
       "stats": {
         "totalProperties": 2620,
-        "lastUpdated": "2026-10-03T19:35:28.014Z",
+        "lastUpdated": "2026-10-10T20:18:17.968Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4107,7 +4107,7 @@
       "suburb": "NEW FARM",
       "stats": {
         "totalProperties": 6340,
-        "lastUpdated": "2026-10-03T19:35:27.945Z",
+        "lastUpdated": "2026-10-10T20:18:17.884Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4149,7 +4149,7 @@
       "suburb": "NEWMARKET",
       "stats": {
         "totalProperties": 2141,
-        "lastUpdated": "2026-10-03T19:35:28.021Z",
+        "lastUpdated": "2026-10-10T20:18:17.978Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4212,7 +4212,7 @@
       "suburb": "NEWSTEAD",
       "stats": {
         "totalProperties": 5637,
-        "lastUpdated": "2026-10-03T19:35:27.955Z",
+        "lastUpdated": "2026-10-10T20:18:17.895Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4254,7 +4254,7 @@
       "suburb": "NORMAN PARK",
       "stats": {
         "totalProperties": 2826,
-        "lastUpdated": "2026-10-03T19:35:28.009Z",
+        "lastUpdated": "2026-10-10T20:18:17.963Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4305,7 +4305,7 @@
       "suburb": "NORTHGATE",
       "stats": {
         "totalProperties": 2519,
-        "lastUpdated": "2026-10-03T19:35:28.015Z",
+        "lastUpdated": "2026-10-10T20:18:17.970Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4356,7 +4356,7 @@
       "suburb": "NUDGEE",
       "stats": {
         "totalProperties": 1823,
-        "lastUpdated": "2026-10-03T19:35:28.027Z",
+        "lastUpdated": "2026-10-10T20:18:17.984Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4407,7 +4407,7 @@
       "suburb": "NUNDAH",
       "stats": {
         "totalProperties": 7270,
-        "lastUpdated": "2026-10-03T19:35:27.929Z",
+        "lastUpdated": "2026-10-10T20:18:17.863Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4458,7 +4458,7 @@
       "suburb": "OXLEY",
       "stats": {
         "totalProperties": 3971,
-        "lastUpdated": "2026-10-03T19:35:27.982Z",
+        "lastUpdated": "2026-10-10T20:18:17.929Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4514,7 +4514,7 @@
       "suburb": "PADDINGTON",
       "stats": {
         "totalProperties": 4236,
-        "lastUpdated": "2026-10-03T19:35:27.975Z",
+        "lastUpdated": "2026-10-10T20:18:17.920Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4565,7 +4565,7 @@
       "suburb": "PALLARA",
       "stats": {
         "totalProperties": 3232,
-        "lastUpdated": "2026-10-03T19:35:28.000Z",
+        "lastUpdated": "2026-10-10T20:18:17.951Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4607,7 +4607,7 @@
       "suburb": "PARKINSON",
       "stats": {
         "totalProperties": 3922,
-        "lastUpdated": "2026-10-03T19:35:27.984Z",
+        "lastUpdated": "2026-10-10T20:18:17.931Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4670,7 +4670,7 @@
       "suburb": "RED HILL",
       "stats": {
         "totalProperties": 2387,
-        "lastUpdated": "2026-10-03T19:35:28.016Z",
+        "lastUpdated": "2026-10-10T20:18:17.971Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4721,7 +4721,7 @@
       "suburb": "RICHLANDS",
       "stats": {
         "totalProperties": 2804,
-        "lastUpdated": "2026-10-03T19:35:28.011Z",
+        "lastUpdated": "2026-10-10T20:18:17.965Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4779,7 +4779,7 @@
       "suburb": "ROCHEDALE",
       "stats": {
         "totalProperties": 4083,
-        "lastUpdated": "2026-10-03T19:35:27.980Z",
+        "lastUpdated": "2026-10-10T20:18:17.926Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4821,7 +4821,7 @@
       "suburb": "RUNCORN",
       "stats": {
         "totalProperties": 5563,
-        "lastUpdated": "2026-10-03T19:35:27.956Z",
+        "lastUpdated": "2026-10-10T20:18:17.896Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4872,7 +4872,7 @@
       "suburb": "SALISBURY",
       "stats": {
         "totalProperties": 2958,
-        "lastUpdated": "2026-10-03T19:35:28.005Z",
+        "lastUpdated": "2026-10-10T20:18:17.957Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4928,7 +4928,7 @@
       "suburb": "SANDGATE",
       "stats": {
         "totalProperties": 1957,
-        "lastUpdated": "2026-10-03T19:35:28.025Z",
+        "lastUpdated": "2026-10-10T20:18:17.982Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4970,7 +4970,7 @@
       "suburb": "SHERWOOD",
       "stats": {
         "totalProperties": 2841,
-        "lastUpdated": "2026-10-03T19:35:28.009Z",
+        "lastUpdated": "2026-10-10T20:18:17.962Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5012,7 +5012,7 @@
       "suburb": "SINNAMON PARK",
       "stats": {
         "totalProperties": 2267,
-        "lastUpdated": "2026-10-03T19:35:28.019Z",
+        "lastUpdated": "2026-10-10T20:18:17.975Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5054,7 +5054,7 @@
       "suburb": "SOUTH BRISBANE",
       "stats": {
         "totalProperties": 9255,
-        "lastUpdated": "2026-10-03T19:35:27.917Z",
+        "lastUpdated": "2026-10-10T20:18:17.849Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5096,7 +5096,7 @@
       "suburb": "SPRING HILL",
       "stats": {
         "totalProperties": 4188,
-        "lastUpdated": "2026-10-03T19:35:27.978Z",
+        "lastUpdated": "2026-10-10T20:18:17.923Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5138,7 +5138,7 @@
       "suburb": "ST LUCIA",
       "stats": {
         "totalProperties": 5105,
-        "lastUpdated": "2026-10-03T19:35:27.962Z",
+        "lastUpdated": "2026-10-10T20:18:17.904Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5180,7 +5180,7 @@
       "suburb": "STAFFORD",
       "stats": {
         "totalProperties": 3424,
-        "lastUpdated": "2026-10-03T19:35:27.995Z",
+        "lastUpdated": "2026-10-10T20:18:17.945Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5231,7 +5231,7 @@
       "suburb": "STAFFORD HEIGHTS",
       "stats": {
         "totalProperties": 2817,
-        "lastUpdated": "2026-10-03T19:35:28.011Z",
+        "lastUpdated": "2026-10-10T20:18:17.964Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5282,7 +5282,7 @@
       "suburb": "SUNNYBANK",
       "stats": {
         "totalProperties": 3636,
-        "lastUpdated": "2026-10-03T19:35:27.991Z",
+        "lastUpdated": "2026-10-10T20:18:17.940Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5333,7 +5333,7 @@
       "suburb": "SUNNYBANK HILLS",
       "stats": {
         "totalProperties": 6416,
-        "lastUpdated": "2026-10-03T19:35:27.942Z",
+        "lastUpdated": "2026-10-10T20:18:17.879Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5391,7 +5391,7 @@
       "suburb": "TAIGUM",
       "stats": {
         "totalProperties": 3191,
-        "lastUpdated": "2026-10-03T19:35:28.001Z",
+        "lastUpdated": "2026-10-10T20:18:17.953Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5442,7 +5442,7 @@
       "suburb": "TARINGA",
       "stats": {
         "totalProperties": 4555,
-        "lastUpdated": "2026-10-03T19:35:27.972Z",
+        "lastUpdated": "2026-10-10T20:18:17.916Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5498,7 +5498,7 @@
       "suburb": "TARRAGINDI",
       "stats": {
         "totalProperties": 4204,
-        "lastUpdated": "2026-10-03T19:35:27.977Z",
+        "lastUpdated": "2026-10-10T20:18:17.922Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5554,7 +5554,7 @@
       "suburb": "TENERIFFE",
       "stats": {
         "totalProperties": 3095,
-        "lastUpdated": "2026-10-03T19:35:28.004Z",
+        "lastUpdated": "2026-10-10T20:18:17.956Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5596,7 +5596,7 @@
       "suburb": "THE GAP",
       "stats": {
         "totalProperties": 6707,
-        "lastUpdated": "2026-10-03T19:35:27.934Z",
+        "lastUpdated": "2026-10-10T20:18:17.870Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5652,7 +5652,7 @@
       "suburb": "TINGALPA",
       "stats": {
         "totalProperties": 3843,
-        "lastUpdated": "2026-10-03T19:35:27.988Z",
+        "lastUpdated": "2026-10-10T20:18:17.935Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5710,7 +5710,7 @@
       "suburb": "TOOWONG",
       "stats": {
         "totalProperties": 6912,
-        "lastUpdated": "2026-10-03T19:35:27.931Z",
+        "lastUpdated": "2026-10-10T20:18:17.866Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5766,7 +5766,7 @@
       "suburb": "UPPER KEDRON",
       "stats": {
         "totalProperties": 2264,
-        "lastUpdated": "2026-10-03T19:35:28.020Z",
+        "lastUpdated": "2026-10-10T20:18:17.976Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5817,7 +5817,7 @@
       "suburb": "UPPER MOUNT GRAVATT",
       "stats": {
         "totalProperties": 4668,
-        "lastUpdated": "2026-10-03T19:35:27.970Z",
+        "lastUpdated": "2026-10-10T20:18:17.913Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5859,7 +5859,7 @@
       "suburb": "WAKERLEY",
       "stats": {
         "totalProperties": 3113,
-        "lastUpdated": "2026-10-03T19:35:28.003Z",
+        "lastUpdated": "2026-10-10T20:18:17.954Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5910,7 +5910,7 @@
       "suburb": "WAVELL HEIGHTS",
       "stats": {
         "totalProperties": 4137,
-        "lastUpdated": "2026-10-03T19:35:27.978Z",
+        "lastUpdated": "2026-10-10T20:18:17.924Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5968,7 +5968,7 @@
       "suburb": "WEST END",
       "stats": {
         "totalProperties": 8485,
-        "lastUpdated": "2026-10-03T19:35:27.926Z",
+        "lastUpdated": "2026-10-10T20:18:17.859Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6010,7 +6010,7 @@
       "suburb": "WINDSOR",
       "stats": {
         "totalProperties": 3709,
-        "lastUpdated": "2026-10-03T19:35:27.991Z",
+        "lastUpdated": "2026-10-10T20:18:17.939Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6073,7 +6073,7 @@
       "suburb": "WISHART",
       "stats": {
         "totalProperties": 3823,
-        "lastUpdated": "2026-10-03T19:35:27.988Z",
+        "lastUpdated": "2026-10-10T20:18:17.936Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6115,7 +6115,7 @@
       "suburb": "WOOLLOONGABBA",
       "stats": {
         "totalProperties": 4658,
-        "lastUpdated": "2026-10-03T19:35:27.971Z",
+        "lastUpdated": "2026-10-10T20:18:17.915Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6173,7 +6173,7 @@
       "suburb": "WOOLOOWIN",
       "stats": {
         "totalProperties": 1807,
-        "lastUpdated": "2026-10-03T19:35:28.027Z",
+        "lastUpdated": "2026-10-10T20:18:17.985Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6231,7 +6231,7 @@
       "suburb": "WYNNUM",
       "stats": {
         "totalProperties": 6509,
-        "lastUpdated": "2026-10-03T19:35:27.940Z",
+        "lastUpdated": "2026-10-10T20:18:17.876Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6282,7 +6282,7 @@
       "suburb": "WYNNUM WEST",
       "stats": {
         "totalProperties": 5105,
-        "lastUpdated": "2026-10-03T19:35:27.963Z",
+        "lastUpdated": "2026-10-10T20:18:17.905Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6333,7 +6333,7 @@
       "suburb": "YERONGA",
       "stats": {
         "totalProperties": 3204,
-        "lastUpdated": "2026-10-03T19:35:28.001Z",
+        "lastUpdated": "2026-10-10T20:18:17.952Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6375,7 +6375,7 @@
       "suburb": "ZILLMERE",
       "stats": {
         "totalProperties": 4053,
-        "lastUpdated": "2026-10-03T19:35:27.981Z",
+        "lastUpdated": "2026-10-10T20:18:17.927Z",
         "dataCompleteness": 100
       },
       "collection": {
