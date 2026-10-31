@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-24T19:16:34.102Z",
+  "generated": "2026-10-31T20:25:23.375Z",
   "suburbs": {
     "ACACIA RIDGE": {
       "day": "WEDNESDAY",
@@ -18,10 +18,10 @@
       "pattern": "MIXED"
     },
     "ALDERLEY": {
-      "day": "MONDAY",
-      "dayUniformity": 50.5,
-      "zone": "ZONE 1",
-      "zoneUniformity": 50.5,
+      "day": "THURSDAY",
+      "dayUniformity": 50.3,
+      "zone": "ZONE 2",
+      "zoneUniformity": 50.3,
       "confidence": 0.25,
       "pattern": "MIXED"
     },
@@ -35,9 +35,9 @@
     },
     "ANNERLEY": {
       "day": "THURSDAY",
-      "dayUniformity": 56.4,
+      "dayUniformity": 56.3,
       "zone": "ZONE 1",
-      "zoneUniformity": 71.2,
+      "zoneUniformity": 71.1,
       "confidence": 0.36,
       "pattern": "MIXED"
     },
@@ -51,7 +51,7 @@
     },
     "ASHGROVE": {
       "day": "TUESDAY",
-      "dayUniformity": 58,
+      "dayUniformity": 57.9,
       "zone": "ZONE 2",
       "zoneUniformity": 61.5,
       "confidence": 0.31,
@@ -59,7 +59,7 @@
     },
     "ASPLEY": {
       "day": "WEDNESDAY",
-      "dayUniformity": 52,
+      "dayUniformity": 51.9,
       "zone": "ZONE 2",
       "zoneUniformity": 90.2,
       "confidence": 0.45,
@@ -157,7 +157,7 @@
       "day": "TUESDAY",
       "dayUniformity": 100,
       "zone": "ZONE 1",
-      "zoneUniformity": 93.7,
+      "zoneUniformity": 93.2,
       "confidence": 0.7,
       "pattern": "ZONE_1_DEFAULT"
     },
@@ -291,7 +291,7 @@
     },
     "DOOLANDELLA": {
       "day": "TUESDAY",
-      "dayUniformity": 75.7,
+      "dayUniformity": 75.9,
       "zone": "ZONE 1",
       "zoneUniformity": 100,
       "confidence": 0.5,
@@ -571,7 +571,7 @@
     },
     "MANSFIELD": {
       "day": "WEDNESDAY",
-      "dayUniformity": 62.6,
+      "dayUniformity": 62.7,
       "zone": "ZONE 2",
       "zoneUniformity": 100,
       "confidence": 0.5,
@@ -725,8 +725,8 @@
       "day": "FRIDAY",
       "dayUniformity": 77.7,
       "zone": "ZONE 1",
-      "zoneUniformity": 76.3,
-      "confidence": 0.38,
+      "zoneUniformity": 77.7,
+      "confidence": 0.39,
       "pattern": "MIXED"
     },
     "RED HILL": {
@@ -867,7 +867,7 @@
     },
     "TARRAGINDI": {
       "day": "FRIDAY",
-      "dayUniformity": 73.3,
+      "dayUniformity": 73.4,
       "zone": "ZONE 1",
       "zoneUniformity": 100,
       "confidence": 0.5,
@@ -1003,9 +1003,9 @@
     },
     "ZILLMERE": {
       "day": "FRIDAY",
-      "dayUniformity": 76.5,
+      "dayUniformity": 76.4,
       "zone": "ZONE 2",
-      "zoneUniformity": 76.5,
+      "zoneUniformity": 76.4,
       "confidence": 0.38,
       "pattern": "MIXED"
     }

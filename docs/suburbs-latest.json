@@ -1,18 +1,18 @@
 {
   "metadata": {
     "version": "2.0",
-    "generated": "2026-10-24T19:16:34.089Z",
+    "generated": "2026-10-31T20:25:23.371Z",
     "dataSource": "Brisbane City Council Open Data",
-    "processingTime": 3063.498674259,
+    "processingTime": 2900.966959821,
     "suburbCount": 126,
-    "totalProperties": 492392
+    "totalProperties": 492977
   },
   "suburbs": [
     {
       "suburb": "ACACIA RIDGE",
       "stats": {
-        "totalProperties": 3795,
-        "lastUpdated": "2026-10-24T19:16:34.035Z",
+        "totalProperties": 3800,
+        "lastUpdated": "2026-10-31T20:25:23.315Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -21,12 +21,12 @@
         "schedule": [
           {
             "day": "WEDNESDAY",
-            "count": 2946,
+            "count": 2949,
             "percentage": 77.6
           },
           {
             "day": "FRIDAY",
-            "count": 849,
+            "count": 851,
             "percentage": 22.4
           }
         ]
@@ -35,12 +35,12 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 2946,
+            "count": 2949,
             "percentage": 77.6
           },
           {
             "zone": "ZONE 1",
-            "count": 849,
+            "count": 851,
             "percentage": 22.4
           }
         ],
@@ -70,7 +70,7 @@
       "suburb": "ALBION",
       "stats": {
         "totalProperties": 2271,
-        "lastUpdated": "2026-10-24T19:16:34.069Z",
+        "lastUpdated": "2026-10-31T20:25:23.350Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -127,48 +127,48 @@
     {
       "suburb": "ALDERLEY",
       "stats": {
-        "totalProperties": 3099,
-        "lastUpdated": "2026-10-24T19:16:34.051Z",
+        "totalProperties": 3152,
+        "lastUpdated": "2026-10-31T20:25:23.331Z",
         "dataCompleteness": 100
       },
       "collection": {
-        "primaryDay": "MONDAY",
-        "dayUniformity": 50.5,
+        "primaryDay": "THURSDAY",
+        "dayUniformity": 50.3,
         "schedule": [
           {
-            "day": "MONDAY",
-            "count": 1565,
-            "percentage": 50.5
+            "day": "THURSDAY",
+            "count": 1586,
+            "percentage": 50.3
           },
           {
-            "day": "THURSDAY",
-            "count": 1534,
-            "percentage": 49.5
+            "day": "MONDAY",
+            "count": 1566,
+            "percentage": 49.7
           }
         ]
       },
       "zones": {
         "distribution": [
           {
-            "zone": "ZONE 1",
-            "count": 1565,
-            "percentage": 50.5
+            "zone": "ZONE 2",
+            "count": 1586,
+            "percentage": 50.3
           },
           {
-            "zone": "ZONE 2",
-            "count": 1534,
-            "percentage": 49.5
+            "zone": "ZONE 1",
+            "count": 1566,
+            "percentage": 49.7
           }
         ],
-        "primaryZone": "ZONE 1",
-        "zoneUniformity": 50.5
+        "primaryZone": "ZONE 2",
+        "zoneUniformity": 50.3
       },
       "dataQuality": {
         "level": "low",
         "confidence": 0.25,
         "warnings": [
-          "Multiple collection days detected (50.5% on MONDAY)",
-          "Mixed zones with low uniformity (2 zones, 50.5% in primary)"
+          "Multiple collection days detected (50.3% on THURSDAY)",
+          "Mixed zones with low uniformity (2 zones, 50.3% in primary)"
         ],
         "flags": [
           "MULTIPLE_DAYS",
@@ -179,14 +179,14 @@
         "source": "estimated",
         "confidence": 0.3,
         "pattern": "MIXED",
-        "notes": "Multiple zones with no clear majority (ZONE 1: 50.5%, ZONE 2: 49.5%)"
+        "notes": "Multiple zones with no clear majority (ZONE 2: 50.3%, ZONE 1: 49.7%)"
       }
     },
     {
       "suburb": "ALGESTER",
       "stats": {
         "totalProperties": 3535,
-        "lastUpdated": "2026-10-24T19:16:34.040Z",
+        "lastUpdated": "2026-10-31T20:25:23.320Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -246,23 +246,23 @@
     {
       "suburb": "ANNERLEY",
       "stats": {
-        "totalProperties": 5286,
-        "lastUpdated": "2026-10-24T19:16:33.999Z",
+        "totalProperties": 5296,
+        "lastUpdated": "2026-10-31T20:25:23.279Z",
         "dataCompleteness": 100
       },
       "collection": {
         "primaryDay": "THURSDAY",
-        "dayUniformity": 56.4,
+        "dayUniformity": 56.3,
         "schedule": [
           {
             "day": "THURSDAY",
             "count": 2981,
-            "percentage": 56.4
+            "percentage": 56.3
           },
           {
             "day": "TUESDAY",
-            "count": 1521,
-            "percentage": 28.8
+            "count": 1531,
+            "percentage": 28.9
           },
           {
             "day": "FRIDAY",
@@ -281,23 +281,23 @@
           {
             "zone": "ZONE 1",
             "count": 3765,
-            "percentage": 71.2
+            "percentage": 71.1
           },
           {
             "zone": "ZONE 2",
-            "count": 1521,
-            "percentage": 28.8
+            "count": 1531,
+            "percentage": 28.9
           }
         ],
         "primaryZone": "ZONE 1",
-        "zoneUniformity": 71.2
+        "zoneUniformity": 71.1
       },
       "dataQuality": {
         "level": "low",
         "confidence": 0.36,
         "warnings": [
-          "Multiple collection days detected (56.4% on THURSDAY)",
-          "Mixed zones with low uniformity (2 zones, 71.2% in primary)"
+          "Multiple collection days detected (56.3% on THURSDAY)",
+          "Mixed zones with low uniformity (2 zones, 71.1% in primary)"
         ],
         "flags": [
           "MULTIPLE_DAYS",
@@ -308,14 +308,14 @@
         "source": "estimated",
         "confidence": 0.3,
         "pattern": "MIXED",
-        "notes": "Multiple zones with no clear majority (ZONE 1: 71.2%, ZONE 2: 28.8%)"
+        "notes": "Multiple zones with no clear majority (ZONE 1: 71.1%, ZONE 2: 28.9%)"
       }
     },
     {
       "suburb": "ASCOT",
       "stats": {
         "totalProperties": 3360,
-        "lastUpdated": "2026-10-24T19:16:34.043Z",
+        "lastUpdated": "2026-10-31T20:25:23.323Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -365,23 +365,23 @@
     {
       "suburb": "ASHGROVE",
       "stats": {
-        "totalProperties": 5344,
-        "lastUpdated": "2026-10-24T19:16:33.997Z",
+        "totalProperties": 5345,
+        "lastUpdated": "2026-10-31T20:25:23.278Z",
         "dataCompleteness": 100
       },
       "collection": {
         "primaryDay": "TUESDAY",
-        "dayUniformity": 58,
+        "dayUniformity": 57.9,
         "schedule": [
           {
             "day": "TUESDAY",
             "count": 3097,
-            "percentage": 58
+            "percentage": 57.9
           },
           {
             "day": "MONDAY",
-            "count": 2247,
-            "percentage": 42
+            "count": 2248,
+            "percentage": 42.1
           }
         ]
       },
@@ -394,7 +394,7 @@
           },
           {
             "zone": "ZONE 1",
-            "count": 2058,
+            "count": 2059,
             "percentage": 38.5
           }
         ],
@@ -405,7 +405,7 @@
         "level": "low",
         "confidence": 0.31,
         "warnings": [
-          "Multiple collection days detected (58% on TUESDAY)",
+          "Multiple collection days detected (57.9% on TUESDAY)",
           "Mixed zones with low uniformity (2 zones, 61.5% in primary)"
         ],
         "flags": [
@@ -423,22 +423,22 @@
     {
       "suburb": "ASPLEY",
       "stats": {
-        "totalProperties": 5024,
-        "lastUpdated": "2026-10-24T19:16:34.005Z",
+        "totalProperties": 5025,
+        "lastUpdated": "2026-10-31T20:25:23.285Z",
         "dataCompleteness": 100
       },
       "collection": {
         "primaryDay": "WEDNESDAY",
-        "dayUniformity": 52,
+        "dayUniformity": 51.9,
         "schedule": [
           {
             "day": "WEDNESDAY",
             "count": 2610,
-            "percentage": 52
+            "percentage": 51.9
           },
           {
             "day": "FRIDAY",
-            "count": 1284,
+            "count": 1285,
             "percentage": 25.6
           },
           {
@@ -462,7 +462,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 4532,
+            "count": 4533,
             "percentage": 90.2
           },
           {
@@ -478,7 +478,7 @@
         "level": "low",
         "confidence": 0.45,
         "warnings": [
-          "Multiple collection days detected (52% on WEDNESDAY)",
+          "Multiple collection days detected (51.9% on WEDNESDAY)",
           "Multiple zones detected (2 zones)"
         ],
         "flags": [
@@ -497,7 +497,7 @@
       "suburb": "AUCHENFLOWER",
       "stats": {
         "totalProperties": 3246,
-        "lastUpdated": "2026-10-24T19:16:34.046Z",
+        "lastUpdated": "2026-10-31T20:25:23.327Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -539,7 +539,7 @@
       "suburb": "BALD HILLS",
       "stats": {
         "totalProperties": 2798,
-        "lastUpdated": "2026-10-24T19:16:34.061Z",
+        "lastUpdated": "2026-10-31T20:25:23.342Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -590,7 +590,7 @@
       "suburb": "BALMORAL",
       "stats": {
         "totalProperties": 1824,
-        "lastUpdated": "2026-10-24T19:16:34.079Z",
+        "lastUpdated": "2026-10-31T20:25:23.360Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -641,7 +641,7 @@
       "suburb": "BANYO",
       "stats": {
         "totalProperties": 2848,
-        "lastUpdated": "2026-10-24T19:16:34.057Z",
+        "lastUpdated": "2026-10-31T20:25:23.338Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -691,8 +691,8 @@
     {
       "suburb": "BARDON",
       "stats": {
-        "totalProperties": 3868,
-        "lastUpdated": "2026-10-24T19:16:34.030Z",
+        "totalProperties": 3870,
+        "lastUpdated": "2026-10-31T20:25:23.310Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -701,7 +701,7 @@
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 3348,
+            "count": 3350,
             "percentage": 86.6
           },
           {
@@ -715,12 +715,12 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 3207,
+            "count": 3208,
             "percentage": 82.9
           },
           {
             "zone": "ZONE 1",
-            "count": 661,
+            "count": 662,
             "percentage": 17.1
           }
         ],
@@ -750,7 +750,7 @@
       "suburb": "BELLBOWRIE",
       "stats": {
         "totalProperties": 2026,
-        "lastUpdated": "2026-10-24T19:16:34.075Z",
+        "lastUpdated": "2026-10-31T20:25:23.356Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -791,8 +791,8 @@
     {
       "suburb": "BOONDALL",
       "stats": {
-        "totalProperties": 3930,
-        "lastUpdated": "2026-10-24T19:16:34.027Z",
+        "totalProperties": 3946,
+        "lastUpdated": "2026-10-31T20:25:23.308Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -801,7 +801,7 @@
         "schedule": [
           {
             "day": "WEDNESDAY",
-            "count": 3885,
+            "count": 3901,
             "percentage": 98.9
           },
           {
@@ -820,7 +820,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 3926,
+            "count": 3942,
             "percentage": 99.9
           },
           {
@@ -853,7 +853,7 @@
       "suburb": "BOWEN HILLS",
       "stats": {
         "totalProperties": 3470,
-        "lastUpdated": "2026-10-24T19:16:34.041Z",
+        "lastUpdated": "2026-10-31T20:25:23.321Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -903,8 +903,8 @@
     {
       "suburb": "BRACKEN RIDGE",
       "stats": {
-        "totalProperties": 6680,
-        "lastUpdated": "2026-10-24T19:16:33.971Z",
+        "totalProperties": 6681,
+        "lastUpdated": "2026-10-31T20:25:23.250Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -913,7 +913,7 @@
         "schedule": [
           {
             "day": "FRIDAY",
-            "count": 6680,
+            "count": 6681,
             "percentage": 100
           }
         ]
@@ -922,7 +922,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 4524,
+            "count": 4525,
             "percentage": 67.7
           },
           {
@@ -955,7 +955,7 @@
       "suburb": "BRIDGEMAN DOWNS",
       "stats": {
         "totalProperties": 4518,
-        "lastUpdated": "2026-10-24T19:16:34.015Z",
+        "lastUpdated": "2026-10-31T20:25:23.295Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1002,7 +1002,7 @@
       "suburb": "BRIGHTON",
       "stats": {
         "totalProperties": 4005,
-        "lastUpdated": "2026-10-24T19:16:34.025Z",
+        "lastUpdated": "2026-10-31T20:25:23.305Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1043,8 +1043,8 @@
     {
       "suburb": "BULIMBA",
       "stats": {
-        "totalProperties": 3585,
-        "lastUpdated": "2026-10-24T19:16:34.038Z",
+        "totalProperties": 3618,
+        "lastUpdated": "2026-10-31T20:25:23.318Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1053,7 +1053,7 @@
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 3585,
+            "count": 3618,
             "percentage": 100
           }
         ]
@@ -1062,17 +1062,17 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 3358,
-            "percentage": 93.7
+            "count": 3373,
+            "percentage": 93.2
           },
           {
             "zone": "ZONE 2",
-            "count": 227,
-            "percentage": 6.3
+            "count": 245,
+            "percentage": 6.8
           }
         ],
         "primaryZone": "ZONE 1",
-        "zoneUniformity": 93.7
+        "zoneUniformity": 93.2
       },
       "dataQuality": {
         "level": "medium",
@@ -1088,14 +1088,14 @@
         "source": "estimated",
         "confidence": 0.5,
         "pattern": "ZONE_1_DEFAULT",
-        "notes": "Mixed zones - using dominant ZONE 1 pattern (93.7%)"
+        "notes": "Mixed zones - using dominant ZONE 1 pattern (93.2%)"
       }
     },
     {
       "suburb": "CALAMVALE",
       "stats": {
         "totalProperties": 6856,
-        "lastUpdated": "2026-10-24T19:16:33.966Z",
+        "lastUpdated": "2026-10-31T20:25:23.246Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1151,7 +1151,7 @@
       "suburb": "CAMP HILL",
       "stats": {
         "totalProperties": 4956,
-        "lastUpdated": "2026-10-24T19:16:34.009Z",
+        "lastUpdated": "2026-10-31T20:25:23.289Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1208,8 +1208,8 @@
     {
       "suburb": "CANNON HILL",
       "stats": {
-        "totalProperties": 2941,
-        "lastUpdated": "2026-10-24T19:16:34.055Z",
+        "totalProperties": 2985,
+        "lastUpdated": "2026-10-31T20:25:23.334Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1218,7 +1218,7 @@
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 2941,
+            "count": 2985,
             "percentage": 100
           }
         ]
@@ -1227,7 +1227,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 2941,
+            "count": 2985,
             "percentage": 100
           }
         ],
@@ -1250,8 +1250,8 @@
     {
       "suburb": "CARINA",
       "stats": {
-        "totalProperties": 5522,
-        "lastUpdated": "2026-10-24T19:16:33.996Z",
+        "totalProperties": 5529,
+        "lastUpdated": "2026-10-31T20:25:23.276Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1260,7 +1260,7 @@
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 5431,
+            "count": 5438,
             "percentage": 98.4
           },
           {
@@ -1274,7 +1274,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 5522,
+            "count": 5529,
             "percentage": 100
           }
         ],
@@ -1298,7 +1298,7 @@
       "suburb": "CARINA HEIGHTS",
       "stats": {
         "totalProperties": 3322,
-        "lastUpdated": "2026-10-24T19:16:34.044Z",
+        "lastUpdated": "2026-10-31T20:25:23.324Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1340,7 +1340,7 @@
       "suburb": "CARINDALE",
       "stats": {
         "totalProperties": 5829,
-        "lastUpdated": "2026-10-24T19:16:33.985Z",
+        "lastUpdated": "2026-10-31T20:25:23.265Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1390,8 +1390,8 @@
     {
       "suburb": "CARSELDINE",
       "stats": {
-        "totalProperties": 4229,
-        "lastUpdated": "2026-10-24T19:16:34.018Z",
+        "totalProperties": 4231,
+        "lastUpdated": "2026-10-31T20:25:23.298Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1400,7 +1400,7 @@
         "schedule": [
           {
             "day": "FRIDAY",
-            "count": 4229,
+            "count": 4231,
             "percentage": 100
           }
         ]
@@ -1409,7 +1409,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 4229,
+            "count": 4231,
             "percentage": 100
           }
         ],
@@ -1433,7 +1433,7 @@
       "suburb": "CHAPEL HILL",
       "stats": {
         "totalProperties": 3857,
-        "lastUpdated": "2026-10-24T19:16:34.031Z",
+        "lastUpdated": "2026-10-31T20:25:23.311Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1474,8 +1474,8 @@
     {
       "suburb": "CHERMSIDE",
       "stats": {
-        "totalProperties": 6400,
-        "lastUpdated": "2026-10-24T19:16:33.980Z",
+        "totalProperties": 6399,
+        "lastUpdated": "2026-10-31T20:25:23.260Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1484,7 +1484,7 @@
         "schedule": [
           {
             "day": "THURSDAY",
-            "count": 6400,
+            "count": 6399,
             "percentage": 100
           }
         ]
@@ -1493,7 +1493,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 6379,
+            "count": 6378,
             "percentage": 99.7
           },
           {
@@ -1526,7 +1526,7 @@
       "suburb": "CHERMSIDE WEST",
       "stats": {
         "totalProperties": 2656,
-        "lastUpdated": "2026-10-24T19:16:34.063Z",
+        "lastUpdated": "2026-10-31T20:25:23.343Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1588,8 +1588,8 @@
     {
       "suburb": "CLAYFIELD",
       "stats": {
-        "totalProperties": 5732,
-        "lastUpdated": "2026-10-24T19:16:33.991Z",
+        "totalProperties": 5736,
+        "lastUpdated": "2026-10-31T20:25:23.270Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1598,7 +1598,7 @@
         "schedule": [
           {
             "day": "WEDNESDAY",
-            "count": 5732,
+            "count": 5736,
             "percentage": 100
           }
         ]
@@ -1607,7 +1607,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 5540,
+            "count": 5544,
             "percentage": 96.7
           },
           {
@@ -1640,7 +1640,7 @@
       "suburb": "COOPERS PLAINS",
       "stats": {
         "totalProperties": 2992,
-        "lastUpdated": "2026-10-24T19:16:34.053Z",
+        "lastUpdated": "2026-10-31T20:25:23.333Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1690,8 +1690,8 @@
     {
       "suburb": "COORPAROO",
       "stats": {
-        "totalProperties": 8940,
-        "lastUpdated": "2026-10-24T19:16:33.954Z",
+        "totalProperties": 8941,
+        "lastUpdated": "2026-10-31T20:25:23.235Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1710,7 +1710,7 @@
           },
           {
             "day": "TUESDAY",
-            "count": 422,
+            "count": 423,
             "percentage": 4.7
           }
         ]
@@ -1719,7 +1719,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 6734,
+            "count": 6735,
             "percentage": 75.3
           },
           {
@@ -1754,7 +1754,7 @@
       "suburb": "CORINDA",
       "stats": {
         "totalProperties": 2217,
-        "lastUpdated": "2026-10-24T19:16:34.071Z",
+        "lastUpdated": "2026-10-31T20:25:23.352Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1801,7 +1801,7 @@
       "suburb": "DARRA",
       "stats": {
         "totalProperties": 2133,
-        "lastUpdated": "2026-10-24T19:16:34.074Z",
+        "lastUpdated": "2026-10-31T20:25:23.355Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1852,7 +1852,7 @@
       "suburb": "DEAGON",
       "stats": {
         "totalProperties": 1731,
-        "lastUpdated": "2026-10-24T19:16:34.080Z",
+        "lastUpdated": "2026-10-31T20:25:23.362Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -1893,23 +1893,23 @@
     {
       "suburb": "DOOLANDELLA",
       "stats": {
-        "totalProperties": 2862,
-        "lastUpdated": "2026-10-24T19:16:34.056Z",
+        "totalProperties": 2885,
+        "lastUpdated": "2026-10-31T20:25:23.337Z",
         "dataCompleteness": 100
       },
       "collection": {
         "primaryDay": "TUESDAY",
-        "dayUniformity": 75.7,
+        "dayUniformity": 75.9,
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 2166,
-            "percentage": 75.7
+            "count": 2189,
+            "percentage": 75.9
           },
           {
             "day": "THURSDAY",
             "count": 696,
-            "percentage": 24.3
+            "percentage": 24.1
           }
         ]
       },
@@ -1917,7 +1917,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 2862,
+            "count": 2885,
             "percentage": 100
           }
         ],
@@ -1928,7 +1928,7 @@
         "level": "low",
         "confidence": 0.5,
         "warnings": [
-          "Multiple collection days detected (75.7% on TUESDAY)"
+          "Multiple collection days detected (75.9% on TUESDAY)"
         ],
         "flags": [
           "MULTIPLE_DAYS"
@@ -1945,7 +1945,7 @@
       "suburb": "DURACK",
       "stats": {
         "totalProperties": 2294,
-        "lastUpdated": "2026-10-24T19:16:34.068Z",
+        "lastUpdated": "2026-10-31T20:25:23.349Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2007,8 +2007,8 @@
     {
       "suburb": "EAST BRISBANE",
       "stats": {
-        "totalProperties": 3236,
-        "lastUpdated": "2026-10-24T19:16:34.047Z",
+        "totalProperties": 3238,
+        "lastUpdated": "2026-10-31T20:25:23.327Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2017,7 +2017,7 @@
         "schedule": [
           {
             "day": "WEDNESDAY",
-            "count": 3235,
+            "count": 3237,
             "percentage": 100
           },
           {
@@ -2031,7 +2031,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 3236,
+            "count": 3238,
             "percentage": 100
           }
         ],
@@ -2055,7 +2055,7 @@
       "suburb": "EIGHT MILE PLAINS",
       "stats": {
         "totalProperties": 5801,
-        "lastUpdated": "2026-10-24T19:16:33.989Z",
+        "lastUpdated": "2026-10-31T20:25:23.268Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2097,7 +2097,7 @@
       "suburb": "ENOGGERA",
       "stats": {
         "totalProperties": 2193,
-        "lastUpdated": "2026-10-24T19:16:34.073Z",
+        "lastUpdated": "2026-10-31T20:25:23.353Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2154,8 +2154,8 @@
     {
       "suburb": "EVERTON PARK",
       "stats": {
-        "totalProperties": 4979,
-        "lastUpdated": "2026-10-24T19:16:34.008Z",
+        "totalProperties": 4980,
+        "lastUpdated": "2026-10-31T20:25:23.288Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2164,7 +2164,7 @@
         "schedule": [
           {
             "day": "MONDAY",
-            "count": 3215,
+            "count": 3216,
             "percentage": 64.6
           },
           {
@@ -2178,7 +2178,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 4908,
+            "count": 4909,
             "percentage": 98.6
           },
           {
@@ -2213,7 +2213,7 @@
       "suburb": "FERNY GROVE",
       "stats": {
         "totalProperties": 2291,
-        "lastUpdated": "2026-10-24T19:16:34.068Z",
+        "lastUpdated": "2026-10-31T20:25:23.349Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2254,8 +2254,8 @@
     {
       "suburb": "FITZGIBBON",
       "stats": {
-        "totalProperties": 2495,
-        "lastUpdated": "2026-10-24T19:16:34.066Z",
+        "totalProperties": 2496,
+        "lastUpdated": "2026-10-31T20:25:23.347Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2264,7 +2264,7 @@
         "schedule": [
           {
             "day": "FRIDAY",
-            "count": 2495,
+            "count": 2496,
             "percentage": 100
           }
         ]
@@ -2273,7 +2273,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 2484,
+            "count": 2485,
             "percentage": 99.6
           },
           {
@@ -2305,8 +2305,8 @@
     {
       "suburb": "FOREST LAKE",
       "stats": {
-        "totalProperties": 8287,
-        "lastUpdated": "2026-10-24T19:16:33.960Z",
+        "totalProperties": 8329,
+        "lastUpdated": "2026-10-31T20:25:23.240Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2315,7 +2315,7 @@
         "schedule": [
           {
             "day": "THURSDAY",
-            "count": 7630,
+            "count": 7672,
             "percentage": 92.1
           },
           {
@@ -2329,7 +2329,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 8287,
+            "count": 8329,
             "percentage": 100
           }
         ],
@@ -2357,7 +2357,7 @@
       "suburb": "FORTITUDE VALLEY",
       "stats": {
         "totalProperties": 6577,
-        "lastUpdated": "2026-10-24T19:16:33.973Z",
+        "lastUpdated": "2026-10-31T20:25:23.252Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2407,8 +2407,8 @@
     {
       "suburb": "GEEBUNG",
       "stats": {
-        "totalProperties": 2601,
-        "lastUpdated": "2026-10-24T19:16:34.065Z",
+        "totalProperties": 2602,
+        "lastUpdated": "2026-10-31T20:25:23.345Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2417,7 +2417,7 @@
         "schedule": [
           {
             "day": "THURSDAY",
-            "count": 2284,
+            "count": 2285,
             "percentage": 87.8
           },
           {
@@ -2436,7 +2436,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 2284,
+            "count": 2285,
             "percentage": 87.8
           },
           {
@@ -2471,7 +2471,7 @@
       "suburb": "GORDON PARK",
       "stats": {
         "totalProperties": 2020,
-        "lastUpdated": "2026-10-24T19:16:34.076Z",
+        "lastUpdated": "2026-10-31T20:25:23.357Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2513,7 +2513,7 @@
       "suburb": "GRACEVILLE",
       "stats": {
         "totalProperties": 1828,
-        "lastUpdated": "2026-10-24T19:16:34.078Z",
+        "lastUpdated": "2026-10-31T20:25:23.359Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2564,7 +2564,7 @@
       "suburb": "GRANGE",
       "stats": {
         "totalProperties": 1732,
-        "lastUpdated": "2026-10-24T19:16:34.080Z",
+        "lastUpdated": "2026-10-31T20:25:23.361Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2619,8 +2619,8 @@
     {
       "suburb": "GREENSLOPES",
       "stats": {
-        "totalProperties": 3885,
-        "lastUpdated": "2026-10-24T19:16:34.029Z",
+        "totalProperties": 3886,
+        "lastUpdated": "2026-10-31T20:25:23.309Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2629,7 +2629,7 @@
         "schedule": [
           {
             "day": "THURSDAY",
-            "count": 3885,
+            "count": 3886,
             "percentage": 100
           }
         ]
@@ -2638,7 +2638,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 3110,
+            "count": 3111,
             "percentage": 80.1
           },
           {
@@ -2671,7 +2671,7 @@
       "suburb": "HAMILTON",
       "stats": {
         "totalProperties": 5671,
-        "lastUpdated": "2026-10-24T19:16:33.992Z",
+        "lastUpdated": "2026-10-31T20:25:23.272Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2713,7 +2713,7 @@
       "suburb": "HAWTHORNE",
       "stats": {
         "totalProperties": 2282,
-        "lastUpdated": "2026-10-24T19:16:34.069Z",
+        "lastUpdated": "2026-10-31T20:25:23.350Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2755,7 +2755,7 @@
       "suburb": "HEATHWOOD",
       "stats": {
         "totalProperties": 1930,
-        "lastUpdated": "2026-10-24T19:16:34.077Z",
+        "lastUpdated": "2026-10-31T20:25:23.358Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2797,7 +2797,7 @@
       "suburb": "HENDRA",
       "stats": {
         "totalProperties": 2100,
-        "lastUpdated": "2026-10-24T19:16:34.074Z",
+        "lastUpdated": "2026-10-31T20:25:23.355Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2848,7 +2848,7 @@
       "suburb": "HIGHGATE HILL",
       "stats": {
         "totalProperties": 2383,
-        "lastUpdated": "2026-10-24T19:16:34.067Z",
+        "lastUpdated": "2026-10-31T20:25:23.348Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2890,7 +2890,7 @@
       "suburb": "HOLLAND PARK",
       "stats": {
         "totalProperties": 3173,
-        "lastUpdated": "2026-10-24T19:16:34.050Z",
+        "lastUpdated": "2026-10-31T20:25:23.330Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2941,7 +2941,7 @@
       "suburb": "HOLLAND PARK WEST",
       "stats": {
         "totalProperties": 2824,
-        "lastUpdated": "2026-10-24T19:16:34.059Z",
+        "lastUpdated": "2026-10-31T20:25:23.340Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -2954,12 +2954,12 @@
             "percentage": 99.9
           },
           {
-            "day": "FRIDAY",
+            "day": "WEDNESDAY",
             "count": 1,
             "percentage": 0
           },
           {
-            "day": "WEDNESDAY",
+            "day": "FRIDAY",
             "count": 1,
             "percentage": 0
           }
@@ -3001,8 +3001,8 @@
     {
       "suburb": "INALA",
       "stats": {
-        "totalProperties": 5065,
-        "lastUpdated": "2026-10-24T19:16:34.004Z",
+        "totalProperties": 5066,
+        "lastUpdated": "2026-10-31T20:25:23.284Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3011,7 +3011,7 @@
         "schedule": [
           {
             "day": "THURSDAY",
-            "count": 3007,
+            "count": 3008,
             "percentage": 59.4
           },
           {
@@ -3025,7 +3025,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 3007,
+            "count": 3008,
             "percentage": 59.4
           },
           {
@@ -3059,8 +3059,8 @@
     {
       "suburb": "INDOOROOPILLY",
       "stats": {
-        "totalProperties": 6416,
-        "lastUpdated": "2026-10-24T19:16:33.976Z",
+        "totalProperties": 6412,
+        "lastUpdated": "2026-10-31T20:25:23.259Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3069,7 +3069,7 @@
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 3703,
+            "count": 3699,
             "percentage": 57.7
           },
           {
@@ -3083,7 +3083,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 6416,
+            "count": 6412,
             "percentage": 100
           }
         ],
@@ -3111,7 +3111,7 @@
       "suburb": "JINDALEE",
       "stats": {
         "totalProperties": 2025,
-        "lastUpdated": "2026-10-24T19:16:34.075Z",
+        "lastUpdated": "2026-10-31T20:25:23.357Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3152,8 +3152,8 @@
     {
       "suburb": "KANGAROO POINT",
       "stats": {
-        "totalProperties": 5815,
-        "lastUpdated": "2026-10-24T19:16:33.987Z",
+        "totalProperties": 5817,
+        "lastUpdated": "2026-10-31T20:25:23.266Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3162,7 +3162,7 @@
         "schedule": [
           {
             "day": "WEDNESDAY",
-            "count": 5815,
+            "count": 5817,
             "percentage": 100
           }
         ]
@@ -3171,7 +3171,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 5815,
+            "count": 5817,
             "percentage": 100
           }
         ],
@@ -3194,8 +3194,8 @@
     {
       "suburb": "KEDRON",
       "stats": {
-        "totalProperties": 4409,
-        "lastUpdated": "2026-10-24T19:16:34.016Z",
+        "totalProperties": 4411,
+        "lastUpdated": "2026-10-31T20:25:23.296Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3204,7 +3204,7 @@
         "schedule": [
           {
             "day": "THURSDAY",
-            "count": 3509,
+            "count": 3511,
             "percentage": 79.6
           },
           {
@@ -3218,12 +3218,12 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 3078,
+            "count": 3079,
             "percentage": 69.8
           },
           {
             "zone": "ZONE 1",
-            "count": 1331,
+            "count": 1332,
             "percentage": 30.2
           }
         ],
@@ -3253,7 +3253,7 @@
       "suburb": "KELVIN GROVE",
       "stats": {
         "totalProperties": 3566,
-        "lastUpdated": "2026-10-24T19:16:34.039Z",
+        "lastUpdated": "2026-10-31T20:25:23.319Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3304,7 +3304,7 @@
       "suburb": "KENMORE",
       "stats": {
         "totalProperties": 4087,
-        "lastUpdated": "2026-10-24T19:16:34.022Z",
+        "lastUpdated": "2026-10-31T20:25:23.302Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3354,8 +3354,8 @@
     {
       "suburb": "KEPERRA",
       "stats": {
-        "totalProperties": 2946,
-        "lastUpdated": "2026-10-24T19:16:34.054Z",
+        "totalProperties": 2944,
+        "lastUpdated": "2026-10-31T20:25:23.336Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3364,7 +3364,7 @@
         "schedule": [
           {
             "day": "MONDAY",
-            "count": 2946,
+            "count": 2944,
             "percentage": 100
           }
         ]
@@ -3373,7 +3373,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 2946,
+            "count": 2944,
             "percentage": 100
           }
         ],
@@ -3397,7 +3397,7 @@
       "suburb": "KURABY",
       "stats": {
         "totalProperties": 2887,
-        "lastUpdated": "2026-10-24T19:16:34.056Z",
+        "lastUpdated": "2026-10-31T20:25:23.336Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3438,8 +3438,8 @@
     {
       "suburb": "LUTWYCHE",
       "stats": {
-        "totalProperties": 2663,
-        "lastUpdated": "2026-10-24T19:16:34.062Z",
+        "totalProperties": 2662,
+        "lastUpdated": "2026-10-31T20:25:23.343Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3453,7 +3453,7 @@
           },
           {
             "day": "THURSDAY",
-            "count": 1033,
+            "count": 1032,
             "percentage": 38.8
           },
           {
@@ -3467,7 +3467,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 2619,
+            "count": 2618,
             "percentage": 98.3
           },
           {
@@ -3502,7 +3502,7 @@
       "suburb": "MACGREGOR",
       "stats": {
         "totalProperties": 2203,
-        "lastUpdated": "2026-10-24T19:16:34.072Z",
+        "lastUpdated": "2026-10-31T20:25:23.353Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3553,7 +3553,7 @@
       "suburb": "MANLY",
       "stats": {
         "totalProperties": 1898,
-        "lastUpdated": "2026-10-24T19:16:34.078Z",
+        "lastUpdated": "2026-10-31T20:25:23.359Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3595,7 +3595,7 @@
       "suburb": "MANLY WEST",
       "stats": {
         "totalProperties": 4699,
-        "lastUpdated": "2026-10-24T19:16:34.010Z",
+        "lastUpdated": "2026-10-31T20:25:23.292Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3636,23 +3636,23 @@
     {
       "suburb": "MANSFIELD",
       "stats": {
-        "totalProperties": 3402,
-        "lastUpdated": "2026-10-24T19:16:34.042Z",
+        "totalProperties": 3403,
+        "lastUpdated": "2026-10-31T20:25:23.322Z",
         "dataCompleteness": 100
       },
       "collection": {
         "primaryDay": "WEDNESDAY",
-        "dayUniformity": 62.6,
+        "dayUniformity": 62.7,
         "schedule": [
           {
             "day": "WEDNESDAY",
-            "count": 2131,
-            "percentage": 62.6
+            "count": 2132,
+            "percentage": 62.7
           },
           {
             "day": "FRIDAY",
             "count": 1271,
-            "percentage": 37.4
+            "percentage": 37.3
           }
         ]
       },
@@ -3660,7 +3660,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 3402,
+            "count": 3403,
             "percentage": 100
           }
         ],
@@ -3671,7 +3671,7 @@
         "level": "low",
         "confidence": 0.5,
         "warnings": [
-          "Multiple collection days detected (62.6% on WEDNESDAY)"
+          "Multiple collection days detected (62.7% on WEDNESDAY)"
         ],
         "flags": [
           "MULTIPLE_DAYS"
@@ -3687,8 +3687,8 @@
     {
       "suburb": "MCDOWALL",
       "stats": {
-        "totalProperties": 3286,
-        "lastUpdated": "2026-10-24T19:16:34.045Z",
+        "totalProperties": 3285,
+        "lastUpdated": "2026-10-31T20:25:23.325Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3697,7 +3697,7 @@
         "schedule": [
           {
             "day": "MONDAY",
-            "count": 2718,
+            "count": 2717,
             "percentage": 82.7
           },
           {
@@ -3711,7 +3711,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 2482,
+            "count": 2481,
             "percentage": 75.5
           },
           {
@@ -3746,7 +3746,7 @@
       "suburb": "MILTON",
       "stats": {
         "totalProperties": 2616,
-        "lastUpdated": "2026-10-24T19:16:34.064Z",
+        "lastUpdated": "2026-10-31T20:25:23.345Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3788,7 +3788,7 @@
       "suburb": "MITCHELTON",
       "stats": {
         "totalProperties": 3822,
-        "lastUpdated": "2026-10-24T19:16:34.034Z",
+        "lastUpdated": "2026-10-31T20:25:23.314Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3838,8 +3838,8 @@
     {
       "suburb": "MOGGILL",
       "stats": {
-        "totalProperties": 2023,
-        "lastUpdated": "2026-10-24T19:16:34.076Z",
+        "totalProperties": 2026,
+        "lastUpdated": "2026-10-31T20:25:23.356Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3848,7 +3848,7 @@
         "schedule": [
           {
             "day": "MONDAY",
-            "count": 2023,
+            "count": 2026,
             "percentage": 100
           }
         ]
@@ -3857,7 +3857,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 2023,
+            "count": 2026,
             "percentage": 100
           }
         ],
@@ -3880,8 +3880,8 @@
     {
       "suburb": "MOOROOKA",
       "stats": {
-        "totalProperties": 4991,
-        "lastUpdated": "2026-10-24T19:16:34.006Z",
+        "totalProperties": 4992,
+        "lastUpdated": "2026-10-31T20:25:23.286Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3890,7 +3890,7 @@
         "schedule": [
           {
             "day": "FRIDAY",
-            "count": 4883,
+            "count": 4884,
             "percentage": 97.8
           },
           {
@@ -3904,7 +3904,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 4883,
+            "count": 4884,
             "percentage": 97.8
           },
           {
@@ -3936,8 +3936,8 @@
     {
       "suburb": "MORNINGSIDE",
       "stats": {
-        "totalProperties": 5890,
-        "lastUpdated": "2026-10-24T19:16:33.984Z",
+        "totalProperties": 5891,
+        "lastUpdated": "2026-10-31T20:25:23.263Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -3946,7 +3946,7 @@
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 5890,
+            "count": 5891,
             "percentage": 100
           }
         ]
@@ -3955,7 +3955,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 4262,
+            "count": 4263,
             "percentage": 72.4
           },
           {
@@ -3987,8 +3987,8 @@
     {
       "suburb": "MOUNT GRAVATT EAST",
       "stats": {
-        "totalProperties": 5134,
-        "lastUpdated": "2026-10-24T19:16:34.000Z",
+        "totalProperties": 5135,
+        "lastUpdated": "2026-10-31T20:25:23.280Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4002,7 +4002,7 @@
           },
           {
             "day": "WEDNESDAY",
-            "count": 1813,
+            "count": 1814,
             "percentage": 35.3
           },
           {
@@ -4016,7 +4016,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 5134,
+            "count": 5135,
             "percentage": 100
           }
         ],
@@ -4044,7 +4044,7 @@
       "suburb": "MURARRIE",
       "stats": {
         "totalProperties": 2620,
-        "lastUpdated": "2026-10-24T19:16:34.063Z",
+        "lastUpdated": "2026-10-31T20:25:23.344Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4106,8 +4106,8 @@
     {
       "suburb": "NEW FARM",
       "stats": {
-        "totalProperties": 6340,
-        "lastUpdated": "2026-10-24T19:16:33.982Z",
+        "totalProperties": 6347,
+        "lastUpdated": "2026-10-31T20:25:23.262Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4116,7 +4116,7 @@
         "schedule": [
           {
             "day": "WEDNESDAY",
-            "count": 6340,
+            "count": 6347,
             "percentage": 100
           }
         ]
@@ -4125,7 +4125,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 6340,
+            "count": 6347,
             "percentage": 100
           }
         ],
@@ -4149,7 +4149,7 @@
       "suburb": "NEWMARKET",
       "stats": {
         "totalProperties": 2141,
-        "lastUpdated": "2026-10-24T19:16:34.073Z",
+        "lastUpdated": "2026-10-31T20:25:23.354Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4212,7 +4212,7 @@
       "suburb": "NEWSTEAD",
       "stats": {
         "totalProperties": 5637,
-        "lastUpdated": "2026-10-24T19:16:33.993Z",
+        "lastUpdated": "2026-10-31T20:25:23.273Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4253,8 +4253,8 @@
     {
       "suburb": "NORMAN PARK",
       "stats": {
-        "totalProperties": 2826,
-        "lastUpdated": "2026-10-24T19:16:34.059Z",
+        "totalProperties": 2828,
+        "lastUpdated": "2026-10-31T20:25:23.339Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4263,7 +4263,7 @@
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 2826,
+            "count": 2828,
             "percentage": 100
           }
         ]
@@ -4272,7 +4272,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 2769,
+            "count": 2771,
             "percentage": 98
           },
           {
@@ -4304,8 +4304,8 @@
     {
       "suburb": "NORTHGATE",
       "stats": {
-        "totalProperties": 2519,
-        "lastUpdated": "2026-10-24T19:16:34.065Z",
+        "totalProperties": 2520,
+        "lastUpdated": "2026-10-31T20:25:23.346Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4314,7 +4314,7 @@
         "schedule": [
           {
             "day": "THURSDAY",
-            "count": 2519,
+            "count": 2520,
             "percentage": 100
           }
         ]
@@ -4323,7 +4323,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 2472,
+            "count": 2473,
             "percentage": 98.1
           },
           {
@@ -4356,7 +4356,7 @@
       "suburb": "NUDGEE",
       "stats": {
         "totalProperties": 1823,
-        "lastUpdated": "2026-10-24T19:16:34.079Z",
+        "lastUpdated": "2026-10-31T20:25:23.360Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4406,8 +4406,8 @@
     {
       "suburb": "NUNDAH",
       "stats": {
-        "totalProperties": 7270,
-        "lastUpdated": "2026-10-24T19:16:33.962Z",
+        "totalProperties": 7271,
+        "lastUpdated": "2026-10-31T20:25:23.243Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4416,7 +4416,7 @@
         "schedule": [
           {
             "day": "THURSDAY",
-            "count": 4586,
+            "count": 4587,
             "percentage": 63.1
           },
           {
@@ -4430,7 +4430,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 7270,
+            "count": 7271,
             "percentage": 100
           }
         ],
@@ -4457,8 +4457,8 @@
     {
       "suburb": "OXLEY",
       "stats": {
-        "totalProperties": 3971,
-        "lastUpdated": "2026-10-24T19:16:34.026Z",
+        "totalProperties": 3978,
+        "lastUpdated": "2026-10-31T20:25:23.306Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4467,7 +4467,7 @@
         "schedule": [
           {
             "day": "WEDNESDAY",
-            "count": 3967,
+            "count": 3974,
             "percentage": 99.9
           },
           {
@@ -4481,7 +4481,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 3850,
+            "count": 3857,
             "percentage": 97
           },
           {
@@ -4513,8 +4513,8 @@
     {
       "suburb": "PADDINGTON",
       "stats": {
-        "totalProperties": 4236,
-        "lastUpdated": "2026-10-24T19:16:34.017Z",
+        "totalProperties": 4237,
+        "lastUpdated": "2026-10-31T20:25:23.297Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4523,7 +4523,7 @@
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 4236,
+            "count": 4237,
             "percentage": 100
           }
         ]
@@ -4537,7 +4537,7 @@
           },
           {
             "zone": "ZONE 2",
-            "count": 1550,
+            "count": 1551,
             "percentage": 36.6
           }
         ],
@@ -4564,8 +4564,8 @@
     {
       "suburb": "PALLARA",
       "stats": {
-        "totalProperties": 3232,
-        "lastUpdated": "2026-10-24T19:16:34.047Z",
+        "totalProperties": 3263,
+        "lastUpdated": "2026-10-31T20:25:23.326Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4574,7 +4574,7 @@
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 3232,
+            "count": 3263,
             "percentage": 100
           }
         ]
@@ -4583,7 +4583,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 3232,
+            "count": 3263,
             "percentage": 100
           }
         ],
@@ -4607,7 +4607,7 @@
       "suburb": "PARKINSON",
       "stats": {
         "totalProperties": 3922,
-        "lastUpdated": "2026-10-24T19:16:34.028Z",
+        "lastUpdated": "2026-10-31T20:25:23.308Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4621,13 +4621,8 @@
           },
           {
             "day": "THURSDAY",
-            "count": 872,
-            "percentage": 22.2
-          },
-          {
-            "day": "TUESDAY",
-            "count": 1,
-            "percentage": 0
+            "count": 873,
+            "percentage": 22.3
           }
         ]
       },
@@ -4635,24 +4630,24 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 2992,
-            "percentage": 76.3
+            "count": 3048,
+            "percentage": 77.7
           },
           {
             "zone": "ZONE 2",
-            "count": 930,
-            "percentage": 23.7
+            "count": 874,
+            "percentage": 22.3
           }
         ],
         "primaryZone": "ZONE 1",
-        "zoneUniformity": 76.3
+        "zoneUniformity": 77.7
       },
       "dataQuality": {
         "level": "low",
-        "confidence": 0.38,
+        "confidence": 0.39,
         "warnings": [
           "Multiple collection days detected (77.7% on FRIDAY)",
-          "Mixed zones with low uniformity (2 zones, 76.3% in primary)"
+          "Mixed zones with low uniformity (2 zones, 77.7% in primary)"
         ],
         "flags": [
           "MULTIPLE_DAYS",
@@ -4663,14 +4658,14 @@
         "source": "estimated",
         "confidence": 0.3,
         "pattern": "MIXED",
-        "notes": "Multiple zones with no clear majority (ZONE 1: 76.3%, ZONE 2: 23.7%)"
+        "notes": "Multiple zones with no clear majority (ZONE 1: 77.7%, ZONE 2: 22.3%)"
       }
     },
     {
       "suburb": "RED HILL",
       "stats": {
-        "totalProperties": 2387,
-        "lastUpdated": "2026-10-24T19:16:34.066Z",
+        "totalProperties": 2389,
+        "lastUpdated": "2026-10-31T20:25:23.347Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4679,7 +4674,7 @@
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 2387,
+            "count": 2389,
             "percentage": 100
           }
         ]
@@ -4693,7 +4688,7 @@
           },
           {
             "zone": "ZONE 1",
-            "count": 897,
+            "count": 899,
             "percentage": 37.6
           }
         ],
@@ -4721,7 +4716,7 @@
       "suburb": "RICHLANDS",
       "stats": {
         "totalProperties": 2804,
-        "lastUpdated": "2026-10-24T19:16:34.061Z",
+        "lastUpdated": "2026-10-31T20:25:23.341Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4778,8 +4773,8 @@
     {
       "suburb": "ROCHEDALE",
       "stats": {
-        "totalProperties": 4083,
-        "lastUpdated": "2026-10-24T19:16:34.023Z",
+        "totalProperties": 4086,
+        "lastUpdated": "2026-10-31T20:25:23.303Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4788,7 +4783,7 @@
         "schedule": [
           {
             "day": "FRIDAY",
-            "count": 4083,
+            "count": 4086,
             "percentage": 100
           }
         ]
@@ -4797,7 +4792,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 4083,
+            "count": 4086,
             "percentage": 100
           }
         ],
@@ -4820,8 +4815,8 @@
     {
       "suburb": "RUNCORN",
       "stats": {
-        "totalProperties": 5563,
-        "lastUpdated": "2026-10-24T19:16:33.995Z",
+        "totalProperties": 5566,
+        "lastUpdated": "2026-10-31T20:25:23.275Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4830,7 +4825,7 @@
         "schedule": [
           {
             "day": "FRIDAY",
-            "count": 5563,
+            "count": 5566,
             "percentage": 100
           }
         ]
@@ -4839,7 +4834,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 4043,
+            "count": 4046,
             "percentage": 72.7
           },
           {
@@ -4872,7 +4867,7 @@
       "suburb": "SALISBURY",
       "stats": {
         "totalProperties": 2958,
-        "lastUpdated": "2026-10-24T19:16:34.053Z",
+        "lastUpdated": "2026-10-31T20:25:23.335Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4928,7 +4923,7 @@
       "suburb": "SANDGATE",
       "stats": {
         "totalProperties": 1957,
-        "lastUpdated": "2026-10-24T19:16:34.077Z",
+        "lastUpdated": "2026-10-31T20:25:23.358Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -4970,7 +4965,7 @@
       "suburb": "SHERWOOD",
       "stats": {
         "totalProperties": 2841,
-        "lastUpdated": "2026-10-24T19:16:34.058Z",
+        "lastUpdated": "2026-10-31T20:25:23.338Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5012,7 +5007,7 @@
       "suburb": "SINNAMON PARK",
       "stats": {
         "totalProperties": 2267,
-        "lastUpdated": "2026-10-24T19:16:34.070Z",
+        "lastUpdated": "2026-10-31T20:25:23.351Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5053,8 +5048,8 @@
     {
       "suburb": "SOUTH BRISBANE",
       "stats": {
-        "totalProperties": 9255,
-        "lastUpdated": "2026-10-24T19:16:33.950Z",
+        "totalProperties": 9258,
+        "lastUpdated": "2026-10-31T20:25:23.230Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5063,7 +5058,7 @@
         "schedule": [
           {
             "day": "THURSDAY",
-            "count": 9255,
+            "count": 9258,
             "percentage": 100
           }
         ]
@@ -5072,7 +5067,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 9255,
+            "count": 9258,
             "percentage": 100
           }
         ],
@@ -5096,7 +5091,7 @@
       "suburb": "SPRING HILL",
       "stats": {
         "totalProperties": 4188,
-        "lastUpdated": "2026-10-24T19:16:34.020Z",
+        "lastUpdated": "2026-10-31T20:25:23.300Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5138,7 +5133,7 @@
       "suburb": "ST LUCIA",
       "stats": {
         "totalProperties": 5105,
-        "lastUpdated": "2026-10-24T19:16:34.001Z",
+        "lastUpdated": "2026-10-31T20:25:23.283Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5179,8 +5174,8 @@
     {
       "suburb": "STAFFORD",
       "stats": {
-        "totalProperties": 3424,
-        "lastUpdated": "2026-10-24T19:16:34.041Z",
+        "totalProperties": 3429,
+        "lastUpdated": "2026-10-31T20:25:23.322Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5189,7 +5184,7 @@
         "schedule": [
           {
             "day": "THURSDAY",
-            "count": 3424,
+            "count": 3429,
             "percentage": 100
           }
         ]
@@ -5203,7 +5198,7 @@
           },
           {
             "zone": "ZONE 2",
-            "count": 1166,
+            "count": 1171,
             "percentage": 34.1
           }
         ],
@@ -5231,7 +5226,7 @@
       "suburb": "STAFFORD HEIGHTS",
       "stats": {
         "totalProperties": 2817,
-        "lastUpdated": "2026-10-24T19:16:34.060Z",
+        "lastUpdated": "2026-10-31T20:25:23.340Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5281,8 +5276,8 @@
     {
       "suburb": "SUNNYBANK",
       "stats": {
-        "totalProperties": 3636,
-        "lastUpdated": "2026-10-24T19:16:34.037Z",
+        "totalProperties": 3635,
+        "lastUpdated": "2026-10-31T20:25:23.317Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5291,7 +5286,7 @@
         "schedule": [
           {
             "day": "FRIDAY",
-            "count": 3636,
+            "count": 3635,
             "percentage": 100
           }
         ]
@@ -5300,7 +5295,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 3635,
+            "count": 3634,
             "percentage": 100
           },
           {
@@ -5333,7 +5328,7 @@
       "suburb": "SUNNYBANK HILLS",
       "stats": {
         "totalProperties": 6416,
-        "lastUpdated": "2026-10-24T19:16:33.978Z",
+        "lastUpdated": "2026-10-31T20:25:23.256Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5342,12 +5337,12 @@
         "schedule": [
           {
             "day": "FRIDAY",
-            "count": 4044,
+            "count": 4045,
             "percentage": 63
           },
           {
             "day": "THURSDAY",
-            "count": 2372,
+            "count": 2371,
             "percentage": 37
           }
         ]
@@ -5356,12 +5351,12 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 4015,
+            "count": 4016,
             "percentage": 62.6
           },
           {
             "zone": "ZONE 2",
-            "count": 2401,
+            "count": 2400,
             "percentage": 37.4
           }
         ],
@@ -5391,7 +5386,7 @@
       "suburb": "TAIGUM",
       "stats": {
         "totalProperties": 3191,
-        "lastUpdated": "2026-10-24T19:16:34.049Z",
+        "lastUpdated": "2026-10-31T20:25:23.329Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5441,8 +5436,8 @@
     {
       "suburb": "TARINGA",
       "stats": {
-        "totalProperties": 4555,
-        "lastUpdated": "2026-10-24T19:16:34.014Z",
+        "totalProperties": 4562,
+        "lastUpdated": "2026-10-31T20:25:23.294Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5451,7 +5446,7 @@
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 4448,
+            "count": 4455,
             "percentage": 97.7
           },
           {
@@ -5465,7 +5460,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 3667,
+            "count": 3674,
             "percentage": 80.5
           },
           {
@@ -5497,18 +5492,18 @@
     {
       "suburb": "TARRAGINDI",
       "stats": {
-        "totalProperties": 4204,
-        "lastUpdated": "2026-10-24T19:16:34.019Z",
+        "totalProperties": 4207,
+        "lastUpdated": "2026-10-31T20:25:23.299Z",
         "dataCompleteness": 100
       },
       "collection": {
         "primaryDay": "FRIDAY",
-        "dayUniformity": 73.3,
+        "dayUniformity": 73.4,
         "schedule": [
           {
             "day": "FRIDAY",
-            "count": 3083,
-            "percentage": 73.3
+            "count": 3086,
+            "percentage": 73.4
           },
           {
             "day": "THURSDAY",
@@ -5526,7 +5521,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 4204,
+            "count": 4207,
             "percentage": 100
           }
         ],
@@ -5537,7 +5532,7 @@
         "level": "low",
         "confidence": 0.5,
         "warnings": [
-          "Multiple collection days detected (73.3% on FRIDAY)"
+          "Multiple collection days detected (73.4% on FRIDAY)"
         ],
         "flags": [
           "MULTIPLE_DAYS"
@@ -5554,7 +5549,7 @@
       "suburb": "TENERIFFE",
       "stats": {
         "totalProperties": 3095,
-        "lastUpdated": "2026-10-24T19:16:34.052Z",
+        "lastUpdated": "2026-10-31T20:25:23.332Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5596,7 +5591,7 @@
       "suburb": "THE GAP",
       "stats": {
         "totalProperties": 6707,
-        "lastUpdated": "2026-10-24T19:16:33.969Z",
+        "lastUpdated": "2026-10-31T20:25:23.248Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5652,7 +5647,7 @@
       "suburb": "TINGALPA",
       "stats": {
         "totalProperties": 3843,
-        "lastUpdated": "2026-10-24T19:16:34.032Z",
+        "lastUpdated": "2026-10-31T20:25:23.312Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5710,7 +5705,7 @@
       "suburb": "TOOWONG",
       "stats": {
         "totalProperties": 6912,
-        "lastUpdated": "2026-10-24T19:16:33.964Z",
+        "lastUpdated": "2026-10-31T20:25:23.245Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5766,7 +5761,7 @@
       "suburb": "UPPER KEDRON",
       "stats": {
         "totalProperties": 2264,
-        "lastUpdated": "2026-10-24T19:16:34.071Z",
+        "lastUpdated": "2026-10-31T20:25:23.352Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5816,8 +5811,8 @@
     {
       "suburb": "UPPER MOUNT GRAVATT",
       "stats": {
-        "totalProperties": 4668,
-        "lastUpdated": "2026-10-24T19:16:34.011Z",
+        "totalProperties": 4805,
+        "lastUpdated": "2026-10-31T20:25:23.290Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5826,7 +5821,7 @@
         "schedule": [
           {
             "day": "FRIDAY",
-            "count": 4668,
+            "count": 4805,
             "percentage": 100
           }
         ]
@@ -5835,7 +5830,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 4668,
+            "count": 4805,
             "percentage": 100
           }
         ],
@@ -5859,7 +5854,7 @@
       "suburb": "WAKERLEY",
       "stats": {
         "totalProperties": 3113,
-        "lastUpdated": "2026-10-24T19:16:34.050Z",
+        "lastUpdated": "2026-10-31T20:25:23.331Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5910,7 +5905,7 @@
       "suburb": "WAVELL HEIGHTS",
       "stats": {
         "totalProperties": 4137,
-        "lastUpdated": "2026-10-24T19:16:34.021Z",
+        "lastUpdated": "2026-10-31T20:25:23.301Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5967,8 +5962,8 @@
     {
       "suburb": "WEST END",
       "stats": {
-        "totalProperties": 8485,
-        "lastUpdated": "2026-10-24T19:16:33.958Z",
+        "totalProperties": 8576,
+        "lastUpdated": "2026-10-31T20:25:23.238Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -5977,7 +5972,7 @@
         "schedule": [
           {
             "day": "THURSDAY",
-            "count": 8485,
+            "count": 8576,
             "percentage": 100
           }
         ]
@@ -5986,7 +5981,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 8485,
+            "count": 8576,
             "percentage": 100
           }
         ],
@@ -6009,8 +6004,8 @@
     {
       "suburb": "WINDSOR",
       "stats": {
-        "totalProperties": 3709,
-        "lastUpdated": "2026-10-24T19:16:34.036Z",
+        "totalProperties": 3707,
+        "lastUpdated": "2026-10-31T20:25:23.316Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6019,13 +6014,13 @@
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 2217,
+            "count": 2218,
             "percentage": 59.8
           },
           {
             "day": "WEDNESDAY",
-            "count": 1360,
-            "percentage": 36.7
+            "count": 1357,
+            "percentage": 36.6
           },
           {
             "day": "THURSDAY",
@@ -6038,12 +6033,12 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 2217,
+            "count": 2218,
             "percentage": 59.8
           },
           {
             "zone": "ZONE 2",
-            "count": 1492,
+            "count": 1489,
             "percentage": 40.2
           }
         ],
@@ -6073,7 +6068,7 @@
       "suburb": "WISHART",
       "stats": {
         "totalProperties": 3823,
-        "lastUpdated": "2026-10-24T19:16:34.033Z",
+        "lastUpdated": "2026-10-31T20:25:23.313Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6115,7 +6110,7 @@
       "suburb": "WOOLLOONGABBA",
       "stats": {
         "totalProperties": 4658,
-        "lastUpdated": "2026-10-24T19:16:34.013Z",
+        "lastUpdated": "2026-10-31T20:25:23.293Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6173,7 +6168,7 @@
       "suburb": "WOOLOOWIN",
       "stats": {
         "totalProperties": 1807,
-        "lastUpdated": "2026-10-24T19:16:34.079Z",
+        "lastUpdated": "2026-10-31T20:25:23.361Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6230,8 +6225,8 @@
     {
       "suburb": "WYNNUM",
       "stats": {
-        "totalProperties": 6509,
-        "lastUpdated": "2026-10-24T19:16:33.975Z",
+        "totalProperties": 6511,
+        "lastUpdated": "2026-10-31T20:25:23.254Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6240,7 +6235,7 @@
         "schedule": [
           {
             "day": "MONDAY",
-            "count": 6509,
+            "count": 6511,
             "percentage": 100
           }
         ]
@@ -6249,7 +6244,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 5634,
+            "count": 5636,
             "percentage": 86.6
           },
           {
@@ -6281,8 +6276,8 @@
     {
       "suburb": "WYNNUM WEST",
       "stats": {
-        "totalProperties": 5105,
-        "lastUpdated": "2026-10-24T19:16:34.003Z",
+        "totalProperties": 5125,
+        "lastUpdated": "2026-10-31T20:25:23.281Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6291,7 +6286,7 @@
         "schedule": [
           {
             "day": "MONDAY",
-            "count": 5105,
+            "count": 5125,
             "percentage": 100
           }
         ]
@@ -6300,7 +6295,7 @@
         "distribution": [
           {
             "zone": "ZONE 1",
-            "count": 5090,
+            "count": 5110,
             "percentage": 99.7
           },
           {
@@ -6332,8 +6327,8 @@
     {
       "suburb": "YERONGA",
       "stats": {
-        "totalProperties": 3204,
-        "lastUpdated": "2026-10-24T19:16:34.048Z",
+        "totalProperties": 3208,
+        "lastUpdated": "2026-10-31T20:25:23.328Z",
         "dataCompleteness": 100
       },
       "collection": {
@@ -6342,7 +6337,7 @@
         "schedule": [
           {
             "day": "TUESDAY",
-            "count": 3204,
+            "count": 3208,
             "percentage": 100
           }
         ]
@@ -6351,7 +6346,7 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 3204,
+            "count": 3208,
             "percentage": 100
           }
         ],
@@ -6374,23 +6369,23 @@
     {
       "suburb": "ZILLMERE",
       "stats": {
-        "totalProperties": 4053,
-        "lastUpdated": "2026-10-24T19:16:34.024Z",
+        "totalProperties": 4057,
+        "lastUpdated": "2026-10-31T20:25:23.304Z",
         "dataCompleteness": 100
       },
       "collection": {
         "primaryDay": "FRIDAY",
-        "dayUniformity": 76.5,
+        "dayUniformity": 76.4,
         "schedule": [
           {
             "day": "FRIDAY",
-            "count": 3101,
-            "percentage": 76.5
+            "count": 3100,
+            "percentage": 76.4
           },
           {
             "day": "WEDNESDAY",
-            "count": 952,
-            "percentage": 23.5
+            "count": 957,
+            "percentage": 23.6
           }
         ]
       },
@@ -6398,24 +6393,24 @@
         "distribution": [
           {
             "zone": "ZONE 2",
-            "count": 3101,
-            "percentage": 76.5
+            "count": 3100,
+            "percentage": 76.4
           },
           {
             "zone": "ZONE 1",
-            "count": 952,
-            "percentage": 23.5
+            "count": 957,
+            "percentage": 23.6
           }
         ],
         "primaryZone": "ZONE 2",
-        "zoneUniformity": 76.5
+        "zoneUniformity": 76.4
       },
       "dataQuality": {
         "level": "low",
         "confidence": 0.38,
         "warnings": [
-          "Multiple collection days detected (76.5% on FRIDAY)",
-          "Mixed zones with low uniformity (2 zones, 76.5% in primary)"
+          "Multiple collection days detected (76.4% on FRIDAY)",
+          "Mixed zones with low uniformity (2 zones, 76.4% in primary)"
         ],
         "flags": [
           "MULTIPLE_DAYS",
@@ -6426,7 +6421,7 @@
         "source": "estimated",
         "confidence": 0.3,
         "pattern": "MIXED",
-        "notes": "Multiple zones with no clear majority (ZONE 2: 76.5%, ZONE 1: 23.5%)"
+        "notes": "Multiple zones with no clear majority (ZONE 2: 76.4%, ZONE 1: 23.6%)"
       }
     }
   ]
